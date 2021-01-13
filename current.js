@@ -1733,8 +1733,10 @@
             stickersListPaddingRight: "0",
             stickersListPaddingBottom: "0",
             stickersListPaddingLeft: "8px",
+            stickersListDividerHeight: "30px",
             stickersShopListSectionHeadingHeight: "66px",
-            stickersShopListSectionHeadingDividerHeight: "30px",
+            stickersShopDividerBorderTopWidth: "1px",
+            stickersShopDividerHeight: "1px",
             stickersShopListSectionFooterHeight: "32px",
             stickersShopListSectionFooterStackedMargin: "8px",
             stickerPickerPreviewDimensions: "96px",
@@ -5018,15 +5020,20 @@
     },
     6716: function(e, t, o) {
         e.exports = {
-            stickersShopListSectionHeadingDividerHeight: "30px",
+            stickersListDividerHeight: "30px",
+            stickerPickerPreviewMargin: "12px",
+            stickersShopDividerBorderTopWidth: "1px",
+            stickersShopDividerHeight: "1px",
             wrapper: "wrapper-OxgYJ1",
+            footerActions: "footerActions-3KYPyJ",
             packHeader: "packHeader-NLJ7S5",
             emptyState: "emptyState-2zRA18",
             packHeaderShopWrapper: "packHeaderShopWrapper-2OtJtX",
             packHeaderShop: "packHeaderShop-1qN3eZ",
             packHeaderShopActions: "packHeaderShopActions-pPMTPj",
             sticker: "sticker-3HpuRA",
-            divider: "divider-1OSL6X"
+            divider: "divider-1OSL6X",
+            shopDivider: "shopDivider-sT2XLN"
         }
     },
     6717: function(e, t, o) {
@@ -11359,4 +11366,4 @@
         }
     }
 }]);
-//# sourceMappingURL=706d8bce87be1f0746a5.js.map
+//# sourceMappingURL=ac055ab753df2bd3d040.js.map
