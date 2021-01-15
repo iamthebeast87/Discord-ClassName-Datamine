@@ -1879,6 +1879,7 @@
         e.exports = {
             container: "container-19nk2r",
             guildSidebar: "guildSidebar-2OCzWB",
+            guildDescription: "guildDescription-122n1Y",
             guildIcon: "guildIcon-38Zs0M",
             guildName: "guildName-2TIjNT",
             emojisContainer: "emojisContainer-19mZ0z",
@@ -11366,4 +11367,4 @@
         }
     }
 }]);
-//# sourceMappingURL=d234c2ceb10b70005943.js.map
+//# sourceMappingURL=7eea297a6289ddf1c297.js.map
