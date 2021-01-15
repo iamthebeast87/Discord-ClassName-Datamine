@@ -6676,7 +6676,8 @@
     6862: function(e, t, o) {
         e.exports = {
             innerPadding: "16px",
-            channelInfoWrapper: "channelInfoWrapper-1DPrpu"
+            channelInfoWrapper: "channelInfoWrapper-1DPrpu",
+            channelTitleWrapper: "channelTitleWrapper-UW6lQz"
         }
     },
     6863: function(e, t, o) {
@@ -11367,4 +11368,4 @@
         }
     }
 }]);
-//# sourceMappingURL=423de63de8b7a63e3cb3.js.map
+//# sourceMappingURL=4ee18186d2718677e983.js.map
