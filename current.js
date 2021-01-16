@@ -763,7 +763,7 @@
             compact: "compact-3q6200"
         }
     },
-    5264: function(e, t, o) {
+    5263: function(e, t, o) {
         e.exports = {
             darkElevationLow: "darkElevationLow-DABD7i",
             darkElevationHigh: "darkElevationHigh-6iWpWi",
@@ -779,7 +779,7 @@
             elevationBorderHigh: "elevationBorderHigh-2WYJ09"
         }
     },
-    5337: function(e, t, o) {
+    5325: function(e, t, o) {
         e.exports = {
             icon: "icon-3o6xvg",
             guildIconBadge: "guildIconBadge-1PJHeq",
@@ -803,16 +803,7 @@
             noAcronym: "noAcronym-pYLF4V"
         }
     },
-    5368: function(e, t, o) {
-        e.exports = {
-            transition: "transition-27fFQS",
-            directionDown: "directionDown-26e7eE",
-            directionRight: "directionRight-O8AY4M",
-            directionLeft: "directionLeft-O8iqia",
-            directionUp: "directionUp-ZEk-_J"
-        }
-    },
-    5370: function(e, t, o) {
+    5369: function(e, t, o) {
         e.exports = {
             blurb: "blurb-143skT",
             divider: "divider-2rujXH",
@@ -827,87 +818,14 @@
     },
     5383: function(e, t, o) {
         e.exports = {
-            spacer: "spacer-2b8O1V",
-            input: "input-3yHnCz"
-        }
-    },
-    5384: function(e, t, o) {
-        e.exports = {
-            avatar: "avatar-1Mj8bY",
-            guildIcon: "guildIcon-1k02sK",
-            container: "container-QZKkpR",
-            title: "title-10HEtO",
-            subtitle: "subtitle-1izn1t",
-            userText: "userText-53oh7E",
-            templateIcon: "templateIcon-3f-SZb",
-            usagePill: "usagePill-2WGS4A",
-            verifiedIcon: "verifiedIcon-2zGt44",
-            verifiedNameContainer: "verifiedNameContainer-HWD4YK",
-            verifiedCheckContainer: "verifiedCheckContainer-3VSuK8",
-            verifiedCheck: "verifiedCheck-2Ze-9s"
-        }
-    },
-    5385: function(e, t, o) {
-        e.exports = {
-            image: "image-1ecFZy",
-            header: "header-a5HgW3",
-            usagePill: "usagePill-_nSrnP"
-        }
-    },
-    5386: function(e, t, o) {
-        e.exports = {
-            container: "container-cMG81i",
-            inner: "inner-2P4tQO",
-            disabled: "disabled-1ytYrN",
-            input: "input-3Xdcic",
-            tag: "tag-2gZFdE",
-            small: "small-2oHLgT",
-            medium: "medium-1LLV3p",
-            large: "large-laZJpW",
-            close: "close-365pYL",
-            iconLayout: "iconLayout-3OgqU3",
-            pointer: "pointer-aRJXzd",
-            iconContainer: "iconContainer-2wXvy1",
-            icon: "icon-1S6UIr",
-            visible: "visible-3bFCH-",
-            clear: "clear--Eywng icon-1S6UIr"
-        }
-    },
-    5387: function(e, t, o) {
-        e.exports = {
-            selectableItem: "selectableItem-1MP3MQ",
-            selected: "selected-31soGA",
-            selectableItemLabel: "selectableItemLabel-1RKQjD"
+            transition: "transition-27fFQS",
+            directionDown: "directionDown-26e7eE",
+            directionRight: "directionRight-O8AY4M",
+            directionLeft: "directionLeft-O8iqia",
+            directionUp: "directionUp-ZEk-_J"
         }
     },
     5388: function(e, t, o) {
-        e.exports = {
-            marginTop8: "marginTop8-1DLZ1n",
-            marginBottom8: "marginBottom8-AtZOdT",
-            size14: "size14-3iUx6q",
-            popoutList: "popoutList-T9CKZQ",
-            popoutListInput: "popoutListInput-1l9TUI size14-3iUx6q",
-            popoutListEmpty: "popoutListEmpty-voOEBJ",
-            divider: "divider-faSUbd marginTop8-1DLZ1n marginBottom8-AtZOdT"
-        }
-    },
-    5389: function(e, t, o) {
-        e.exports = {
-            phoneFieldPopout: "phoneFieldPopout-7PzjOO",
-            phoneFieldScroller: "phoneFieldScroller-1rORCK",
-            countryItem: "countryItem-2OHkzd",
-            countryName: "countryName-1Qmnov",
-            countryCode: "countryCode-1zrlUB"
-        }
-    },
-    5391: function(e, t, o) {
-        e.exports = {
-            transitionGroup: "transitionGroup-aR7y1d",
-            measurement: "measurement-DMxQp7",
-            measurementFill: "measurementFill-31KKmO measurement-DMxQp7"
-        }
-    },
-    5396: function(e, t, o) {
         e.exports = {
             assetWrapper: "assetWrapper-3GNt0z",
             lottieCanvas: "lottieCanvas-1W7L-f",
@@ -920,14 +838,20 @@
             errorText: "errorText-2KbYvF"
         }
     },
-    5398: function(e, t, o) {
+    5390: function(e, t, o) {
+        e.exports = {
+            spacer: "spacer-2b8O1V",
+            input: "input-3yHnCz"
+        }
+    },
+    5391: function(e, t, o) {
         e.exports = {
             flowerStarContainer: "flowerStarContainer-3zDVtj",
             flowerStar: "flowerStar-1GeTsn",
             childContainer: "childContainer-1wxZNh"
         }
     },
-    5399: function(e, t, o) {
+    5392: function(e, t, o) {
         e.exports = {
             background: "background-2uufRq",
             verified: "verified-1eC5dy background-2uufRq",
@@ -935,7 +859,7 @@
             icon: "icon-1ihkOt"
         }
     },
-    5400: function(e, t, o) {
+    5393: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             maxQRLoginWidth: "830px",
@@ -969,7 +893,7 @@
             description: "description-3iuMrd"
         }
     },
-    5401: function(e, t, o) {
+    5394: function(e, t, o) {
         e.exports = {
             error: "error-36J3A_",
             subTitle: "subTitle-1-bIFL",
@@ -977,7 +901,76 @@
             codeInput: "codeInput-2cYD0k"
         }
     },
-    5402: function(e, t, o) {
+    5395: function(e, t, o) {
+        e.exports = {
+            avatar: "avatar-1Mj8bY",
+            guildIcon: "guildIcon-1k02sK",
+            container: "container-QZKkpR",
+            title: "title-10HEtO",
+            subtitle: "subtitle-1izn1t",
+            userText: "userText-53oh7E",
+            templateIcon: "templateIcon-3f-SZb",
+            usagePill: "usagePill-2WGS4A",
+            verifiedIcon: "verifiedIcon-2zGt44",
+            verifiedNameContainer: "verifiedNameContainer-HWD4YK",
+            verifiedCheckContainer: "verifiedCheckContainer-3VSuK8",
+            verifiedCheck: "verifiedCheck-2Ze-9s"
+        }
+    },
+    5396: function(e, t, o) {
+        e.exports = {
+            image: "image-1ecFZy",
+            header: "header-a5HgW3",
+            usagePill: "usagePill-_nSrnP"
+        }
+    },
+    5397: function(e, t, o) {
+        e.exports = {
+            container: "container-cMG81i",
+            inner: "inner-2P4tQO",
+            disabled: "disabled-1ytYrN",
+            input: "input-3Xdcic",
+            tag: "tag-2gZFdE",
+            small: "small-2oHLgT",
+            medium: "medium-1LLV3p",
+            large: "large-laZJpW",
+            close: "close-365pYL",
+            iconLayout: "iconLayout-3OgqU3",
+            pointer: "pointer-aRJXzd",
+            iconContainer: "iconContainer-2wXvy1",
+            icon: "icon-1S6UIr",
+            visible: "visible-3bFCH-",
+            clear: "clear--Eywng icon-1S6UIr"
+        }
+    },
+    5398: function(e, t, o) {
+        e.exports = {
+            selectableItem: "selectableItem-1MP3MQ",
+            selected: "selected-31soGA",
+            selectableItemLabel: "selectableItemLabel-1RKQjD"
+        }
+    },
+    5399: function(e, t, o) {
+        e.exports = {
+            marginTop8: "marginTop8-1DLZ1n",
+            marginBottom8: "marginBottom8-AtZOdT",
+            size14: "size14-3iUx6q",
+            popoutList: "popoutList-T9CKZQ",
+            popoutListInput: "popoutListInput-1l9TUI size14-3iUx6q",
+            popoutListEmpty: "popoutListEmpty-voOEBJ",
+            divider: "divider-faSUbd marginTop8-1DLZ1n marginBottom8-AtZOdT"
+        }
+    },
+    5400: function(e, t, o) {
+        e.exports = {
+            phoneFieldPopout: "phoneFieldPopout-7PzjOO",
+            phoneFieldScroller: "phoneFieldScroller-1rORCK",
+            countryItem: "countryItem-2OHkzd",
+            countryName: "countryName-1Qmnov",
+            countryCode: "countryCode-1zrlUB"
+        }
+    },
+    5401: function(e, t, o) {
         e.exports = {
             outerContainer: "outerContainer-2pDY4c",
             container: "container-1uOKxa",
@@ -988,19 +981,19 @@
             hidden: "hidden-2l9u-8"
         }
     },
-    5403: function(e, t, o) {
+    5402: function(e, t, o) {
         e.exports = {
             input: "input-1CjGeR",
             inputWrapper: "inputWrapper-3aw2Sf",
             inputField: "inputField-4g7rSQ"
         }
     },
-    5404: function(e, t, o) {
+    5403: function(e, t, o) {
         e.exports = {
             applicationIcon: "applicationIcon-28iDrP"
         }
     },
-    5405: function(e, t, o) {
+    5404: function(e, t, o) {
         e.exports = {
             guildBadge: "guildBadge-3vRjwA",
             appIcon: "appIcon-lZGJcM",
@@ -1014,6 +1007,13 @@
             guildContainer: "guildContainer-3vevW1",
             appIn: "appIn-_bj_p1",
             appGuildName: "appGuildName-2aGDAZ"
+        }
+    },
+    5405: function(e, t, o) {
+        e.exports = {
+            transitionGroup: "transitionGroup-aR7y1d",
+            measurement: "measurement-DMxQp7",
+            measurementFill: "measurementFill-31KKmO measurement-DMxQp7"
         }
     },
     5406: function(e, t, o) {
@@ -2094,29 +2094,11 @@
     },
     6508: function(e, t, o) {
         e.exports = {
-            elevationHigh: "elevationHigh-3A9Xbf",
-            slider: "slider-1PF9SW",
-            mini: "mini-dmm9yo",
-            bar: "bar-2Qqk5Z",
-            grabber: "grabber-3mFHz2",
-            disabled: "disabled-bolDAc",
-            input: "input-2_ChIk",
-            barFill: "barFill-23-gu-",
-            track: "track-11EASc",
-            mark: "mark-1xjQqt",
-            markValue: "markValue-2DwdXI",
-            markDash: "markDash-3hAolZ",
-            markDashSimple: "markDashSimple-1vLOGW markDash-3hAolZ",
-            defaultValue: "defaultValue-3gC7yw"
-        }
-    },
-    6509: function(e, t, o) {
-        e.exports = {
             arrow: "arrow-gKvcEx",
             open: "open-2d6eoT"
         }
     },
-    6510: function(e, t, o) {
+    6509: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             modal: "modal-yWgWj-",
@@ -2129,7 +2111,7 @@
             hideOnFullscreen: "hideOnFullscreen-2tpqvf"
         }
     },
-    6511: function(e, t, o) {
+    6510: function(e, t, o) {
         e.exports = {
             inlineContent: "inlineContent-3ZjPuv",
             spoilerContainer: "spoilerContainer-331r0R",
@@ -2141,7 +2123,7 @@
             quoteBlock: "quoteBlock-1Ck12r"
         }
     },
-    6512: function(e, t, o) {
+    6511: function(e, t, o) {
         e.exports = {
             row: "row-hM7TSa",
             icon: "icon-Vhk6dD",
@@ -2155,14 +2137,14 @@
             embedPrice: "embedPrice-Xy8zoS"
         }
     },
-    6513: function(e, t, o) {
+    6512: function(e, t, o) {
         e.exports = {
             spacing: "spacing-2P-ODW",
             spacingTop: "spacingTop-3Dhr0L",
             message: "message-2qRu38"
         }
     },
-    6514: function(e, t, o) {
+    6513: function(e, t, o) {
         e.exports = {
             listItemWidth: "72px",
             navigationIcon: "navigationIcon-7GxNQ1",
@@ -2188,7 +2170,7 @@
             tutorialContainer: "tutorialContainer-SGrQ1h"
         }
     },
-    6515: function(e, t, o) {
+    6514: function(e, t, o) {
         e.exports = {
             container: "container-2Uhd6d",
             content: "content-3MbD2f",
@@ -2197,7 +2179,7 @@
             image: "image-3OQMFm"
         }
     },
-    6516: function(e, t, o) {
+    6515: function(e, t, o) {
         e.exports = {
             expanded: "expanded-13sWhZ",
             blockedSystemMessage: "blockedSystemMessage-2Rk1ek",
@@ -2207,25 +2189,25 @@
             blockedAction: "blockedAction-2ZyU8z"
         }
     },
+    6518: function(e, t, o) {
+        e.exports = {
+            elevationHigh: "elevationHigh-3A9Xbf",
+            slider: "slider-1PF9SW",
+            mini: "mini-dmm9yo",
+            bar: "bar-2Qqk5Z",
+            grabber: "grabber-3mFHz2",
+            disabled: "disabled-bolDAc",
+            input: "input-2_ChIk",
+            barFill: "barFill-23-gu-",
+            track: "track-11EASc",
+            mark: "mark-1xjQqt",
+            markValue: "markValue-2DwdXI",
+            markDash: "markDash-3hAolZ",
+            markDashSimple: "markDashSimple-1vLOGW markDash-3hAolZ",
+            defaultValue: "defaultValue-3gC7yw"
+        }
+    },
     6519: function(e, t, o) {
-        e.exports = {
-            modalContent: "modalContent-3_WBnz",
-            editingContainer: "editingContainer-3s5xK0",
-            image: "image-3Yh9L1",
-            icon: "icon-2glot6",
-            overlay: "overlay-4k_Q4-",
-            sliderContainer: "sliderContainer-1N1-Pn",
-            cancelButton: "cancelButton-3Xu9aX",
-            modalFooter: "modalFooter-2ug_ge"
-        }
-    },
-    6520: function(e, t, o) {
-        e.exports = {
-            iconContainer: "iconContainer-2B0ixr",
-            filledIcon: "filledIcon-2eb7eA"
-        }
-    },
-    6521: function(e, t, o) {
         e.exports = {
             checkbox: "checkbox-3kaeSU",
             disabled: "disabled-1hiCMV",
@@ -2234,7 +2216,7 @@
             alt: "alt-6FvZrq"
         }
     },
-    6522: function(e, t, o) {
+    6520: function(e, t, o) {
         e.exports = {
             botTag: "botTag-2WPJ74",
             px: "px-10SIf7",
@@ -2245,37 +2227,17 @@
             botText: "botText-1526X_"
         }
     },
-    6523: function(e, t, o) {
-        e.exports = {
-            icon: "icon-3U3Ats",
-            guidelines: "guidelines-1yD5nc",
-            divider: "divider-2gQcba",
-            previewSection: "previewSection-1h_5aj",
-            channelsWrapper: "channelsWrapper-2HhUER",
-            rolesWrapper: "rolesWrapper-2yOx9S",
-            protip: "protip-cfNVNm",
-            protipText: "protipText-2wXAoo",
-            sectionHeader: "sectionHeader-1U00JR",
-            channel: "channel-OaJouZ",
-            category: "category-3W3XSi",
-            channelIcon: "channelIcon-2s1R00",
-            channelText: "channelText-7rGec8",
-            role: "role-3paDXR",
-            roleCircle: "roleCircle-3DE8xJ",
-            roleName: "roleName-1JcOmP"
-        }
-    },
-    6524: function(e, t, o) {
+    6521: function(e, t, o) {
         e.exports = {
             hidden: "hidden-vu5JrP"
         }
     },
-    6525: function(e, t, o) {
+    6522: function(e, t, o) {
         e.exports = {
             gemSheen: "gemSheen-3yIyuX"
         }
     },
-    6526: function(e, t, o) {
+    6523: function(e, t, o) {
         e.exports = {
             headerGuildName: "headerGuildName-2Ur2UW",
             headerGuildBadge: "headerGuildBadge-1qhaRY",
@@ -2297,7 +2259,7 @@
             skipColor: "skipColor-3dV-gy"
         }
     },
-    6527: function(e, t, o) {
+    6524: function(e, t, o) {
         e.exports = {
             scrollbarGhostHairline: "scrollbarGhostHairline-1mSOM1 scrollbar-3dvm_9",
             autocomplete: "autocomplete-3l_oCd",
@@ -2309,7 +2271,7 @@
             autocompleteLayer: "autocompleteLayer-1ANxTe"
         }
     },
-    6528: function(e, t, o) {
+    6525: function(e, t, o) {
         e.exports = {
             syntaxAfter: "syntaxAfter-hcA4AH",
             syntaxBefore: "syntaxBefore-1YQ9lW",
@@ -2337,14 +2299,14 @@
             codeLine: "codeLine-14BKbG"
         }
     },
-    6529: function(e, t, o) {
+    6526: function(e, t, o) {
         e.exports = {
             left: "left-3d-3Co",
             right: "right-1C2enk",
             down: "down-15EnQ5"
         }
     },
-    6530: function(e, t, o) {
+    6527: function(e, t, o) {
         e.exports = {
             notice: "notice-3bPHh-",
             colorDefault: "colorDefault-22HBa0",
@@ -2368,7 +2330,7 @@
             buttonMinor: "buttonMinor-3mkvIP"
         }
     },
-    6531: function(e, t, o) {
+    6528: function(e, t, o) {
         e.exports = {
             sidebarContentWidth: "192px",
             standardPadding: "20px",
@@ -2393,7 +2355,7 @@
             noticeRegion: "noticeRegion-1YviSH"
         }
     },
-    6532: function(e, t, o) {
+    6529: function(e, t, o) {
         e.exports = {
             guildJoinRequestRow: "guildJoinRequestRow-35c262",
             inline: "inline-yu1eCu",
@@ -2403,7 +2365,7 @@
             search: "search-3VWz2t"
         }
     },
-    6533: function(e, t, o) {
+    6530: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-2jXpOf",
             typeThread: "typeThread-3ESTm-",
@@ -2423,7 +2385,7 @@
             notInteractive: "notInteractive-1X92pj"
         }
     },
-    6534: function(e, t, o) {
+    6531: function(e, t, o) {
         e.exports = {
             chat: "chat-3bRxxu",
             threadSidebar: "threadSidebar-1o3BTy",
@@ -2442,7 +2404,7 @@
             status: "status-1XNdyw"
         }
     },
-    6535: function(e, t, o) {
+    6532: function(e, t, o) {
         e.exports = {
             applicationStore: "applicationStore-1pNvnv",
             navigation: "navigation-1d6CXm",
@@ -2450,7 +2412,7 @@
             marketingFooter: "marketingFooter-1ZdZyI"
         }
     },
-    6536: function(e, t, o) {
+    6533: function(e, t, o) {
         e.exports = {
             listItemWidth: "72px",
             animationDuration: "150ms",
@@ -2470,7 +2432,7 @@
             guildIconUnavailable: "guildIconUnavailable-5PMHDN"
         }
     },
-    6537: function(e, t, o) {
+    6534: function(e, t, o) {
         e.exports = {
             blobContainer: "blobContainer-239gwq",
             pill: "pill-31IEus",
@@ -2478,7 +2440,7 @@
             wobble: "wobble-2shAxW"
         }
     },
-    6538: function(e, t, o) {
+    6535: function(e, t, o) {
         e.exports = {
             modal: "modal-2Lmpu0",
             information: "information-34_WSh",
@@ -2487,7 +2449,7 @@
             image: "image-23YBsm"
         }
     },
-    6539: function(e, t, o) {
+    6536: function(e, t, o) {
         e.exports = {
             height24: "height24-3XzeJx",
             size16: "size16-14cGz5",
@@ -2511,7 +2473,7 @@
             videoPreview: "videoPreview-22khDR"
         }
     },
-    6540: function(e, t, o) {
+    6537: function(e, t, o) {
         e.exports = {
             modalSize: "modalSize-32pcp4 sizeSmall-1jtLQy",
             headerContent: "headerContent-3hty5X",
@@ -2525,7 +2487,7 @@
             confirmCloseButton: "confirmCloseButton-ear6TV"
         }
     },
-    6544: function(e, t, o) {
+    6541: function(e, t, o) {
         e.exports = {
             header: "header-1Ijz4R",
             channelPrompt: "channelPrompt-1kjOz3",
@@ -2536,7 +2498,7 @@
             skipButton: "skipButton-U0dQ2q"
         }
     },
-    6545: function(e, t, o) {
+    6542: function(e, t, o) {
         e.exports = {
             container: "container-UC8Ug1",
             icon: "icon-QM5383",
@@ -2544,7 +2506,7 @@
             arrow: "arrow-hynWUl"
         }
     },
-    6546: function(e, t, o) {
+    6543: function(e, t, o) {
         e.exports = {
             header: "header-1BLHoL",
             closeButton: "closeButton-_onk93",
@@ -2555,14 +2517,32 @@
             skip: "skip-2o6MGG"
         }
     },
-    6547: function(e, t, o) {
+    6544: function(e, t, o) {
+        e.exports = {
+            modalContent: "modalContent-3_WBnz",
+            editingContainer: "editingContainer-3s5xK0",
+            image: "image-3Yh9L1",
+            icon: "icon-2glot6",
+            overlay: "overlay-4k_Q4-",
+            sliderContainer: "sliderContainer-1N1-Pn",
+            cancelButton: "cancelButton-3Xu9aX",
+            modalFooter: "modalFooter-2ug_ge"
+        }
+    },
+    6545: function(e, t, o) {
         e.exports = {
             premiumPromo: "premiumPromo-3oM7cT",
             content: "content-P4SiGI",
             navArrow: "navArrow-3Q9QPC"
         }
     },
-    6548: function(e, t, o) {
+    6546: function(e, t, o) {
+        e.exports = {
+            iconContainer: "iconContainer-2B0ixr",
+            filledIcon: "filledIcon-2eb7eA"
+        }
+    },
+    6547: function(e, t, o) {
         e.exports = {
             header: "header-287ONi",
             closeButton: "closeButton-26zew5",
@@ -2576,7 +2556,7 @@
             creationIntentText: "creationIntentText-3OlELP"
         }
     },
-    6549: function(e, t, o) {
+    6548: function(e, t, o) {
         e.exports = {
             header: "header-3msK0M",
             closeButton: "closeButton-9dkb_x",
@@ -2589,7 +2569,7 @@
             footerButton: "footerButton-ayFTfX"
         }
     },
-    6550: function(e, t, o) {
+    6549: function(e, t, o) {
         e.exports = {
             header: "header-1Xr5FO",
             title: "title-XLSR78",
@@ -2604,12 +2584,12 @@
             footer: "footer-2ZvXOl"
         }
     },
-    6551: function(e, t, o) {
+    6550: function(e, t, o) {
         e.exports = {
             container: "container-1CE3eW"
         }
     },
-    6552: function(e, t, o) {
+    6551: function(e, t, o) {
         e.exports = {
             textArea: "textArea-1Lj-Ns",
             resizeable: "resizeable-3Dlqvo",
@@ -2618,7 +2598,7 @@
             maxLength: "maxLength-39QFBo"
         }
     },
-    6553: function(e, t, o) {
+    6552: function(e, t, o) {
         e.exports = {
             emojiSize: "64px",
             headerContainer: "headerContainer-3-vFuY",
@@ -2637,7 +2617,7 @@
             hidden: "hidden-36kfaz"
         }
     },
-    6554: function(e, t, o) {
+    6553: function(e, t, o) {
         e.exports = {
             combobox: "combobox-3V1oCd",
             list: "list-1xE9GQ",
@@ -2651,13 +2631,13 @@
             selectedBrand: "selectedBrand-1UKrSX"
         }
     },
-    6555: function(e, t, o) {
+    6554: function(e, t, o) {
         e.exports = {
             container: "container-3XJ8ns",
             list: "list-1MFD7e"
         }
     },
-    6556: function(e, t, o) {
+    6555: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignCenter: "alignCenter-1dQNNs",
@@ -2683,7 +2663,7 @@
             overflowRolesPopoutHeaderText: "overflowRolesPopoutHeaderText-1SW-y3"
         }
     },
-    6557: function(e, t, o) {
+    6556: function(e, t, o) {
         e.exports = {
             nameTag: "nameTag-m8r81H",
             discriminator: "discriminator-19kRMP",
@@ -2691,12 +2671,12 @@
             bot: "bot-2Fta1w"
         }
     },
-    6558: function(e, t, o) {
+    6557: function(e, t, o) {
         e.exports = {
             textarea: "textarea-2r0oV8 inputDefault-_djjkz input-cIJ7To"
         }
     },
-    6559: function(e, t, o) {
+    6558: function(e, t, o) {
         e.exports = {
             everyonePopout: "everyonePopout-nEbJY3",
             header: "header-3_S6dz",
@@ -2711,12 +2691,12 @@
             icon: "icon-2qOzDL"
         }
     },
-    6560: function(e, t, o) {
+    6559: function(e, t, o) {
         e.exports = {
             input: "input-2_SIlA"
         }
     },
-    6561: function(e, t, o) {
+    6560: function(e, t, o) {
         e.exports = {
             size12: "size12-3R0845",
             height12: "height12-2Ltw-k",
@@ -2728,7 +2708,7 @@
             themed: "themed-2aMyTM"
         }
     },
-    6562: function(e, t, o) {
+    6561: function(e, t, o) {
         e.exports = {
             noUserDrag: "noUserDrag-5Mb43F",
             marginBottom8: "marginBottom8-AtZOdT",
@@ -2812,13 +2792,13 @@
             activityUserPopout: "activityUserPopout-2yItg2"
         }
     },
-    6563: function(e, t, o) {
+    6562: function(e, t, o) {
         e.exports = {
             image: "image-3wZlK5 marginTop20-3TxNs6 marginBottom40-2vIwTv",
             text: "text-2F8PnX marginBottom20-32qID7"
         }
     },
-    6564: function(e, t, o) {
+    6563: function(e, t, o) {
         e.exports = {
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs",
             wrapper: "wrapper-3JPufy",
@@ -2827,7 +2807,7 @@
             spinnerItem: "spinnerItem-3JjAoz"
         }
     },
-    6565: function(e, t, o) {
+    6564: function(e, t, o) {
         e.exports = {
             streamIcon: "streamIcon-2zxjAa",
             iconButton: "iconButton-2sWFo9",
@@ -2835,19 +2815,19 @@
             iconSize: "iconSize-2WDpUJ"
         }
     },
-    6566: function(e, t, o) {
+    6565: function(e, t, o) {
         e.exports = {
             xboxButtonLogo: "xboxButtonLogo-1udUda"
         }
     },
-    6567: function(e, t, o) {
+    6566: function(e, t, o) {
         e.exports = {
             buttonsWrapper: "buttonsWrapper-2spIeK",
             horizontal: "horizontal-3fI3M-",
             vertical: "vertical-3w1v88"
         }
     },
-    6568: function(e, t, o) {
+    6567: function(e, t, o) {
         e.exports = {
             marginTop8: "marginTop8-1DLZ1n",
             actionsStreamPreview: "actionsStreamPreview-2lARcx",
@@ -2857,19 +2837,19 @@
             cannotLaunchImage: "cannotLaunchImage-2h36Tb errorImage-149OVL"
         }
     },
-    6569: function(e, t, o) {
+    6568: function(e, t, o) {
         e.exports = {
             icon: "icon-15YQ1T",
             emoji: "emoji-2cWBLE",
             textRuler: "textRuler-wO-qHe"
         }
     },
-    6570: function(e, t, o) {
+    6569: function(e, t, o) {
         e.exports = {
             emoji: "emoji-kdONqz"
         }
     },
-    6571: function(e, t, o) {
+    6570: function(e, t, o) {
         e.exports = {
             marginBottom4: "marginBottom4-2qk4Hy",
             marginBottom8: "marginBottom8-AtZOdT",
@@ -2928,7 +2908,7 @@
             customStatusText: "customStatusText-3YJeRZ"
         }
     },
-    6572: function(e, t, o) {
+    6571: function(e, t, o) {
         e.exports = {
             image: "image-2QWf3Q",
             imageUpgrade: "imageUpgrade-moI_hv image-2QWf3Q",
@@ -2939,7 +2919,7 @@
             secondaryButton: "secondaryButton-197mr8"
         }
     },
-    6573: function(e, t, o) {
+    6572: function(e, t, o) {
         e.exports = {
             premiumSubscribeButton: "premiumSubscribeButton-3TowJw",
             premiumIcon: "premiumIcon-YgHhed",
@@ -2948,17 +2928,17 @@
             giftIcon: "giftIcon-1DsQ4W"
         }
     },
-    6574: function(e, t, o) {
+    6573: function(e, t, o) {
         e.exports = {
             overflow: "overflow-WK9Ogt"
         }
     },
-    6575: function(e, t, o) {
+    6574: function(e, t, o) {
         e.exports = {
             gifTag: "gifTag-31zFY8"
         }
     },
-    6576: function(e, t, o) {
+    6575: function(e, t, o) {
         e.exports = {
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs",
             imageWrapper: "imageWrapper-2p5ogY",
@@ -2972,19 +2952,19 @@
             clickable: "clickable-3Ya1ho"
         }
     },
-    6577: function(e, t, o) {
+    6576: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-2K4Z3k",
             downloadLink: "downloadLink-1ywL9o"
         }
     },
-    6578: function(e, t, o) {
+    6577: function(e, t, o) {
         e.exports = {
             modal: "modal-qgFCbT",
             image: "image-1tIMwV"
         }
     },
-    6579: function(e, t, o) {
+    6578: function(e, t, o) {
         e.exports = {
             size12: "size12-3R0845",
             size16: "size16-14cGz5",
@@ -3027,7 +3007,7 @@
             unavailableHeader: "unavailableHeader-2yDubR"
         }
     },
-    6580: function(e, t, o) {
+    6579: function(e, t, o) {
         e.exports = {
             popout: "popout-6p6fkZ",
             staffBadge: "staffBadge-3NsEoM",
@@ -3037,7 +3017,7 @@
             avatar: "avatar-Ylrxl9"
         }
     },
-    6581: function(e, t, o) {
+    6580: function(e, t, o) {
         e.exports = {
             mediaBarInteraction: "mediaBarInteraction-37i2O4",
             mediaBarInteractionDragging: "mediaBarInteractionDragging-2QurIZ",
@@ -3054,7 +3034,7 @@
             mediaBarProgress: "mediaBarProgress-1xaPtl fakeEdges-27pgtp"
         }
     },
-    6582: function(e, t, o) {
+    6581: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-129saQ",
             wrapperHasPlayText: "wrapperHasPlayText-24Ab80",
@@ -3069,7 +3049,7 @@
             iconExternalMargins: "iconExternalMargins-2v2mzg icon-3ZFEtL"
         }
     },
-    6583: function(e, t, o) {
+    6582: function(e, t, o) {
         e.exports = {
             vertical: "vertical-V37hAW flex-1O1GKY directionColumn-35P_nr",
             alignCenter: "alignCenter-1dQNNs",
@@ -3079,7 +3059,7 @@
             sliderVisible: "sliderVisible-2GQ2wC"
         }
     },
-    6584: function(e, t, o) {
+    6583: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-2TxpI8",
             wrapperAudio: "wrapperAudio-1jDe0Q wrapper-2TxpI8",
@@ -3107,7 +3087,7 @@
             playPausePopIcon: "playPausePopIcon-p-D8VH"
         }
     },
-    6585: function(e, t, o) {
+    6584: function(e, t, o) {
         e.exports = {
             popoutContentWidth: "256px",
             popoutPaddingWidth: "16px",
@@ -3140,7 +3120,7 @@
             disableInteractions: "disableInteractions-z9ck59"
         }
     },
-    6586: function(e, t, o) {
+    6585: function(e, t, o) {
         e.exports = {
             popoutPaddingWidth: "16px",
             sizeJumboEmoji: "3rem",
@@ -3162,12 +3142,12 @@
             dotSeparator: "dotSeparator-2SMscJ"
         }
     },
-    6587: function(e, t, o) {
+    6586: function(e, t, o) {
         e.exports = {
             emojiContainer: "emojiContainer-3X8SvE"
         }
     },
-    6588: function(e, t, o) {
+    6587: function(e, t, o) {
         e.exports = {
             card: "card-1SJYqw marginBottom20-32qID7",
             input: "input-2JOcvO marginBottom8-AtZOdT",
@@ -3176,29 +3156,29 @@
             warning: "warning-1bDTCh"
         }
     },
-    6589: function(e, t, o) {
+    6588: function(e, t, o) {
         e.exports = {
             spacing: "spacing-2jY1b4 marginBottom20-32qID7"
         }
     },
-    6590: function(e, t, o) {
+    6589: function(e, t, o) {
         e.exports = {
             spacing: "spacing-2IUlSR marginBottom20-32qID7"
         }
     },
-    6591: function(e, t, o) {
+    6590: function(e, t, o) {
         e.exports = {
             sliderContainer: "sliderContainer-2Nrll8",
             slider: "slider-2zxowp"
         }
     },
-    6592: function(e, t, o) {
+    6591: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-3WhCwL"
         }
     },
-    6593: function(e, t, o) {},
-    6594: function(e, t, o) {
+    6592: function(e, t, o) {},
+    6593: function(e, t, o) {
         e.exports = {
             tile: "tile-2OwFgW",
             tileHorizontal: "tileHorizontal-3eee4N",
@@ -3210,7 +3190,7 @@
             description: "description-1RsfgZ"
         }
     },
-    6595: function(e, t, o) {
+    6594: function(e, t, o) {
         e.exports = {
             embedHorizontal: "embedHorizontal-WknQ2-",
             embedVertical: "embedVertical-W5-T0m",
@@ -3223,7 +3203,7 @@
             loading: "loading-3l7Cr9"
         }
     },
-    6596: function(e, t, o) {
+    6595: function(e, t, o) {
         e.exports = {
             applicationBuyButton: "applicationBuyButton-2ZS8jB",
             disabledButtonWrapper: "disabledButtonWrapper-oUVnwk",
@@ -3231,7 +3211,7 @@
             premiumIcon: "premiumIcon-3ocHPW"
         }
     },
-    6597: function(e, t, o) {
+    6596: function(e, t, o) {
         e.exports = {
             playButton: "playButton-1fMNjH",
             playButtonContents: "playButtonContents-1Ww4h5",
@@ -3244,7 +3224,7 @@
             dropdownArrow: "dropdownArrow-QYl6LR"
         }
     },
-    6598: function(e, t, o) {
+    6597: function(e, t, o) {
         e.exports = {
             progress: "progress-2XXRYo",
             progressBar: "progressBar-3u8FBM",
@@ -3259,7 +3239,7 @@
             indeterminate2: "indeterminate2-hcYkmM"
         }
     },
-    6599: function(e, t, o) {
+    6598: function(e, t, o) {
         e.exports = {
             button: "button-1OsvDz",
             progress: "progress-GjyFoQ",
@@ -3268,25 +3248,25 @@
             disabledButtonColor: "disabledButtonColor-34LjTT"
         }
     },
-    6600: function(e, t, o) {
+    6599: function(e, t, o) {
         e.exports = {
             OSSection: "OSSection-27GaV2",
             purchaseUnitOperatingSystem: "purchaseUnitOperatingSystem-cnbJPz"
         }
     },
-    6601: function(e, t, o) {
+    6600: function(e, t, o) {
         e.exports = {
             tag: "tag-HanR-9",
             text: "text-1OO51R"
         }
     },
-    6602: function(e, t, o) {
+    6601: function(e, t, o) {
         e.exports = {
             tag: "tag-1mL0R5",
             text: "text-1bqXwz"
         }
     },
-    6603: function(e, t, o) {
+    6602: function(e, t, o) {
         e.exports = {
             centeringContainer: "centeringContainer-1ssgjB",
             titleContainer: "titleContainer-15sRy5 centeringContainer-1ssgjB",
@@ -3303,7 +3283,7 @@
             spinnerItem: "spinnerItem-3RXrSb"
         }
     },
-    6604: function(e, t, o) {
+    6603: function(e, t, o) {
         e.exports = {
             splashContainer: "splashContainer-2UflFm",
             splashContainerHorizontal: "splashContainerHorizontal-10fJqP",
@@ -3319,13 +3299,13 @@
             tilePriceWithVisibleBuyButton: "tilePriceWithVisibleBuyButton-2-P17I tilePrice-dqknBb"
         }
     },
-    6605: function(e, t, o) {
+    6604: function(e, t, o) {
         e.exports = {
             tileActions: "tileActions-N7Ze1p",
             actionButton: "actionButton-Weawa8"
         }
     },
-    6606: function(e, t, o) {
+    6605: function(e, t, o) {
         e.exports = {
             metadata: "metadata-IJDhwB",
             libraryLink: "libraryLink-21lIRu",
@@ -3334,7 +3314,7 @@
             invalidPoopHorizontal: "invalidPoopHorizontal-3Dfy7T"
         }
     },
-    6607: function(e, t, o) {
+    6606: function(e, t, o) {
         e.exports = {
             container: "container-2nXavw",
             bumpBox: "bumpBox-1r5p3c",
@@ -3345,7 +3325,7 @@
             closeIcon: "closeIcon-tEzaUY"
         }
     },
-    6608: function(e, t, o) {
+    6607: function(e, t, o) {
         e.exports = {
             userSelectNone: "userSelectNone-Iy6XEP",
             cursorDefault: "cursorDefault-331ZcI",
@@ -3383,6 +3363,26 @@
             resolving: "resolving-1GhcbM",
             resolvingBackground: "resolvingBackground-351jK_",
             "invite-button-resolving": "invite-button-resolving-366-1w"
+        }
+    },
+    6608: function(e, t, o) {
+        e.exports = {
+            icon: "icon-3U3Ats",
+            guidelines: "guidelines-1yD5nc",
+            divider: "divider-2gQcba",
+            previewSection: "previewSection-1h_5aj",
+            channelsWrapper: "channelsWrapper-2HhUER",
+            rolesWrapper: "rolesWrapper-2yOx9S",
+            protip: "protip-cfNVNm",
+            protipText: "protipText-2wXAoo",
+            sectionHeader: "sectionHeader-1U00JR",
+            channel: "channel-OaJouZ",
+            category: "category-3W3XSi",
+            channelIcon: "channelIcon-2s1R00",
+            channelText: "channelText-7rGec8",
+            role: "role-3paDXR",
+            roleCircle: "roleCircle-3DE8xJ",
+            roleName: "roleName-1JcOmP"
         }
     },
     6609: function(e, t, o) {
@@ -11368,4 +11368,4 @@
         }
     }
 }]);
-//# sourceMappingURL=4ee18186d2718677e983.js.map
+//# sourceMappingURL=e52b94b61c4c239fd398.js.map
