@@ -6134,17 +6134,6 @@
     },
     6817: function(e, t, o) {
         e.exports = {
-            container: "container-jSV3OF",
-            fontSize14: "fontSize14-1tusjs",
-            fontSize16: "fontSize16-2ItDSF",
-            icon: "icon-1jlFSw",
-            text: "text-2J5crT",
-            warning: "warning-3C2pOH",
-            info: "info-1rdF5A"
-        }
-    },
-    6818: function(e, t, o) {
-        e.exports = {
             contentSpacing: "32px",
             container: "container-3Z2Sia",
             banner: "banner-2AwsUs",
@@ -6164,10 +6153,21 @@
             cooldown: "cooldown-2qfqBs"
         }
     },
-    6819: function(e, t, o) {
+    6818: function(e, t, o) {
         e.exports = {
             crossfade: "crossfade-aWRFUb",
             icon: "icon-2fGOj8"
+        }
+    },
+    6819: function(e, t, o) {
+        e.exports = {
+            container: "container-jSV3OF",
+            fontSize14: "fontSize14-1tusjs",
+            fontSize16: "fontSize16-2ItDSF",
+            icon: "icon-1jlFSw",
+            text: "text-2J5crT",
+            warning: "warning-3C2pOH",
+            info: "info-1rdF5A"
         }
     },
     6820: function(e, t, o) {
@@ -11369,4 +11369,4 @@
         }
     }
 }]);
-//# sourceMappingURL=9d84692e6bc8a1d4a741.js.map
+//# sourceMappingURL=61b61b530052b2f8b188.js.map
