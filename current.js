@@ -763,7 +763,7 @@
             compact: "compact-3q6200"
         }
     },
-    5263: function(e, t, o) {
+    5264: function(e, t, o) {
         e.exports = {
             darkElevationLow: "darkElevationLow-DABD7i",
             darkElevationHigh: "darkElevationHigh-6iWpWi",
@@ -7008,6 +7008,7 @@
             wrapper: "wrapper-39oAo3",
             content: "content-c_0cLD",
             image: "image-3XsqGc",
+            animation: "animation-10aT2_",
             text: "text-2yjo70",
             title: "title-FVgbgL",
             button: "button-1YxJv4",
@@ -11368,4 +11369,4 @@
         }
     }
 }]);
-//# sourceMappingURL=f4e1338ecf10a2148cd8.js.map
+//# sourceMappingURL=9d84692e6bc8a1d4a741.js.map
