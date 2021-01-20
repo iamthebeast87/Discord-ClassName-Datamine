@@ -32,7 +32,7 @@
             disableScrollAnchor: "disableScrollAnchor-3V9UtP"
         }
     },
-    5018: function(e, t, o) {
+    5019: function(e, t, o) {
         e.exports = {
             inputWrapper: "inputWrapper-31_8H8",
             input: "input-cIJ7To",
@@ -46,7 +46,7 @@
             inputPrefix: "inputPrefix-2VAOGg"
         }
     },
-    5021: function(e, t, o) {
+    5022: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             responsiveWidthMobileFirst: "486px",
@@ -61,7 +61,7 @@
             logo: "logo-2niOmb"
         }
     },
-    5050: function(e, t, o) {
+    5051: function(e, t, o) {
         e.exports = {
             scrollbar: "scrollbar-3dvm_9",
             scrollbarDefault: "scrollbarDefault-3COgCQ scrollbar-3dvm_9",
@@ -69,7 +69,7 @@
             scrollbarGhostHairline: "scrollbarGhostHairline-1mSOM1 scrollbar-3dvm_9"
         }
     },
-    5053: function(e, t, o) {
+    5054: function(e, t, o) {
         e.exports = {
             row: "row-2grg9k",
             section: "section-1Hw6N9",
@@ -82,7 +82,7 @@
             width25: "width25-3DEhbv section-1Hw6N9"
         }
     },
-    5055: function(e, t, o) {
+    5056: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             header: "header-RSCE0X",
@@ -107,7 +107,7 @@
             trialCheckboxLabel: "trialCheckboxLabel-3DxtAL"
         }
     },
-    5056: function(e, t, o) {
+    5057: function(e, t, o) {
         e.exports = {
             keybindShortcut: "keybindShortcut-1BD6Z1",
             bindArrow: "bindArrow-2X3Aom",
@@ -123,7 +123,7 @@
             keyboardShortcuts: "keyboardShortcuts-1s_yPt"
         }
     },
-    5057: function(e, t, o) {
+    5058: function(e, t, o) {
         e.exports = {
             title: "title-3sZWYQ",
             h1: "h1-1qdNzo title-3sZWYQ",
@@ -145,7 +145,7 @@
             error: "error-25JxNp"
         }
     },
-    5058: function(e, t, o) {
+    5059: function(e, t, o) {
         e.exports = {
             select: "select-2fjwPw",
             searchable: "searchable-1Zl-ns",
@@ -163,18 +163,18 @@
             selectedIcon: "selectedIcon-3uS11H"
         }
     },
-    5060: function(e, t, o) {
+    5061: function(e, t, o) {
         e.exports = {
             ring: "ring-13rgEW"
         }
     },
-    5061: function(e, t, o) {
+    5062: function(e, t, o) {
         e.exports = {
             anchor: "anchor-3Z-8Bb",
             anchorUnderlineOnHover: "anchorUnderlineOnHover-2ESHQB"
         }
     },
-    5062: function(e, t, o) {
+    5063: function(e, t, o) {
         e.exports = {
             spinner: "spinner-2enMB9",
             inner: "inner-1gJC7_",
@@ -200,7 +200,7 @@
             path3: "path3-2l9TIX"
         }
     },
-    5063: function(e, t, o) {
+    5064: function(e, t, o) {
         e.exports = {
             button: "button-38aScr",
             lookFilled: "lookFilled-1Gx00P",
@@ -248,7 +248,7 @@
             disabledButtonOverlay: "disabledButtonOverlay-2DA5FI"
         }
     },
-    5064: function(e, t, o) {
+    5065: function(e, t, o) {
         e.exports = {
             _flex: "flex-1O1GKY",
             _horizontal: "horizontal-2EEEnY flex-1O1GKY directionRow-3v3tfG",
@@ -260,19 +260,19 @@
             flexMarginReset: "flexMarginReset-26Y2-5"
         }
     },
-    5065: function(e, t, o) {
+    5066: function(e, t, o) {
         e.exports = {
             backdrop: "backdrop-1wrmKB",
             backdropWithLayer: "backdropWithLayer-3_uhz4"
         }
     },
-    5066: function(e, t, o) {
+    5067: function(e, t, o) {
         e.exports = {
             backdrop: "backdrop-29yll0",
             layer: "layer-2KE1M9"
         }
     },
-    5067: function(e, t, o) {
+    5068: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             innerPadding: "16px",
@@ -290,7 +290,7 @@
             hideOnFullscreen: "hideOnFullscreen-9ibOM4"
         }
     },
-    5068: function(e, t, o) {
+    5069: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-1sSZUt",
             base: "base-1x0h_U",
@@ -298,7 +298,7 @@
             muted: "muted-3-7c5L"
         }
     },
-    5069: function(e, t, o) {
+    5070: function(e, t, o) {
         e.exports = {
             selectable: "selectable-2GY4I1",
             colorStandard: "colorStandard-2KCXvj",
@@ -313,14 +313,14 @@
             colorInteractiveActive: "colorInteractiveActive-3Ip9Eu"
         }
     },
-    5070: function(e, t, o) {
+    5071: function(e, t, o) {
         e.exports = {
             modal: "modal-1630pA",
             header: "header-2cDml2",
             button: "button-32WdHP"
         }
     },
-    5071: function(e, t, o) {
+    5072: function(e, t, o) {
         e.exports = {
             container: "container-14fypd",
             form: "form-26zE04",
@@ -335,19 +335,19 @@
             gutter: "gutter-15v0rO"
         }
     },
-    5072: function(e, t, o) {
+    5073: function(e, t, o) {
         e.exports = {
             select: "select-2TCrqx",
             error: "error-3S-7y9",
             errorMessage: "errorMessage-1Y9q-X"
         }
     },
-    5073: function(e, t, o) {
+    5074: function(e, t, o) {
         e.exports = {
             divider: "divider-3573oO"
         }
     },
-    5074: function(e, t, o) {
+    5075: function(e, t, o) {
         e.exports = {
             card: "card-3Qj_Yx",
             cardBrand: "cardBrand-39zmMQ card-3Qj_Yx",
@@ -364,7 +364,7 @@
             cardPrimaryOutlineEditable: "cardPrimaryOutlineEditable-PEnpzz card-3Qj_Yx"
         }
     },
-    5075: function(e, t, o) {
+    5076: function(e, t, o) {
         e.exports = {
             formText: "formText-3fs7AJ",
             default: "default-3nhoK- formText-3fs7AJ",
@@ -378,7 +378,7 @@
             modeDisabled: "modeDisabled-33Av8D"
         }
     },
-    5076: function(e, t, o) {
+    5077: function(e, t, o) {
         e.exports = {
             formNotice: "formNotice-2_hHWR",
             formNoticeTitle: "formNoticeTitle-2KGjDe",
@@ -387,12 +387,12 @@
             whiteText: "whiteText-2PPsRK"
         }
     },
-    5077: function(e, t, o) {
+    5078: function(e, t, o) {
         e.exports = {
             children: "children-rWhLdy"
         }
     },
-    5078: function(e, t, o) {
+    5079: function(e, t, o) {
         e.exports = {
             container: "container-3bTSed",
             title: "title-3Tw-c1",
@@ -403,7 +403,7 @@
             errors: "errors-ArjaXz"
         }
     },
-    5079: function(e, t, o) {
+    5080: function(e, t, o) {
         e.exports = {
             modal: "modal-20TEfh",
             content: "content-2Kd1kH",
@@ -413,7 +413,7 @@
             formItem: "formItem-21QgGZ"
         }
     },
-    5080: function(e, t, o) {
+    5081: function(e, t, o) {
         e.exports = {
             spacing: "spacing-28Gjbq marginBottom20-32qID7",
             error: "error-1IOMCI marginTop8-1DLZ1n",
@@ -421,7 +421,7 @@
             warning: "warning-3KupJ6"
         }
     },
-    5081: function(e, t, o) {
+    5082: function(e, t, o) {
         e.exports = {
             formHeader: "formHeader-3ntgeL",
             formContent: "formContent-1vWZEJ",
@@ -437,7 +437,7 @@
             successImage: "successImage-2Tgulb"
         }
     },
-    5082: function(e, t, o) {
+    5083: function(e, t, o) {
         e.exports = {
             fullArt: "fullArt-2zAZvG",
             header: "header-1X3-pa",
@@ -445,7 +445,7 @@
             close: "close-3K265x"
         }
     },
-    5083: function(e, t, o) {
+    5084: function(e, t, o) {
         e.exports = {
             closeButton: "closeButton-kcmOnx",
             art: "art-1zbbdz",
@@ -469,7 +469,7 @@
             modal: "modal-1XR4nE"
         }
     },
-    5084: function(e, t, o) {
+    5085: function(e, t, o) {
         e.exports = {
             svgContentRight: "svgContentRight-VRT04v",
             svgContentLeft: "svgContentLeft-i3sITr",
@@ -478,7 +478,7 @@
             svgTag: "svgTag-3iksEu"
         }
     },
-    5085: function(e, t, o) {
+    5086: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-3o7UcG",
             titleRegion: "titleRegion-1Npsrb",
@@ -501,7 +501,7 @@
             disabledButtonOverride: "disabledButtonOverride-3Ntxjs"
         }
     },
-    5086: function(e, t, o) {
+    5087: function(e, t, o) {
         e.exports = {
             closeButton: "closeButton-3oHzMa",
             content: "content-2TX59W",
@@ -511,12 +511,12 @@
             button: "button-2rjtHF"
         }
     },
-    5087: function(e, t, o) {
+    5088: function(e, t, o) {
         e.exports = {
             title: "title-3KTIjF"
         }
     },
-    5088: function(e, t, o) {
+    5089: function(e, t, o) {
         e.exports = {
             markdown: "markdown-11q6EU",
             blockquote: "blockquote-2-nEPK",
@@ -524,13 +524,13 @@
             paragraph: "paragraph-3Ejjt0"
         }
     },
-    5089: function(e, t, o) {
+    5090: function(e, t, o) {
         e.exports = {
             spinner: "spinner-2Ubxu6",
             markdown: "markdown-38ZvHn"
         }
     },
-    5090: function(e, t, o) {
+    5091: function(e, t, o) {
         e.exports = {
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs",
             checkboxWrapper: "checkboxWrapper-SkhIWG",
@@ -553,7 +553,7 @@
             labelReversed: "labelReversed-1RI8G7"
         }
     },
-    5091: function(e, t, o) {
+    5092: function(e, t, o) {
         e.exports = {
             formTitle: "formTitle-2sqUuS",
             checkbox: "checkbox-2Yh6o3",
@@ -561,7 +561,7 @@
             finePrint: "finePrint-RDL9Gx"
         }
     },
-    5092: function(e, t, o) {
+    5093: function(e, t, o) {
         e.exports = {
             gameIcon: "gameIcon-gg34Dz",
             large: "large-1DtyYQ",
@@ -571,7 +571,7 @@
             eighty: "eighty-1Bli46"
         }
     },
-    5093: function(e, t, o) {
+    5094: function(e, t, o) {
         e.exports = {
             translate: "translate-2dAEQ6",
             animatorTop: "animatorTop-2Y7x2r",
@@ -583,12 +583,12 @@
             fade: "fade-18lLrh"
         }
     },
-    5094: function(e, t, o) {
+    5095: function(e, t, o) {
         e.exports = {
             error: "error-3iVqOt"
         }
     },
-    5095: function(e, t, o) {
+    5096: function(e, t, o) {
         e.exports = {
             splash: "splash-9yPB5w",
             gameIcon: "gameIcon-ZGZ9aM",
@@ -602,7 +602,7 @@
             premiumTerms: "premiumTerms-QoMVGx"
         }
     },
-    5096: function(e, t, o) {
+    5097: function(e, t, o) {
         e.exports = {
             content: "content-O7cZt5",
             header: "header-2MZwao",
@@ -610,7 +610,7 @@
             tips: "tips-2V51be"
         }
     },
-    5097: function(e, t, o) {
+    5098: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-1prNyd",
             flexWrapper: "flexWrapper-2EgxO2",
@@ -620,7 +620,7 @@
             title: "title-3trS3_"
         }
     },
-    5098: function(e, t, o) {
+    5099: function(e, t, o) {
         e.exports = {
             titleBar: "titleBar-AC4pGV",
             withFrame: "withFrame-haYltI titleBar-AC4pGV",
@@ -642,7 +642,7 @@
             unfocused: "unfocused-1QsMU3"
         }
     },
-    5104: function(e, t, o) {
+    5105: function(e, t, o) {
         e.exports = {
             downloadApps: "downloadApps-wbBFdZ",
             contentWrapper: "contentWrapper-37w9gg",
@@ -665,12 +665,12 @@
             downloadButton: "downloadButton-1bWXpg"
         }
     },
-    5105: function(e, t, o) {
+    5106: function(e, t, o) {
         e.exports = {
             content: "content-mK72R6"
         }
     },
-    5106: function(e, t, o) {
+    5107: function(e, t, o) {
         e.exports = {
             animationDuration: "150ms",
             root: "root-3R2ngo",
@@ -682,35 +682,35 @@
             exitDone: "exitDone-2Q591Q"
         }
     },
-    5107: function(e, t, o) {
+    5108: function(e, t, o) {
         e.exports = {
             errorPage: "errorPage-u8SYh4"
         }
     },
-    5108: function(e, t, o) {
+    5109: function(e, t, o) {
         e.exports = {
             sizeEmoji: "1.375em",
             sizeJumboEmoji: "3rem",
             loading: "loading-Ags1CY"
         }
     },
-    5109: function(e, t, o) {
+    5110: function(e, t, o) {
         e.exports = {
             modal: "modal-3c3bKg",
             inner: "inner-1ilYF7"
         }
     },
-    5110: function(e, t, o) {
+    5111: function(e, t, o) {
         e.exports = {
             app: "app-1q1i1E"
         }
     },
-    5112: function(e, t, o) {
+    5113: function(e, t, o) {
         e.exports = {
             appMount: "appMount-3lHmkl"
         }
     },
-    5137: function(e, t, o) {
+    5138: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             responsiveHeightMobile: "550px",
@@ -735,7 +735,7 @@
             checkboxLabel: "checkboxLabel-3WoD3k"
         }
     },
-    5159: function(e, t, o) {
+    5160: function(e, t, o) {
         e.exports = {
             payment: "payment-xT17Mq",
             hoverablePayment: "hoverablePayment-Yc6mK7 payment-xT17Mq",
@@ -764,7 +764,7 @@
             compact: "compact-3q6200"
         }
     },
-    5259: function(e, t, o) {
+    5260: function(e, t, o) {
         e.exports = {
             darkElevationLow: "darkElevationLow-DABD7i",
             darkElevationHigh: "darkElevationHigh-6iWpWi",
@@ -11341,7 +11341,7 @@
             desktopHeader: "desktopHeader-3za0nJ"
         }
     },
-    942: function(e, t, o) {
+    943: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignStart: "alignStart-H-X2h-",
@@ -11367,7 +11367,7 @@
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs"
         }
     },
-    963: function(e, t, o) {
+    964: function(e, t, o) {
         e.exports = {
             layerContainer: "layerContainer-yqaFcK",
             layer: "layer-v9HyYc",
@@ -11375,7 +11375,7 @@
             disabledPointerEvents: "disabledPointerEvents-1ptgTB"
         }
     },
-    967: function(e, t, o) {
+    968: function(e, t, o) {
         e.exports = {
             size10: "size10-tblYdA",
             size12: "size12-3cLvbJ",
@@ -11387,4 +11387,4 @@
         }
     }
 }]);
-//# sourceMappingURL=51788ec7547c20e726b0.js.map
+//# sourceMappingURL=cdccd04e227e74b5c0d3.js.map
