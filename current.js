@@ -1817,7 +1817,11 @@
             centerContent: "centerContent-3pbrOl",
             closeButton: "closeButton-1aXUE8",
             applicationIcon: "applicationIcon-1_YMdt",
-            verificationStateIcon: "verificationStateIcon-1BrDQj",
+            animationAndSparklesContainer: "animationAndSparklesContainer-MGS9s5",
+            sparkleIcon: "sparkleIcon-2uxoYp",
+            sparkleTop: "sparkleTop-qBeDaK",
+            sparkleBottom: "sparkleBottom-1AUcMi",
+            animation: "animation-vamXOL",
             header: "header-3WG5kX",
             verificationForm: "verificationForm-lhyAxu",
             footer: "footer-1JuRYY",
@@ -2365,7 +2369,13 @@
             spacer: "spacer-i52oV7",
             status: "status-M_uKgm spacer-i52oV7",
             caret: "caret-2lmaKa",
-            search: "search-3VWz2t"
+            search: "search-3VWz2t",
+            emptyContainer: "emptyContainer-yF7VLv",
+            emptyIcon: "emptyIcon-1-fUj8",
+            checkmark: "checkmark-2JmSeu",
+            star: "star-eymo6_",
+            plus: "plus-1EbKzu",
+            emptyBody: "emptyBody-GDvh5u"
         }
     },
     6527: function(e, t, o) {
@@ -11388,4 +11398,4 @@
         }
     }
 }]);
-//# sourceMappingURL=db7e0c1908f708af4a08.js.map
+//# sourceMappingURL=582cb145e45a82442ff4.js.map
