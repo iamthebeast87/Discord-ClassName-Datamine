@@ -2382,13 +2382,12 @@
         e.exports = {
             wrapper: "wrapper-2jXpOf",
             typeThread: "typeThread-3ESTm-",
+            content: "content-1x5b-n",
             modeSelected: "modeSelected-346R90",
             modeLocked: "modeLocked-25wLHj",
             icon: "icon-1DeIlz",
             iconContainer: "iconContainer-1BBaeJ",
-            content: "content-1x5b-n",
             mainContent: "mainContent-u_9PKf",
-            threadMainContent: "threadMainContent-2fGYIG",
             name: "name-23GUGE",
             unread: "unread-2lAfLh",
             children: "children-3rEycc",
@@ -6407,7 +6406,8 @@
     },
     6840: function(e, t, o) {
         e.exports = {
-            container: "container-3JKcAb"
+            container: "container-3JKcAb",
+            spine: "spine--Wla_O"
         }
     },
     6841: function(e, t, o) {
@@ -11403,4 +11403,4 @@
         }
     }
 }]);
-//# sourceMappingURL=5a581455ae755a87f7fc.js.map
+//# sourceMappingURL=02e90018dd0f508ee04d.js.map
