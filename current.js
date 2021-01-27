@@ -310,7 +310,8 @@
             colorStatusYellow: "colorStatusYellow-3sKKh2",
             colorStatusGreen: "colorStatusGreen-2saF4_",
             colorStatusRed: "colorStatusRed-1YV2rj",
-            colorInteractiveActive: "colorInteractiveActive-3Ip9Eu"
+            colorInteractiveActive: "colorInteractiveActive-3Ip9Eu",
+            colorInteractiveNormal: "colorInteractiveNormal-PB7JN3"
         }
     },
     5074: function(e, t, o) {
@@ -4880,23 +4881,22 @@
             autocompleteRow: "autocompleteRow-2OthDa",
             autocompleteRowVertical: "autocompleteRowVertical-q1K4ky autocompleteRow-2OthDa",
             autocompleteRowHorizontal: "autocompleteRowHorizontal-32jwnH autocompleteRow-2OthDa",
+            autocompleteRowContent: "autocompleteRowContent-1AMstF",
+            autocompleteRowContentPrimary: "autocompleteRowContentPrimary-238PvP",
+            autocompleteRowIcon: "autocompleteRowIcon-2VJmzt",
+            autocompleteRowHeading: "autocompleteRowHeading-3WOd1z",
+            autocompleteRowSubheading: "autocompleteRowSubheading-WqMMIl",
+            autocompleteRowContentSecondary: "autocompleteRowContentSecondary-1tgI-F",
             base: "base-1pYU8j",
             selectable: "selectable-3dP3y-",
-            mask: "mask-2TeiNB",
-            stickerBackground: "stickerBackground-2PHeww",
             divider: "divider-23swzi",
-            content: "content-Qb0rXO",
             contentTitle: "contentTitle-2tG_sM",
             icon: "icon-3ZzoN7",
-            rawEmoji: "rawEmoji-y8E0FG icon-3ZzoN7",
-            description: "description-11DmNu",
-            descriptionDiscriminator: "descriptionDiscriminator-3vUOCc",
-            externalIcon: "externalIcon-3Rrn_j",
-            marginLeft4: "marginLeft4-3VaXdt",
-            marginLeft8: "marginLeft8-1YseBe",
-            selected: "selected-1Tbx07",
             iconForeground: "iconForeground-1w5n7R",
-            descriptionUsername: "descriptionUsername-J_75O8"
+            rawEmoji: "rawEmoji-y8E0FG icon-3ZzoN7",
+            descriptionDiscriminator: "descriptionDiscriminator-3vUOCc",
+            stickerAutocompleteRow: "stickerAutocompleteRow-1uiRPB",
+            selected: "selected-1Tbx07"
         }
     },
     6729: function(e, t, o) {
@@ -5089,19 +5089,19 @@
             containerPadding: "8px",
             stickerSuggestionSize: "48px",
             stickerSuggestionMargin: "8px",
-            container: "container-Qj4uIL",
-            hidden: "hidden-D-aYti",
-            containerBackground: "containerBackground-3PNziK",
-            bottomInformationTextContainer: "bottomInformationTextContainer-1-VGP3",
-            textDivider: "textDivider-3xvtb-",
-            descriptionText: "descriptionText-2VjsTt",
-            stickerResults: "stickerResults-1zGNA5",
-            keybind: "keybind-2rsP3G",
-            suggestedExpression: "suggestedExpression-37U4Ze",
-            mask: "mask-2EX8rq",
-            suggestedExpressionFocused: "suggestedExpressionFocused-1TowpS",
-            maskBackground: "maskBackground-1WpXoP",
-            unownedStickerLockIcon: "unownedStickerLockIcon-1jTdXf"
+            container: "container-JHR0NT",
+            hidden: "hidden-1Pp_-F",
+            containerBackground: "containerBackground-LlUax5",
+            bottomInformationTextContainer: "bottomInformationTextContainer-2lvA_a",
+            textDivider: "textDivider-3RoZIQ",
+            descriptionText: "descriptionText-1ZKuLr",
+            stickerResults: "stickerResults-3HacYG",
+            keybind: "keybind-25ROM8",
+            suggestedExpression: "suggestedExpression-3HUIrd",
+            mask: "mask-2VqFZB",
+            suggestedExpressionFocused: "suggestedExpressionFocused-23LPyn",
+            maskBackground: "maskBackground-3LR_np",
+            unownedStickerLockIcon: "unownedStickerLockIcon-2GMbV9"
         }
     },
     6744: function(e, t, o) {
@@ -11403,4 +11403,4 @@
         }
     }
 }]);
-//# sourceMappingURL=02e90018dd0f508ee04d.js.map
+//# sourceMappingURL=2a6bf247c554365e2366.js.map
