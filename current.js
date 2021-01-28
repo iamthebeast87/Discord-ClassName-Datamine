@@ -1830,9 +1830,11 @@
             formItem: "formItem-LXNO4Q",
             resendButton: "resendButton-3WkctP",
             confirmation: "confirmation-2zE9ir",
+            confirmationContent: "confirmationContent-1LS30-",
             confirmationButtonRow: "confirmationButtonRow-2J_xOl",
             confirmationButton: "confirmationButton-1s3fqt",
             confirmationSecondary: "confirmationSecondary-1S5GoO",
+            secondaryConfirmationButtonRow: "secondaryConfirmationButtonRow-3H4SvO",
             notice: "notice-3UEAq4",
             rejectionReasonLabel: "rejectionReasonLabel-3CSyvn"
         }
@@ -11408,4 +11410,4 @@
         }
     }
 }]);
-//# sourceMappingURL=7b19cea0676e508b0a40.js.map
+//# sourceMappingURL=feee58621017efe0169c.js.map
