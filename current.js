@@ -4319,25 +4319,20 @@
     },
     6679: function(e, t, o) {
         e.exports = {
-            wrapper: "wrapper-232cHJ"
-        }
-    },
-    6680: function(e, t, o) {
-        e.exports = {
             wrapper: "wrapper-r-6rrt",
             image: "image-1GzsFd",
             title: "title-2BxgL2",
             text: "text-GwUZgS"
         }
     },
-    6681: function(e, t, o) {
+    6680: function(e, t, o) {
         e.exports = {
             container: "container-3auIfb",
             input: "input-rwLH4i",
             slider: "slider-TkfMQL"
         }
     },
-    6682: function(e, t, o) {
+    6681: function(e, t, o) {
         e.exports = {
             container: "container-2_Tvc_",
             labelRow: "labelRow-16e77k",
@@ -4350,7 +4345,7 @@
             dividerDefault: "dividerDefault-3rvLe-"
         }
     },
-    6683: function(e, t, o) {
+    6682: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignCenter: "alignCenter-1dQNNs",
@@ -4386,6 +4381,11 @@
             welcomeImage: "welcomeImage-QDYf6I",
             welcomeHeading: "welcomeHeading-2US2wn",
             welcomeSubheading: "welcomeSubheading-1gfu4-"
+        }
+    },
+    6683: function(e, t, o) {
+        e.exports = {
+            wrapper: "wrapper-232cHJ"
         }
     },
     6684: function(e, t, o) {
@@ -11403,4 +11403,4 @@
         }
     }
 }]);
-//# sourceMappingURL=2c4c69f7c8d466e8373d.js.map
+//# sourceMappingURL=594a991a042b1617338d.js.map
