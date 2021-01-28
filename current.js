@@ -6862,7 +6862,6 @@
     6882: function(e, t, o) {
         e.exports = {
             container: "container-1If-HZ",
-            size: "size-2kUz0R",
             scroller: "scroller-1-nKid",
             reactors: "reactors-Blmlhw",
             reactionDefault: "reactionDefault-GBA58K",
@@ -11409,4 +11408,4 @@
         }
     }
 }]);
-//# sourceMappingURL=503d74ecb3fe5aa67ebc.js.map
+//# sourceMappingURL=7b19cea0676e508b0a40.js.map
