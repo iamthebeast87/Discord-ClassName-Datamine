@@ -5340,6 +5340,7 @@
     },
     6767: function(e, t, o) {
         e.exports = {
+            fixedWidth: "508px",
             addFieldButtonsContainer: "addFieldButtonsContainer-2ecRcx",
             addFieldRow: "addFieldRow-3_brle",
             addFieldButton: "addFieldButton-LieBLO",
@@ -5359,7 +5360,10 @@
             getStartedIcon: "getStartedIcon-3v4RyG",
             getStartedSubtitle: "getStartedSubtitle-260-IP",
             getStartedTitle: "getStartedTitle-2nDca2",
-            errorBanner: "errorBanner-1EY3-l"
+            errorBanner: "errorBanner-1EY3-l",
+            autoApprovalNotice: "autoApprovalNotice-3f2MDa",
+            autoApprovalTitle: "autoApprovalTitle-3Suv0U",
+            autoApprovalBody: "autoApprovalBody-7bg-ys"
         }
     },
     6768: function(e, t, o) {
@@ -5377,7 +5381,9 @@
             descriptionWrapper: "descriptionWrapper-3AsAaj",
             introDescription: "introDescription-1J4pmi",
             description: "description-2JL2oB",
-            descriptionSpaced: "descriptionSpaced-3KimHl"
+            descriptionSpaced: "descriptionSpaced-3KimHl",
+            switchField: "switchField-3-keGE",
+            switch: "switch-2rfDZ3"
         }
     },
     6769: function(e, t, o) {
@@ -11403,4 +11409,4 @@
         }
     }
 }]);
-//# sourceMappingURL=b71d0b6f9f88f0450b63.js.map
+//# sourceMappingURL=503d74ecb3fe5aa67ebc.js.map
