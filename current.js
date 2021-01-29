@@ -1643,42 +1643,30 @@
     },
     6492: function(e, t, o) {
         e.exports = {
-            formItem: "formItem-2DUsqN",
-            settingsFormItem: "settingsFormItem-103g1I",
-            wrapperBase: "wrapperBase-x09xGp",
-            formFieldWrapper: "formFieldWrapper-malor5 wrapperBase-x09xGp",
-            settingsFormFieldWrapper: "settingsFormFieldWrapper-3Y77Pr wrapperBase-x09xGp",
-            verificationIcon: "verificationIcon-FinFJj",
-            verificationCheckmark: "verificationCheckmark-1coNFS",
-            termsRow: "termsRow-2dS5nm",
-            termsRowContent: "termsRowContent-24S2LO",
-            checkbox: "checkbox-BXy2rz",
-            checkboxText: "checkboxText-20IXco",
-            formItemDescription: "formItemDescription-1RUg6B",
-            verifyConfirmText: "verifyConfirmText-c_pBxg",
-            settingsLink: "settingsLink-uq19Vg"
-        }
-    },
-    6493: function(e, t, o) {
-        e.exports = {
             sizeEmoji: "1.375em",
             wrapper: "wrapper-2a6GCs",
             compact: "compact-T3H92H",
             cozy: "cozy-3raOZG",
             repliedMessage: "repliedMessage-VokQwo",
+            threadMessageAccessory: "threadMessageAccessory-1pYyA-",
             latin12CompactTimeStamp: "latin12CompactTimeStamp-38a8OU",
             latin24CompactTimeStamp: "latin24CompactTimeStamp-2V7XIQ",
             asianCompactTimeStamp: "asianCompactTimeStamp-1K6-VB",
             replyAvatar: "replyAvatar-1K9Wmr",
             replyBadge: "replyBadge-r1su3o",
+            threadMessageAccessoryAvatar: "threadMessageAccessoryAvatar-2XWCxw",
             replyIcon: "replyIcon-1b4Xjp",
             username: "username-1A8OIy",
             botTag: "botTag-1un5a6",
             repliedTextPreview: "repliedTextPreview-2NBljf",
+            threadMessageAccessoryPreview: "threadMessageAccessoryPreview-1uSsue",
             clickable: "clickable-1bVtEA",
             repliedTextContent: "repliedTextContent-1R3vnK",
+            threadMessageAccessoryContent: "threadMessageAccessoryContent-1LHM39",
             repliedTextPlaceholder: "repliedTextPlaceholder-dmN7D1",
+            threadMessageAccessoryPlaceholder: "threadMessageAccessoryPlaceholder-2pTLxK",
             repliedTextContentIcon: "repliedTextContentIcon-1ivTae",
+            threadMessageAccessoryContentIcon: "threadMessageAccessoryContentIcon-1QAVEG",
             contents: "contents-2mQqc9",
             zalgo: "zalgo-jN1Ica",
             messageContent: "messageContent-2qWWxC",
@@ -1700,6 +1688,24 @@
             isSending: "isSending-9nvak6",
             isFailed: "isFailed-2MPmD6",
             edited: "edited-3sfAzf"
+        }
+    },
+    6493: function(e, t, o) {
+        e.exports = {
+            formItem: "formItem-2DUsqN",
+            settingsFormItem: "settingsFormItem-103g1I",
+            wrapperBase: "wrapperBase-x09xGp",
+            formFieldWrapper: "formFieldWrapper-malor5 wrapperBase-x09xGp",
+            settingsFormFieldWrapper: "settingsFormFieldWrapper-3Y77Pr wrapperBase-x09xGp",
+            verificationIcon: "verificationIcon-FinFJj",
+            verificationCheckmark: "verificationCheckmark-1coNFS",
+            termsRow: "termsRow-2dS5nm",
+            termsRowContent: "termsRowContent-24S2LO",
+            checkbox: "checkbox-BXy2rz",
+            checkboxText: "checkboxText-20IXco",
+            formItemDescription: "formItemDescription-1RUg6B",
+            verifyConfirmText: "verifyConfirmText-c_pBxg",
+            settingsLink: "settingsLink-uq19Vg"
         }
     },
     6494: function(e, t, o) {
@@ -3603,7 +3609,9 @@
             topLine: "topLine-1hV9bl",
             name: "name-1qtoQ5",
             cta: "cta-3MixHV",
-            bottomLine: "bottomLine-2qB7L6"
+            bottomLine: "bottomLine-2qB7L6",
+            hasMessage: "hasMessage-Bnk1Xr",
+            timestamp: "timestamp-1Kyoes"
         }
     },
     6631: function(e, t, o) {
@@ -11414,4 +11422,4 @@
         }
     }
 }]);
-//# sourceMappingURL=965ecfe898cfbcdf5b1d.js.map
+//# sourceMappingURL=2b709c93f78f9bb80303.js.map
