@@ -6231,7 +6231,8 @@
             icon: "icon-1jlFSw",
             text: "text-2J5crT",
             warning: "warning-3C2pOH",
-            info: "info-1rdF5A"
+            info: "info-1rdF5A",
+            error: "error-c-8XMu"
         }
     },
     6834: function(e, t, o) {
@@ -10857,6 +10858,7 @@
             headerSubtitle: "headerSubtitle-KRA6bs",
             headerSubtitleIcon: "headerSubtitleIcon-1fMNRd",
             closeButton: "closeButton-20eBet",
+            modalTitle: "modalTitle-1Ymoer",
             sectionTitle: "sectionTitle-39SH0_",
             clone: "clone-14QU8p marginTop4-2BNfKC",
             permissionsTitle: "permissionsTitle-2yG7gU marginBottom20-32qID7",
@@ -10871,6 +10873,9 @@
             username: "username-2PcCVD",
             emptyRoles: "emptyRoles-39tqQo",
             owner: "owner-2uUH68",
+            addMembersContainer: "addMembersContainer-8K9nhE",
+            addMemberError: "addMemberError-1Rvepg",
+            createError: "createError-1820x-",
             subtitle: "subtitle-3csUrC"
         }
     },
@@ -11482,4 +11487,4 @@
         }
     }
 }]);
-//# sourceMappingURL=7c901bab747215d09632.js.map
+//# sourceMappingURL=58300fda3222578370b3.js.map
