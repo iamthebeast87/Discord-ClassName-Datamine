@@ -10868,6 +10868,7 @@
             marginReset: "marginReset-236NPn",
             marginTop4: "marginTop4-2BNfKC",
             modal: "modal-2VIBV8",
+            modalContent: "modalContent-N6GsWH",
             footer: "footer-1oJbSA",
             description: "description-zfMhzy marginBottom20-32qID7",
             name: "name-3ChUIO marginBottom20-32qID7",
@@ -11508,4 +11509,4 @@
         }
     }
 }]);
-//# sourceMappingURL=f306671f5c9365aeeb6c.js.map
+//# sourceMappingURL=ddc47241d1cdb0f9bbd3.js.map
