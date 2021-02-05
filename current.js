@@ -4496,7 +4496,9 @@
             button: "button-1-5Aqk",
             secondary: "secondary-dIudih",
             disabled: "disabled-3Njyym",
-            tertiary: "tertiary-aMXF0g"
+            tertiary: "tertiary-aMXF0g",
+            size32: "size32-T2BHRe",
+            size36: "size36-1Ff1kn"
         }
     },
     6707: function(e, t, o) {
@@ -11517,4 +11519,4 @@
         }
     }
 }]);
-//# sourceMappingURL=551b38e7ce32d1cb763e.js.map
+//# sourceMappingURL=c40087f8f9951717a0e7.js.map
