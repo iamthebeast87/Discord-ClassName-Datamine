@@ -5462,9 +5462,11 @@
             getStartedSubtitle: "getStartedSubtitle-260-IP",
             getStartedTitle: "getStartedTitle-2nDca2",
             errorBanner: "errorBanner-1EY3-l",
-            autoApprovalNotice: "autoApprovalNotice-3f2MDa",
-            autoApprovalTitle: "autoApprovalTitle-3Suv0U",
-            autoApprovalBody: "autoApprovalBody-7bg-ys"
+            approvalTypeNotice: "approvalTypeNotice-sWkFpW",
+            approvalTypeTitle: "approvalTypeTitle-3JmBVz",
+            autoApprovalTitle: "autoApprovalTitle-3Suv0U approvalTypeTitle-3JmBVz",
+            manualApprovalTitle: "manualApprovalTitle-3aZYAH approvalTypeTitle-3JmBVz",
+            approvalTypeBody: "approvalTypeBody-ctYX-S"
         }
     },
     6798: function(e, t, o) {
@@ -11582,4 +11584,4 @@
         }
     }
 }]);
-//# sourceMappingURL=8caf0a0f87fd8b7f7867.js.map
+//# sourceMappingURL=af0ada05ee721b8b242c.js.map
