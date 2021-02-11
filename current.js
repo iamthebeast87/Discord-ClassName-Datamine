@@ -6505,6 +6505,8 @@
             searchContainer: "searchContainer-2gy0Sr",
             addButton: "addButton-3VFK0j",
             memberRow: "memberRow-1wwtfV",
+            emptyRowContainer: "emptyRowContainer-1OKxeI",
+            emptyRowText: "emptyRowText-10eIhs",
             memberDetails: "memberDetails-2a-kJC",
             list: "list-3a9fyp",
             removeButtonContainer: "removeButtonContainer-1YsIy7",
@@ -11618,4 +11620,4 @@
         }
     }
 }]);
-//# sourceMappingURL=5e282f09c0a8e965996d.js.map
+//# sourceMappingURL=a6259142773a0f232cf5.js.map
