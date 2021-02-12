@@ -6571,6 +6571,17 @@
     },
     6878: function(e, t, o) {
         e.exports = {
+            section: "section-1x7Sca",
+            bannerContainer: "bannerContainer-1owGn0",
+            profileCard: "profileCard-2RGvbu",
+            avatarContainer: "avatarContainer-2_ceKX",
+            avatar: "avatar-vlk88d",
+            avatarName: "avatarName-3m2hgE",
+            roles: "roles-1ti6KV",
+            rolesRow: "rolesRow-3feBSR",
+            roleTag: "roleTag-D34VFC",
+            roleDot: "roleDot-1AlYXT",
+            roleText: "roleText-3gS02L",
             container: "container-32E5OD",
             button: "button-31sMrX",
             introBody: "introBody-1Obw1p",
@@ -11638,4 +11649,4 @@
         }
     }
 }]);
-//# sourceMappingURL=bc088683dcc87884275a.js.map
+//# sourceMappingURL=146a74cffeda0d12ae45.js.map
