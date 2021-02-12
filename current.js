@@ -8316,7 +8316,8 @@
             dmIconContainer: "dmIconContainer-2yFeX3 iconContainer-3UxHn2",
             guildIconContainer: "guildIconContainer-1M95yt iconContainer-3UxHn2",
             guildIcon: "guildIcon-Ripiyt",
-            avatarSizeOverride: "avatarSizeOverride-2KySyz"
+            avatarSizeOverride: "avatarSizeOverride-2KySyz",
+            score: "score-HzQK9w"
         }
     },
     7026: function(e, t, o) {
@@ -11633,4 +11634,4 @@
         }
     }
 }]);
-//# sourceMappingURL=bf9dc50b300743f997e7.js.map
+//# sourceMappingURL=9f1d506346f6f5d3e9d9.js.map
