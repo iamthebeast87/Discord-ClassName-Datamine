@@ -2100,7 +2100,8 @@
         e.exports = {
             "sidebar-width": "undefined",
             contentWidth: "contentWidth-xLB44s",
-            stickyHeader: "stickyHeader-hH_ZLl"
+            stickyHeader: "stickyHeader-hH_ZLl",
+            stickyHeaderElevated: "stickyHeaderElevated-I6QUOA"
         }
     },
     6539: function(e, t, o) {
@@ -6536,6 +6537,7 @@
             sidebar: "sidebar-dLM-kh",
             container: "container-23jqbX",
             titleContainer: "titleContainer-2CXtJo",
+            titleElevated: "titleElevated-c_kdi7",
             title: "title-3GS0Tf",
             titleText: "titleText-1lbERP",
             list: "list-I3aHXn",
@@ -11634,4 +11636,4 @@
         }
     }
 }]);
-//# sourceMappingURL=9f1d506346f6f5d3e9d9.js.map
+//# sourceMappingURL=4b3aff60f99b1dffe7e1.js.map
