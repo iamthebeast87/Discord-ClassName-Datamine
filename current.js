@@ -5707,11 +5707,12 @@
             username: "username-1b3MVI",
             discrim: "discrim-oGb-FO",
             bannedUserModal: "bannedUserModal-3RJCOV",
+            header: "header-kk07Uz",
             userDiscrim: "userDiscrim-1D2NlF",
             userUsername: "userUsername-W3oZL9",
             reasonHeader: "reasonHeader-2etdjy",
             content: "content-1x7qW2",
-            footer: "footer-322fxT",
+            error: "error-tieM06",
             reason: "reason-YbfGC6"
         }
     },
@@ -11651,4 +11652,4 @@
         }
     }
 }]);
-//# sourceMappingURL=fd218b50509d92208272.js.map
+//# sourceMappingURL=db96e033568120ca9dd3.js.map
