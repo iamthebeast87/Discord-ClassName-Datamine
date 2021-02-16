@@ -2100,6 +2100,7 @@
         e.exports = {
             "sidebar-width": "undefined",
             contentWidth: "contentWidth-xLB44s",
+            header: "header-2mZ9Ov",
             stickyHeader: "stickyHeader-hH_ZLl",
             stickyHeaderElevated: "stickyHeaderElevated-I6QUOA"
         }
@@ -11660,4 +11661,4 @@
         }
     }
 }]);
-//# sourceMappingURL=930084f7ce00cd2ccd54.js.map
+//# sourceMappingURL=9b7e728768b8d7355e53.js.map
