@@ -6557,7 +6557,9 @@
             rowSelected: "rowSelected-1AHq2T",
             lock: "lock-1sBixy",
             roleDot: "roleDot-ZwSovK",
-            roleName: "roleName-2IkRdr"
+            roleName: "roleName-2IkRdr",
+            dragAfter: "dragAfter-1ydZtZ",
+            dragBefore: "dragBefore-cCyY7J"
         }
     },
     6878: function(e, t, o) {
@@ -11658,4 +11660,4 @@
         }
     }
 }]);
-//# sourceMappingURL=6ececdcb955e0374e885.js.map
+//# sourceMappingURL=930084f7ce00cd2ccd54.js.map
