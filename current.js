@@ -6454,7 +6454,9 @@
     },
     6869: function(e, t, o) {
         e.exports = {
+            titleContainer: "titleContainer-CjPpBt",
             titleText: "titleText-1ZIyhl",
+            menu: "menu-32AM6u",
             tabBar: "tabBar-11f3uI",
             warning: "warning-2TgtqC"
         }
@@ -6536,6 +6538,7 @@
             container: "container-1Saj_P",
             headerContainer: "headerContainer-1X2CD8",
             header: "header-21q_Ro",
+            searchWarning: "searchWarning-2nIG6E",
             searchContainer: "searchContainer-2gy0Sr",
             addButton: "addButton-3VFK0j",
             memberRow: "memberRow-1wwtfV",
@@ -6643,7 +6646,6 @@
             roleNameSpacing: "roleNameSpacing-XtjbtV",
             memberSpacing: "memberSpacing-1zJbKJ",
             buttonsSpacing: "buttonsSpacing-3twfdv",
-            divider: "divider-3qBwSB",
             emptyRoles: "emptyRoles-23F3oy",
             emptyRolesText: "emptyRolesText-gurxgN",
             roleRow: "roleRow-30TwGe",
@@ -11661,4 +11663,4 @@
         }
     }
 }]);
-//# sourceMappingURL=f384bd5d653a86fef4ed.js.map
+//# sourceMappingURL=cba0ea4f12803ec5f199.js.map
