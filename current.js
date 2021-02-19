@@ -765,7 +765,7 @@
             compact: "compact-3q6200"
         }
     },
-    5280: function(e, t, o) {
+    5281: function(e, t, o) {
         e.exports = {
             darkElevationLow: "darkElevationLow-DABD7i",
             darkElevationHigh: "darkElevationHigh-6iWpWi",
@@ -2478,6 +2478,7 @@
             titleWrapper: "titleWrapper-1l0xT9",
             editPartyIcon: "editPartyIcon-1GA5r3",
             channelName: "channelName-3stJzi",
+            parentChannelName: "parentChannelName-1C2HEo",
             title: "title-3qD0b-",
             followButton: "followButton-L6L-Us",
             status: "status-1XNdyw"
@@ -4580,7 +4581,8 @@
             icon: "icon-22AiRD",
             selected: "selected-1GqIat",
             iconBadge: "iconBadge-qZ4Ksk",
-            divider: "divider-3FBTu8"
+            divider: "divider-3FBTu8",
+            caret: "caret-3W7cBB"
         }
     },
     6737: function(e, t, o) {
@@ -11692,4 +11694,4 @@
         }
     }
 }]);
-//# sourceMappingURL=b151faaf429ec73ca5f3.js.map
+//# sourceMappingURL=9bcb8ca24262549d9452.js.map
