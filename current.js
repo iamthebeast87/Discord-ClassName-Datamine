@@ -6697,7 +6697,6 @@
             lock: "lock-XkLDU9",
             roleName: "roleName-1vjSQR",
             memberCountContainer: "memberCountContainer-1BJFU2",
-            memberCount: "memberCount-1dJD4s",
             person: "person-36TQaZ",
             buttonsContainer: "buttonsContainer-bgP7-t",
             editButton: "editButton-1V012_",
@@ -11695,4 +11694,4 @@
         }
     }
 }]);
-//# sourceMappingURL=9fdc2eaf0b54b0f1e2c3.js.map
+//# sourceMappingURL=169e5aacf0ce6db2bdb0.js.map
