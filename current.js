@@ -6602,7 +6602,8 @@
             searchContainer: "searchContainer-3pUVEQ",
             clearButton: "clearButton-3wWY21",
             noResultsContainer: "noResultsContainer-1kVGAa",
-            noResults: "noResults-3C-Rr0"
+            noResults: "noResults-3C-Rr0",
+            permissionsForm: "permissionsForm-1DoqZ5"
         }
     },
     6886: function(e, t, o) {
@@ -11695,4 +11696,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ee16d81eac0bc0f19cd9.js.map
+//# sourceMappingURL=d62f3ac35d17235b3d46.js.map
