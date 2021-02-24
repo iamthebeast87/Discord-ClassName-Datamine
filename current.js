@@ -5156,7 +5156,6 @@
     },
     6789: function(e, t, o) {
         e.exports = {
-            positionLayer: "positionLayer-1KzSAt",
             positionContainer: "positionContainer-DEuh7X",
             positionContainerEditingMessage: "positionContainerEditingMessage-13cck-",
             drawerSizingWrapper: "drawerSizingWrapper-17Mss4",
@@ -11667,4 +11666,4 @@
         }
     }
 }]);
-//# sourceMappingURL=e8f4d3e72d01ab867d48.js.map
+//# sourceMappingURL=d1f3c86f1a77d5444ec5.js.map
