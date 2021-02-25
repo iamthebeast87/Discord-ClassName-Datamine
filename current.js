@@ -2467,6 +2467,7 @@
         e.exports = {
             chat: "chat-3bRxxu",
             threadSidebar: "threadSidebar-1o3BTy",
+            threadSidebarOpen: "threadSidebarOpen-vdkwIh",
             form: "form-2fGMdU",
             chatContent: "chatContent-a9vAAp",
             cursorPonter: "cursorPonter-YEp76E",
@@ -11666,4 +11667,4 @@
         }
     }
 }]);
-//# sourceMappingURL=7273a4953f471855a2a6.js.map
+//# sourceMappingURL=0b6aebeb4aaf14fe6277.js.map
