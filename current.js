@@ -1807,49 +1807,6 @@
     },
     6538: function(e, t, o) {
         e.exports = {
-            container: "container-19nk2r",
-            guildSidebar: "guildSidebar-2OCzWB",
-            guildDescription: "guildDescription-122n1Y",
-            guildIcon: "guildIcon-38Zs0M",
-            guildName: "guildName-2TIjNT",
-            emojisContainer: "emojisContainer-19mZ0z",
-            emoji: "emoji-3C344l",
-            onlineCount: "onlineCount-27XuPk",
-            dot: "dot-14Jva_",
-            dotOnline: "dotOnline-2wEpt_ dot-14Jva_",
-            dotMembers: "dotMembers-1XEUE5 dot-14Jva_",
-            divider: "divider-2FB3wK",
-            modal: "modal-f02hVt",
-            sequencer: "sequencer-GH6NxK",
-            modalContent: "modalContent-1iyOR2",
-            content: "content-3wJ8G6",
-            centerContent: "centerContent-3pbrOl",
-            closeButton: "closeButton-1aXUE8",
-            applicationIcon: "applicationIcon-1_YMdt",
-            animationAndSparklesContainer: "animationAndSparklesContainer-MGS9s5",
-            sparkleIcon: "sparkleIcon-2uxoYp",
-            sparkleTop: "sparkleTop-qBeDaK",
-            sparkleBottom: "sparkleBottom-1AUcMi",
-            animation: "animation-vamXOL",
-            header: "header-3WG5kX",
-            verificationForm: "verificationForm-lhyAxu",
-            footer: "footer-1JuRYY",
-            submitButton: "submitButton-YEItfy",
-            formItem: "formItem-LXNO4Q",
-            resendButton: "resendButton-3WkctP",
-            confirmation: "confirmation-2zE9ir",
-            confirmationContent: "confirmationContent-1LS30-",
-            confirmationButtonRow: "confirmationButtonRow-2J_xOl",
-            confirmationButtonColumn: "confirmationButtonColumn-X0tXMk",
-            confirmationButton: "confirmationButton-1s3fqt",
-            confirmationSecondary: "confirmationSecondary-1S5GoO",
-            secondaryConfirmationButtonRow: "secondaryConfirmationButtonRow-3H4SvO",
-            notice: "notice-3UEAq4",
-            rejectionReasonLabel: "rejectionReasonLabel-3CSyvn"
-        }
-    },
-    6539: function(e, t, o) {
-        e.exports = {
             textAreaHeight: "44px",
             channelTextArea: "channelTextArea-2VhZ6z",
             highlighted: "highlighted-2eSV1B",
@@ -1885,7 +1842,7 @@
             fontSize24Padding: "fontSize24Padding-2Tz8jD"
         }
     },
-    6540: function(e, t, o) {
+    6539: function(e, t, o) {
         e.exports = {
             innerPadding: "16px",
             artHeight: "112px",
@@ -1901,6 +1858,48 @@
             flexGrow: "flexGrow-3k1BKf",
             cancelButton: "cancelButton-1mlh7b",
             art: "art-1qgogX"
+        }
+    },
+    6540: function(e, t, o) {
+        e.exports = {
+            container: "container-19nk2r",
+            guildSidebar: "guildSidebar-2OCzWB",
+            guildDescription: "guildDescription-122n1Y",
+            guildIcon: "guildIcon-38Zs0M",
+            guildName: "guildName-2TIjNT",
+            emojisContainer: "emojisContainer-19mZ0z",
+            emoji: "emoji-3C344l",
+            onlineCount: "onlineCount-27XuPk",
+            dot: "dot-14Jva_",
+            dotOnline: "dotOnline-2wEpt_ dot-14Jva_",
+            dotMembers: "dotMembers-1XEUE5 dot-14Jva_",
+            divider: "divider-2FB3wK",
+            modal: "modal-f02hVt",
+            sequencer: "sequencer-GH6NxK",
+            modalContent: "modalContent-1iyOR2",
+            content: "content-3wJ8G6",
+            centerContent: "centerContent-3pbrOl",
+            closeButton: "closeButton-1aXUE8",
+            applicationIcon: "applicationIcon-1_YMdt",
+            animationAndSparklesContainer: "animationAndSparklesContainer-MGS9s5",
+            sparkleIcon: "sparkleIcon-2uxoYp",
+            sparkleTop: "sparkleTop-qBeDaK",
+            sparkleBottom: "sparkleBottom-1AUcMi",
+            animation: "animation-vamXOL",
+            header: "header-3WG5kX",
+            verificationForm: "verificationForm-lhyAxu",
+            footer: "footer-1JuRYY",
+            submitButton: "submitButton-YEItfy",
+            formItem: "formItem-LXNO4Q",
+            resendButton: "resendButton-3WkctP",
+            confirmation: "confirmation-2zE9ir",
+            confirmationContent: "confirmationContent-1LS30-",
+            confirmationButtonRow: "confirmationButtonRow-2J_xOl",
+            confirmationButton: "confirmationButton-1s3fqt",
+            confirmationButtonColumn: "confirmationButtonColumn-X0tXMk",
+            notice: "notice-3UEAq4",
+            rejectionReasonLabel: "rejectionReasonLabel-3CSyvn",
+            rejectionReason: "rejectionReason-31OKzD"
         }
     },
     6541: function(e, t, o) {
@@ -11667,4 +11666,4 @@
         }
     }
 }]);
-//# sourceMappingURL=65a6f5640273a204d409.js.map
+//# sourceMappingURL=def43736b524c9f41ea0.js.map
