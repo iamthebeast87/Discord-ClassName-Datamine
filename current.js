@@ -3659,12 +3659,10 @@
             spine: "spine-5jbOmI",
             cozy: "cozy-XCy5h_",
             container: "container-3hZ-gs",
-            iconWrapper: "iconWrapper-jpIswi",
             topLine: "topLine-1hV9bl",
             name: "name-1qtoQ5",
             cta: "cta-3MixHV",
             bottomLine: "bottomLine-2qB7L6",
-            hasMessage: "hasMessage-Bnk1Xr",
             timestamp: "timestamp-1Kyoes"
         }
     },
@@ -11671,4 +11669,4 @@
         }
     }
 }]);
-//# sourceMappingURL=f7958a733fa78f351a06.js.map
+//# sourceMappingURL=658bd11ff90bca5df09d.js.map
