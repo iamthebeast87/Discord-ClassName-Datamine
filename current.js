@@ -5162,7 +5162,7 @@
         e.exports = {
             positionLayer: "positionLayer-1KzSAt",
             positionContainer: "positionContainer-DEuh7X",
-            positionContainerEditingMessage: "positionContainerEditingMessage-13cck-",
+            positionContainerOnlyEmoji: "positionContainerOnlyEmoji--VzZ6D",
             drawerSizingWrapper: "drawerSizingWrapper-17Mss4",
             contentWrapper: "contentWrapper-SvZHNd",
             nav: "nav-7UD0KD",
@@ -11671,4 +11671,4 @@
         }
     }
 }]);
-//# sourceMappingURL=0e3a369f9c2741fcc9bd.js.map
+//# sourceMappingURL=ab44f74604411f58e42a.js.map
