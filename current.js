@@ -1971,6 +1971,7 @@
     6550: function(e, t, o) {
         e.exports = {
             uploadArea: "uploadArea-3QgLtW",
+            droppable: "droppable-1orUyP",
             uploadModalIn: "uploadModalIn-1z07Bv",
             uploadDropModal: "uploadDropModal-2kTwbc",
             uploadIconAnimateIn: "uploadIconAnimateIn-2ME8Vn",
@@ -2030,7 +2031,8 @@
             channelTextAreaUpload: "channelTextAreaUpload-3t7EIx",
             footer: "footer-3mqk7D",
             hasSpoilers: "hasSpoilers-1IRtQC",
-            cancelAllButton: "cancelAllButton-16p7ma"
+            cancelAllButton: "cancelAllButton-16p7ma",
+            destination: "destination-3ZiRO2"
         }
     },
     6551: function(e, t, o) {
@@ -2488,6 +2490,7 @@
         e.exports = {
             chat: "chat-3bRxxu",
             threadSidebar: "threadSidebar-1o3BTy",
+            uploadArea: "uploadArea-1qnBZm",
             threadSidebarOpen: "threadSidebarOpen-vdkwIh",
             form: "form-2fGMdU",
             chatContent: "chatContent-a9vAAp",
@@ -11668,4 +11671,4 @@
         }
     }
 }]);
-//# sourceMappingURL=27ef167d05716e411d4b.js.map
+//# sourceMappingURL=0e3a369f9c2741fcc9bd.js.map
