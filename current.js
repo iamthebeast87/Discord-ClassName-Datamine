@@ -2494,7 +2494,7 @@
             threadSidebarOpen: "threadSidebarOpen-vdkwIh",
             form: "form-2fGMdU",
             chatContent: "chatContent-a9vAAp",
-            cursorPonter: "cursorPonter-YEp76E",
+            cursorPointer: "cursorPointer-1j7DL8",
             content: "content-yTz4x3",
             noChat: "noChat-9aipKz",
             channelTextArea: "channelTextArea-rNsIhG",
@@ -11669,4 +11669,4 @@
         }
     }
 }]);
-//# sourceMappingURL=658bd11ff90bca5df09d.js.map
+//# sourceMappingURL=618502c1d731bd2a055f.js.map
