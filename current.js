@@ -1723,6 +1723,7 @@
             replying: "replying-1x3H0T",
             message: "message-2qnXI6",
             selected: "selected-2P5D_Z",
+            quotedChatMessage: "quotedChatMessage-3HzRaD",
             buttons: "buttons-cl5qTG",
             cozyMessage: "cozyMessage-3V1Y8y",
             groupStart: "groupStart-23k01U",
@@ -11731,4 +11732,4 @@
         }
     }
 }]);
-//# sourceMappingURL=a1e46bbe2b331dedf5cd.js.map
+//# sourceMappingURL=411cb21859d75471d84d.js.map
