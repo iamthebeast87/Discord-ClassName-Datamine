@@ -20,7 +20,7 @@
             marginCenterHorz: "marginCenterHorz-1s41rg"
         }
     },
-    414: function(e, t, o) {
+    415: function(e, t, o) {
         e.exports = {
             scrollerBase: "scrollerBase-289Jih",
             thin: "thin-1ybCId scrollerBase-289Jih",
@@ -726,7 +726,6 @@
             purchaseTerms: "purchaseTerms-1aF7k1",
             invalidIcon: "invalidIcon-1uHQWY",
             choosePaymentSourceType: "choosePaymentSourceType-2Q_3qs",
-            formItem: "formItem-2EhD7S",
             buyButtonTooltipWrapper: "buyButtonTooltipWrapper-3ISTfu",
             buyButtonTooltipTarget: "buyButtonTooltipTarget-2JtpkN",
             backButtonSize: "backButtonSize-4hJ3lM",
@@ -1015,7 +1014,9 @@
         e.exports = {
             transitionGroup: "transitionGroup-aR7y1d",
             measurement: "measurement-DMxQp7",
-            measurementFill: "measurementFill-31KKmO measurement-DMxQp7"
+            measurementFill: "measurementFill-31KKmO measurement-DMxQp7",
+            measurementFillStatic: "measurementFillStatic-MZ1pNY",
+            animatedNode: "animatedNode-5VAmrN"
         }
     },
     5438: function(e, t, o) {
@@ -1149,13 +1150,8 @@
     },
     5451: function(e, t, o) {
         e.exports = {
-            paymentTypeSelectStep: "paymentTypeSelectStep-q07Z2s",
-            creditCardInfoStep: "creditCardInfoStep-256421",
-            paymentRequestStep: "paymentRequestStep-35TiYS",
-            paypalStep: "paypalStep-1AUAG1",
-            addressStep: "addressStep-3DW7bF",
             awaitingAuthenticationStep: "awaitingAuthenticationStep-3mW1JG",
-            reviewStep: "reviewStep-2XG0zd"
+            body: "body-31Cs__"
         }
     },
     5452: function(e, t, o) {
@@ -1244,8 +1240,12 @@
             content: "content-1YdlXf",
             breadcrumbsWrapper: "breadcrumbsWrapper-3avBWN",
             bodyWrapper: "bodyWrapper-3GGwfp",
-            errorBlock: "errorBlock-Dr2AeS",
-            loadingBlock: "loadingBlock-2I2zJI"
+            scroller: "scroller-3tPHw0",
+            errorBlockWrapper: "errorBlockWrapper-1ZfYVz",
+            paymentNote: "paymentNote-3NUaTF",
+            loadingBlock: "loadingBlock-2I2zJI",
+            sequencer: "sequencer-2GXxB2",
+            sequencerInner: "sequencerInner-3_gwOO"
         }
     },
     5461: function(e, t, o) {
@@ -1946,12 +1946,7 @@
             reviewBodyHeader: "reviewBodyHeader-18rCjE",
             invoice: "invoice-iONs1k",
             paymentSourceDropdown: "paymentSourceDropdown-3-Mpfe",
-            legalese: "legalese-118feI",
-            skuPreviewModalContent: "skuPreviewModalContent-3IkwuK",
-            upsellModalContent: "upsellModalContent-1rwrNE",
-            upsellContinue: "upsellContinue-3VLXSW",
             modalContentForm: "modalContentForm-1volcU",
-            terms: "terms-2MPusA",
             fullModalSpinnerWrapper: "fullModalSpinnerWrapper-2q8B_o"
         }
     },
@@ -11713,4 +11708,4 @@
         }
     }
 }]);
-//# sourceMappingURL=64467a25b0af62e9996f.js.map
+//# sourceMappingURL=6088ea4184826086b32e.js.map
