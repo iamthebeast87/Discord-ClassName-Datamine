@@ -10456,9 +10456,8 @@
     },
     7234: function(e, t, o) {
         e.exports = {
-            marginBottom40: "marginBottom40-2vIwTv",
             features: "features-2npk2D",
-            video: "video-34IsHk marginBottom40-2vIwTv",
+            video: "video-34IsHk",
             perksHeading: "perksHeading-3oxU3I",
             perkIcon: "perkIcon-2bvvgO",
             perkNewsletter: "perkNewsletter-2lxlA1 perkIcon-2bvvgO",
@@ -11754,4 +11753,4 @@
         }
     }
 }]);
-//# sourceMappingURL=83a17f347e8111775e7e.js.map
+//# sourceMappingURL=5b82dd8114162e66294b.js.map
