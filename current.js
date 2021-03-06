@@ -3067,6 +3067,7 @@
             footer: "footer-1fjuF6",
             wumpusWrapper: "wumpusWrapper-yrvoR3",
             wumpus: "wumpus-3VDMUi",
+            wumpusImage: "wumpusImage-1f6wii",
             wumpusTooltip: "wumpusTooltip-65YlMT",
             wumpusShown: "wumpusShown-2xKVn_",
             protip: "protip-YaFfgO",
@@ -11753,4 +11754,4 @@
         }
     }
 }]);
-//# sourceMappingURL=5b82dd8114162e66294b.js.map
+//# sourceMappingURL=a91c0483a9d3d49e0bbb.js.map
