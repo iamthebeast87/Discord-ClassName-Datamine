@@ -9786,6 +9786,9 @@
             slash: "slash-3wynFg",
             requestToSpeakTitle: "requestToSpeakTitle-1jHxM9",
             requestToSpeakDescription: "requestToSpeakDescription-1QF1DX",
+            leaveQuietlyButton: "leaveQuietlyButton-1yMc0b",
+            leaveQuietlyButtonInnerContainer: "leaveQuietlyButtonInnerContainer-3RO33o",
+            leaveQuietlyIcon: "leaveQuietlyIcon-3W16Ig",
             raiseHandButton: "raiseHandButton-1TZpXJ",
             buttonSpacing: "buttonSpacing-3apH88",
             speakerRaiseHandButton: "speakerRaiseHandButton-1-xsvS",
@@ -11829,4 +11832,4 @@
         }
     }
 }]);
-//# sourceMappingURL=b7f21e68056fc6072365.js.map
+//# sourceMappingURL=8b1a0b293be715ade214.js.map
