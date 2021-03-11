@@ -3211,13 +3211,17 @@
             expanded: "expanded-2itZLW",
             footer: "footer-2yA7Ep",
             toggleExpandSection: "toggleExpandSection-3WJYqa",
+            openFullPreviewSection: "openFullPreviewSection-DZS30W",
             footerGap: "footerGap-Dnjvue",
             downloadSection: "downloadSection-3DLWUO",
             attachmentName: "attachmentName-1iFwvb",
             formattedSize: "formattedSize-2PXVec",
             downloadButton: "downloadButton-3RfpkU",
             languageSelector: "languageSelector-2LVJrh",
-            codeIcon: "codeIcon-3YZylx"
+            codeIcon: "codeIcon-3YZylx",
+            modalRoot: "modalRoot-2o6FJT",
+            modalContent: "modalContent-3XArPg",
+            modalTextContainer: "modalTextContainer-ITvzbi"
         }
     },
     6664: function(e, t, o) {
@@ -7365,7 +7369,7 @@
             tooltipPointer: "tooltipPointer-lElcog",
             clickable: "clickable-3AL_3x",
             mention: "mention-z5tRxB",
-            optionKey: "optionKey-NJXdov",
+            text: "text-3EzEiT",
             spinner: "spinner-2_i11Y"
         }
     },
@@ -11860,4 +11864,4 @@
         }
     }
 }]);
-//# sourceMappingURL=995495fdeb905100050f.js.map
+//# sourceMappingURL=505af69f753fa087afde.js.map
