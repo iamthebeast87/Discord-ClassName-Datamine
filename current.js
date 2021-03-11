@@ -9818,6 +9818,7 @@
             leaveQuietlyIcon: "leaveQuietlyIcon-3W16Ig",
             raiseHandButton: "raiseHandButton-1TZpXJ",
             buttonSpacing: "buttonSpacing-3apH88",
+            speakerRaiseHandButtonContainer: "speakerRaiseHandButtonContainer-3VziUu",
             speakerRaiseHandButton: "speakerRaiseHandButton-1-xsvS",
             speakerRaiseHandBadge: "speakerRaiseHandBadge-kSmEho"
         }
@@ -11859,4 +11860,4 @@
         }
     }
 }]);
-//# sourceMappingURL=755072897c8e0e522408.js.map
+//# sourceMappingURL=995495fdeb905100050f.js.map
