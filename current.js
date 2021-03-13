@@ -3665,6 +3665,7 @@
     6717: function(e, t, o) {
         e.exports = {
             searchContainer: "searchContainer-H0HeAc",
+            shadow: "shadow-1g4H9H",
             searchBar: "searchBar-3VnLxg",
             searchFilter: "searchFilter-1463q2"
         }
@@ -3677,6 +3678,7 @@
             stickersListDividerHeight: "30px",
             container: "container-ZuOyTt",
             resultsContainer: "resultsContainer-3_Ba7o",
+            shopList: "shopList-3PHg-H",
             closeButton: "closeButton-3zQgWY",
             header: "header-2yFuEx",
             backgroundImage: "backgroundImage-GBlENr",
@@ -11899,4 +11901,4 @@
         }
     }
 }]);
-//# sourceMappingURL=acb1e79c467d66c50f48.js.map
+//# sourceMappingURL=afbc54e233b6e77cac5e.js.map
