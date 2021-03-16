@@ -4820,6 +4820,7 @@
             border: "border-3dQmSY",
             speaking: "speaking-WDn8Wm",
             noBorder: "noBorder-i2e48Y",
+            videoLayer: "videoLayer-3hTtOT",
             overlay: "overlay-1YJlCn",
             overlayTitle: "overlayTitle-8IcS01",
             overlayTitleText: "overlayTitleText-2mmQzi",
@@ -11910,4 +11911,4 @@
         }
     }
 }]);
-//# sourceMappingURL=e07c118183c9b8184749.js.map
+//# sourceMappingURL=e6ef1b613694054cfb48.js.map
