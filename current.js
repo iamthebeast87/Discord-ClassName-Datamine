@@ -9844,6 +9844,7 @@
             contentContainer: "contentContainer-3uyIT3",
             selfSpeakerContainer: "selfSpeakerContainer-qt7ckS",
             buttonContainer: "buttonContainer-38-Et1",
+            buttonMargin: "buttonMargin-3w-apA",
             selfSpeakerButton: "selfSpeakerButton-2ZvK-g",
             selfSpeakerText: "selfSpeakerText-3QjNKH",
             listTitle: "listTitle-3x9PAq",
@@ -9914,6 +9915,7 @@
         e.exports = {
             container: "container-2j8dvG",
             audienceButton: "audienceButton-M5mD1c",
+            makeMeASpeakerButton: "makeMeASpeakerButton-2_Cz3b",
             requestToSpeakContainer: "requestToSpeakContainer-3YU4EO",
             requestToSpeakDescriptionContainer: "requestToSpeakDescriptionContainer-3-tb15",
             requestToSpeakIcon: "requestToSpeakIcon-1BjGfe",
@@ -9924,6 +9926,7 @@
             leaveQuietlyButtonInnerContainer: "leaveQuietlyButtonInnerContainer-3RO33o",
             leaveQuietlyIcon: "leaveQuietlyIcon-3W16Ig",
             raiseHandButton: "raiseHandButton-1TZpXJ",
+            raisedHandButtonIconActive: "raisedHandButtonIconActive-1_Aqtv",
             buttonSpacing: "buttonSpacing-3apH88",
             speakerRaiseHandButtonContainer: "speakerRaiseHandButtonContainer-3VziUu",
             speakerRaiseHandButton: "speakerRaiseHandButton-1-xsvS",
@@ -9934,7 +9937,7 @@
         e.exports = {
             container: "container-2-WIeg",
             centeredText: "centeredText-Y_Aze6",
-            spotlightBackground: "spotlightBackground-BH8tY6",
+            stageIconBackground: "stageIconBackground-2b1PtR",
             headerTitle: "headerTitle-3bslRD",
             headerSubtitle: "headerSubtitle-1CNefI",
             formItem: "formItem-IIMfGc",
@@ -11981,4 +11984,4 @@
         }
     }
 }]);
-//# sourceMappingURL=4352dd433abb93961860.js.map
+//# sourceMappingURL=f3ed089e927d6608b7d7.js.map
