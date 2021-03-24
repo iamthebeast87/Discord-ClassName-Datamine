@@ -6995,7 +6995,8 @@
             liveIndicator: "liveIndicator-vaS2et",
             audienceVoiceUserContainer: "audienceVoiceUserContainer-Ra-ErA",
             audienceVoiceUserIconContainer: "audienceVoiceUserIconContainer-29oflP",
-            audienceVoiceUserText: "audienceVoiceUserText-BhGzmw"
+            audienceVoiceUserText: "audienceVoiceUserText-BhGzmw",
+            iconLive: "iconLive-AtZKgD"
         }
     },
     6974: function(e, t, o) {
@@ -11975,4 +11976,4 @@
         }
     }
 }]);
-//# sourceMappingURL=a849c2b23d7636c97ef6.js.map
+//# sourceMappingURL=422c77243dc57b5f4756.js.map
