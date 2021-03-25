@@ -6949,6 +6949,7 @@
         e.exports = {
             content: "content-2xFTs5",
             stageIconBackground: "stageIconBackground-135TMe",
+            stageIcon: "stageIcon-165KZv",
             headerTitle: "headerTitle-lsNnIA",
             headerSubtitle: "headerSubtitle-2482V5",
             buttonsContainer: "buttonsContainer-23PQkw",
@@ -6961,6 +6962,7 @@
         e.exports = {
             content: "content-2MHbqU",
             stageIconBackground: "stageIconBackground-5uF4K9",
+            stageIcon: "stageIcon-A2C70A",
             headerTitle: "headerTitle-xJ20KD",
             headerSubtitle: "headerSubtitle-1I1MS0",
             formItem: "formItem-pGBLfU",
@@ -12002,4 +12004,4 @@
         }
     }
 }]);
-//# sourceMappingURL=0f0a44d920a35c147355.js.map
+//# sourceMappingURL=6c17988312178894bafe.js.map
