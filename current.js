@@ -2486,6 +2486,7 @@
             iconContainer: "iconContainer-1BBaeJ",
             mainContent: "mainContent-u_9PKf",
             name: "name-23GUGE",
+            channelName: "channelName-2YrOjO",
             subtitle: "subtitle-3V1p2E",
             unread: "unread-2lAfLh",
             children: "children-3rEycc",
@@ -12039,4 +12040,4 @@
         }
     }
 }]);
-//# sourceMappingURL=8ab071e357196c20947b.js.map
+//# sourceMappingURL=b6fdb33155cf1ba1f1f1.js.map
