@@ -9961,7 +9961,8 @@
             container: "container-oZq3fb",
             title: "title-1TBybU",
             textContainer: "textContainer-1u8lqv",
-            rightIcon: "rightIcon-2hfqn2"
+            rightIcon: "rightIcon-2hfqn2",
+            greenIcon: "greenIcon-1ZeVJZ"
         }
     },
     7240: function(e, t, o) {
@@ -12036,4 +12037,4 @@
         }
     }
 }]);
-//# sourceMappingURL=1e90fd610c58ebf9d10c.js.map
+//# sourceMappingURL=39aa7a418f15afe8a791.js.map
