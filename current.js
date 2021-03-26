@@ -9969,12 +9969,8 @@
             container: "container-2j8dvG",
             audienceButton: "audienceButton-M5mD1c",
             makeMeASpeakerButton: "makeMeASpeakerButton-2_Cz3b",
-            requestToSpeakContainer: "requestToSpeakContainer-3YU4EO",
-            requestToSpeakDescriptionContainer: "requestToSpeakDescriptionContainer-3-tb15",
             requestToSpeakIcon: "requestToSpeakIcon-1BjGfe",
             slash: "slash-3wynFg",
-            requestToSpeakTitle: "requestToSpeakTitle-1jHxM9",
-            requestToSpeakDescription: "requestToSpeakDescription-1QF1DX",
             leaveQuietlyButton: "leaveQuietlyButton-1yMc0b",
             leaveQuietlyButtonInnerContainer: "leaveQuietlyButtonInnerContainer-3RO33o",
             leaveQuietlyIcon: "leaveQuietlyIcon-3W16Ig",
@@ -12039,4 +12035,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ef79e3441065e856ba2d.js.map
+//# sourceMappingURL=d827577ce71b8bb52bf3.js.map
