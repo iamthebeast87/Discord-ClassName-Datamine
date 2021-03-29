@@ -9907,9 +9907,10 @@
     7234: function(e, t, o) {
         e.exports = {
             tileContainer: "tileContainer-BaRAZF",
+            textContainer: "textContainer-3dhW-4",
             text: "text-2wY55Y",
-            icon: "icon-3z8ito",
-            boost: "boost-3TdRZp"
+            boost: "boost-3TdRZp",
+            icon: "icon-3z8ito"
         }
     },
     7235: function(e, t, o) {
@@ -12037,4 +12038,4 @@
         }
     }
 }]);
-//# sourceMappingURL=9b36943bedc9d85d773b.js.map
+//# sourceMappingURL=4b563588752128feca75.js.map
