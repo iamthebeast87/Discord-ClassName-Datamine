@@ -9895,7 +9895,6 @@
             participantMemberContainer: "participantMemberContainer-3JuhCc",
             participantAvatar: "participantAvatar-2CxvNm",
             participantName: "participantName-1SXKIB",
-            divider: "divider-3I8NVc",
             emptyStateContainer: "emptyStateContainer-ExQMn0",
             emptyStateTitle: "emptyStateTitle-3RFcC1",
             emptyStateBody: "emptyStateBody-2qGLUo",
@@ -12042,4 +12041,4 @@
         }
     }
 }]);
-//# sourceMappingURL=5a13c268f48eafbe6496.js.map
+//# sourceMappingURL=8c195375746019638319.js.map
