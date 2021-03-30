@@ -9893,6 +9893,7 @@
             listTitle: "listTitle-3x9PAq",
             participantRowContainer: "participantRowContainer-2LfSyI",
             participantMemberContainer: "participantMemberContainer-3JuhCc",
+            participantAvatar: "participantAvatar-2CxvNm",
             participantName: "participantName-1SXKIB",
             divider: "divider-3I8NVc",
             emptyStateContainer: "emptyStateContainer-ExQMn0",
@@ -12041,4 +12042,4 @@
         }
     }
 }]);
-//# sourceMappingURL=50e8b42ef3a73695bce8.js.map
+//# sourceMappingURL=73f529fa5449e3127d60.js.map
