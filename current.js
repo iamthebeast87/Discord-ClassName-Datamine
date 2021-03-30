@@ -9116,6 +9116,8 @@
             eventName: "eventName-2YgbEu",
             channelName: "channelName-JY9Cr0",
             dotDivider: "dotDivider-1W5oqM",
+            liveIndicator: "liveIndicator-11vCOL",
+            stageIcon: "stageIcon-3DmINn",
             userNames: "userNames-3GptEj",
             joinButton: "joinButton-7Fa-WN"
         }
@@ -12039,4 +12041,4 @@
         }
     }
 }]);
-//# sourceMappingURL=3fc479544a56fd164508.js.map
+//# sourceMappingURL=a6bd38382fdcb2d294eb.js.map
