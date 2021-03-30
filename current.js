@@ -9632,8 +9632,8 @@
     },
     7206: function(e, t, o) {
         e.exports = {
-            border: "border-QJ09WQ",
             innerContainer: "innerContainer-1llEA-",
+            darkerPulse: "darkerPulse-3isOlW",
             outerContainer: "outerContainer-3FfmPk",
             pulse: "pulse-3zYHMZ"
         }
@@ -12042,4 +12042,4 @@
         }
     }
 }]);
-//# sourceMappingURL=b204a0a3e407f48238e7.js.map
+//# sourceMappingURL=8944d70407ad52d91df5.js.map
