@@ -276,7 +276,7 @@
     5116: function(e, t, o) {
         e.exports = {
             backdrop: "backdrop-1wrmKB",
-            clickable: "clickable-1OzUDz"
+            withLayer: "withLayer-RoELSG"
         }
     },
     5117: function(e, t, o) {
@@ -1258,7 +1258,8 @@
             paymentNote: "paymentNote-3NUaTF",
             loadingBlock: "loadingBlock-2I2zJI",
             sequencer: "sequencer-2GXxB2",
-            sequencerInner: "sequencerInner-3_gwOO"
+            sequencerStatic: "sequencerStatic-UthWGP",
+            sequencerAnimatedNode: "sequencerAnimatedNode-GEjG0S"
         }
     },
     5483: function(e, t, o) {
@@ -1533,7 +1534,8 @@
             content: "content-sp-7A3",
             modalTitle: "modalTitle-3qb2Mp",
             divider: "divider-3WKGWk",
-            errorBlock: "errorBlock-3se5QO"
+            errorBlock: "errorBlock-3se5QO",
+            sequencer: "sequencer-FWouqi"
         }
     },
     5523: function(e, t, o) {
@@ -12041,4 +12043,4 @@
         }
     }
 }]);
-//# sourceMappingURL=8c195375746019638319.js.map
+//# sourceMappingURL=9a118d3bfc2b081e31cf.js.map
