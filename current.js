@@ -5315,7 +5315,9 @@
             sticker: "sticker-3HpuRA",
             divider: "divider-1OSL6X",
             shopDivider: "shopDivider-sT2XLN",
-            tipWithSearch: "tipWithSearch-1ZG0iW"
+            tipWithSearch: "tipWithSearch-1ZG0iW",
+            searchSuggestions: "searchSuggestions-FrCvef",
+            searchSuggestion: "searchSuggestion-rlq9uJ"
         }
     },
     6876: function(e, t, o) {
@@ -12148,4 +12150,4 @@
         }
     }
 }]);
-//# sourceMappingURL=e655fe4882ed866ecd53.js.map
+//# sourceMappingURL=59942b5302dbd8395a7e.js.map
