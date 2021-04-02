@@ -1844,7 +1844,7 @@
             stickerCategoryUnicodeIconSize: "24px",
             stickerDimension: "160px",
             stickerPurchasePackPreviewDimensions: "76px",
-            stickerPurchasePackPreviewPadding: "0",
+            stickerPurchasePackPreviewPadding: "2px",
             stickerPurchasePackPreviewMargin: "0",
             stickerPickerBreakpointSmall: "360px",
             stickerPickerBreakpointMedium: "446px"
@@ -12159,4 +12159,4 @@
         }
     }
 }]);
-//# sourceMappingURL=34c501b1871bcd726cc6.js.map
+//# sourceMappingURL=ec354cf6d471628328e7.js.map
