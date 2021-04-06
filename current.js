@@ -1761,6 +1761,7 @@
             systemMessageAccessories: "systemMessageAccessories-2uCWxo",
             avatar: "avatar-1BDn8e",
             timestamp: "timestamp-3ZCmNB",
+            timestampInline: "timestampInline-yHQ6fX",
             alt: "alt-1uNpEt",
             timestampTooltip: "timestampTooltip-2w2MVG",
             timestampVisibleOnHover: "timestampVisibleOnHover-2bQeI4",
@@ -12179,4 +12180,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ec04aa7813612e0d3488.js.map
+//# sourceMappingURL=fbcaaeb73980ba044d29.js.map
