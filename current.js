@@ -4778,7 +4778,6 @@
             loadingMore: "loadingMore-1cSz09",
             spinner: "spinner-MoOpqm",
             hasMore: "hasMore-sul95G",
-            hasMoreButton: "hasMoreButton-1MELpI",
             messagesPopout: "messagesPopout-24nkyi",
             messageGroupWrapper: "messageGroupWrapper-o-Zw7G",
             messageGroupCozy: "messageGroupCozy-2iY6cT",
@@ -12187,4 +12186,4 @@
         }
     }
 }]);
-//# sourceMappingURL=b218fb1857117fa51edf.js.map
+//# sourceMappingURL=a98aa59ecc208b9cbd19.js.map
