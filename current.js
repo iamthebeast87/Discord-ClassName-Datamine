@@ -1587,7 +1587,9 @@
             status: "status-1eOIMS",
             svg: "svg-2V3M55",
             cursorDefault: "cursorDefault-dsQJ1n",
+            avatarStack: "avatarStack-2Dr8S9",
             avatar: "avatar-VxgULZ",
+            avatarSpeaking: "avatarSpeaking-2c8-9i",
             pointerEvents: "pointerEvents-2zdfdO"
         }
     },
@@ -4101,8 +4103,8 @@
             diversityEmojiSize: "24px",
             emojiContainerPaddingVertical: "4px",
             emojiContainerPaddingHorizontal: "4px",
-            diversitySelector: "diversitySelector-2kYFHA",
-            diversitySelectorPopout: "diversitySelectorPopout-3FiGaM",
+            diversitySelectorButton: "diversitySelectorButton-3IE08D",
+            diversitySelectorOptions: "diversitySelectorOptions-4YM-vX",
             diversityEmojiItem: "diversityEmojiItem-L6_IXw",
             diversityEmojiItemImage: "diversityEmojiItemImage-2gPNoS"
         }
@@ -12189,4 +12191,4 @@
         }
     }
 }]);
-//# sourceMappingURL=6b2761069569e990120b.js.map
+//# sourceMappingURL=8b3e5f9ad9af19f96bd3.js.map
