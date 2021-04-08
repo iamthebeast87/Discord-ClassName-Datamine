@@ -10149,7 +10149,8 @@
             container: "container-2t1JyW",
             title: "title-2eOBcL",
             subtitle: "subtitle-1ydIDA",
-            icon: "icon-3QjGWS"
+            icon: "icon-3QjGWS",
+            iconAudience: "iconAudience-1pFEnZ"
         }
     },
     7355: function(e, t, o) {
@@ -12188,4 +12189,4 @@
         }
     }
 }]);
-//# sourceMappingURL=1971d38ffa2bcf2292ae.js.map
+//# sourceMappingURL=6b2761069569e990120b.js.map
