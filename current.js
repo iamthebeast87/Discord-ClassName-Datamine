@@ -4042,11 +4042,13 @@
         e.exports = {
             container: "container-23E4rK",
             icon: "icon-1tDorc",
+            size24: "size24-1HlGux",
             avatarContainer: "avatarContainer-3CQrif",
-            avatarContainerMasked: "avatarContainerMasked-PIJ-3L avatarContainer-3CQrif",
+            avatarContainerMasked: "avatarContainerMasked-PIJ-3L",
             clickableAvatar: "clickableAvatar-1wQpeh",
-            avatar: "avatar-3bWpYy",
             emptyUser: "emptyUser-7txhlW",
+            size16: "size16-NOVQSt",
+            avatar: "avatar-3bWpYy",
             moreUsers: "moreUsers-7v8yWY"
         }
     },
@@ -4705,7 +4707,6 @@
             overlayTitleText: "overlayTitleText-2mmQzi",
             titleIcon: "titleIcon-2eloVh",
             statusContainer: "statusContainer-1gtabC",
-            poorConnection: "poorConnection-1rXvn9",
             status: "status-254fhp",
             interactive: "interactive-3JkJV4",
             content: "content-2Sfaij",
@@ -9150,7 +9151,6 @@
             border: "border-Jn5IOt",
             speaking: "speaking-B2MXPi",
             overlay: "overlay-39bWkM",
-            poorConnectionIcon: "poorConnectionIcon-2z7-LG",
             overlayIcon: "overlayIcon-1kEQWX",
             callAvatarMask: "callAvatarMask-1SLlRi"
         }
@@ -10124,7 +10124,9 @@
         e.exports = {
             tileContainer: "tileContainer-BaRAZF",
             textContainer: "textContainer-3dhW-4",
+            avatar: "avatar-3u7cAV",
             text: "text-2wY55Y",
+            boostIcon: "boostIcon-1Cx7Wb",
             boost: "boost-3TdRZp",
             icon: "icon-3z8ito",
             invited: "invited-2iN9W3"
@@ -12186,4 +12188,4 @@
         }
     }
 }]);
-//# sourceMappingURL=a98aa59ecc208b9cbd19.js.map
+//# sourceMappingURL=1971d38ffa2bcf2292ae.js.map
