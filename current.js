@@ -9548,6 +9548,7 @@
             noChat: "noChat-18KtBD",
             popout: "popout-1MBou-",
             poppedOut: "poppedOut-1U3Bzn",
+            callContainer: "callContainer-36WRfH",
             centerControls: "centerControls-2E5oVA",
             leftTrayIcon: "leftTrayIcon-vpfJk5",
             rightTrayIcon: "rightTrayIcon-3hFoUP",
@@ -9556,7 +9557,8 @@
             iconWrapper: "iconWrapper-31YWq8",
             volumeSlider: "volumeSlider-1yH4yV",
             badge: "badge-1z4YpW",
-            headerWrapper: "headerWrapper-3NUKsd"
+            headerWrapper: "headerWrapper-3NUKsd",
+            resizeHandle: "resizeHandle-aTgVKr"
         }
     },
     7300: function(e, t, o) {
@@ -12209,4 +12211,4 @@
         }
     }
 }]);
-//# sourceMappingURL=d836ff4f468933679b19.js.map
+//# sourceMappingURL=015c36dddca4e3214ade.js.map
