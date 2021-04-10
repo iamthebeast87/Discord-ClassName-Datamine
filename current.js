@@ -1858,7 +1858,9 @@
             markup: "markup-2BOw-j",
             blockquoteContainer: "blockquoteContainer-U5TVEi",
             blockquoteDivider: "blockquoteDivider-2hH8H6",
-            slateBlockquoteContainer: "slateBlockquoteContainer-u5zDDJ"
+            slateBlockquoteContainer: "slateBlockquoteContainer-u5zDDJ",
+            channelIcon: "channelIcon-Lewl0l",
+            iconMention: "iconMention-O5BG9X"
         }
     },
     6706: function(e, t, o) {
@@ -5782,7 +5784,9 @@
         e.exports = {
             userTooltip: "userTooltip-7qZaHD",
             avatar: "avatar-i5C_qp",
-            discriminator: "discriminator-17tNDS"
+            discriminator: "discriminator-17tNDS",
+            channelIcon: "channelIcon-kD4rFt",
+            iconMention: "iconMention-1t7gB7"
         }
     },
     7008: function(e, t, o) {
@@ -12221,4 +12225,4 @@
         }
     }
 }]);
-//# sourceMappingURL=1e7dd6c940e47aed228d.js.map
+//# sourceMappingURL=3b3161ea9d5db78bcbaf.js.map
