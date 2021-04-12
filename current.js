@@ -4740,7 +4740,9 @@
             addStreamIcon: "addStreamIcon-3NjJEC",
             addCTA: "addCTA-372N3j",
             absoluteFill: "absoluteFill-145S64",
-            videoWrapper: "videoWrapper-2v09vt"
+            videoWrapper: "videoWrapper-2v09vt",
+            blocked: "blocked-1Hjnsy",
+            blockedIcon: "blockedIcon-1l6uje"
         }
     },
     6913: function(e, t, o) {
@@ -10158,9 +10160,13 @@
             tileContainer: "tileContainer-BaRAZF",
             textContainer: "textContainer-3dhW-4",
             avatar: "avatar-3u7cAV",
+            faded: "faded-br_yZz",
             text: "text-2wY55Y",
-            boostIcon: "boostIcon-1Cx7Wb",
+            singleIcon: "singleIcon-1YgZ-K",
+            doubleIcon: "doubleIcon-13cAl6",
             boost: "boost-3TdRZp",
+            blocked: "blocked-OlW5cA",
+            blockedIcon: "blockedIcon-2tOKiw",
             icon: "icon-3z8ito",
             invited: "invited-2iN9W3"
         }
@@ -12225,4 +12231,4 @@
         }
     }
 }]);
-//# sourceMappingURL=3b3161ea9d5db78bcbaf.js.map
+//# sourceMappingURL=1da87e476d3fa0d417a7.js.map
