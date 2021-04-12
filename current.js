@@ -4742,7 +4742,8 @@
             absoluteFill: "absoluteFill-145S64",
             videoWrapper: "videoWrapper-2v09vt",
             blocked: "blocked-1Hjnsy",
-            blockedIcon: "blockedIcon-1l6uje"
+            blockedIcon: "blockedIcon-1l6uje",
+            blockedAvatar: "blockedAvatar-eQvJSd"
         }
     },
     6913: function(e, t, o) {
@@ -12231,4 +12232,4 @@
         }
     }
 }]);
-//# sourceMappingURL=1da87e476d3fa0d417a7.js.map
+//# sourceMappingURL=4751bd340a69ad056729.js.map
