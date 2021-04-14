@@ -1825,6 +1825,7 @@
             message: "message-2qnXI6",
             selected: "selected-2P5D_Z",
             quotedChatMessage: "quotedChatMessage-3HzRaD",
+            jump: "jump-2-Xh5Z",
             buttons: "buttons-cl5qTG",
             cozyMessage: "cozyMessage-3V1Y8y",
             groupStart: "groupStart-23k01U",
@@ -7415,7 +7416,6 @@
             popout: "popout-APcvZm",
             title: "title-3JU2Q6",
             row: "row-1ImlrZ",
-            icon: "icon-1ywqfZ",
             timestamp: "timestamp-25yOdb",
             name: "name-1Rd7lI",
             more: "more-3VADkW"
@@ -12292,4 +12292,4 @@
         }
     }
 }]);
-//# sourceMappingURL=45c51907eb9fdb69547a.js.map
+//# sourceMappingURL=496e64afa62b68da27cf.js.map
