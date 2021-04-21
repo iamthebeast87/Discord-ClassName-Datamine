@@ -4035,7 +4035,9 @@
             spoilerBlurRadius: "44px",
             inline: "inline-2bgipb",
             hiddenSpoilers: "hiddenSpoilers-1ksnR6",
-            spoiler: "spoiler-1PPAUc"
+            spoiler: "spoiler-1PPAUc",
+            removeAttachmentButton: "removeAttachmentButton-2qVPxg",
+            messageAttachment: "messageAttachment-1aDidq"
         }
     },
     6888: function(e, t, o) {
@@ -12353,4 +12355,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ddb175135d404bc83722.js.map
+//# sourceMappingURL=4c286e7610cf1ec1b71a.js.map
