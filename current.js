@@ -8719,9 +8719,9 @@
     },
     7259: function(e, t, o) {
         e.exports = {
+            gridGap: "6px",
             container: "container-q03LZO",
             profileBadge: "profileBadge-2niAfJ",
-            profileBadgeWrapper: "profileBadgeWrapper-1rGSsp",
             profileBadgeStaff: "profileBadgeStaff-3BXdTO",
             profileBadgePartner: "profileBadgePartner-j6Lwhr",
             profileBadgeHypesquad: "profileBadgeHypesquad-12E2P6",
@@ -10239,6 +10239,7 @@
         e.exports = {
             searchResultGroup: "searchResultGroup-1DphGG",
             channelName: "channelName-1JRO3C",
+            channelNameIcon: "channelNameIcon-27Cx1g",
             resultsBlocked: "resultsBlocked-3a77lQ",
             resultsBlockedImage: "resultsBlockedImage-2aDVMx"
         }
@@ -12361,4 +12362,4 @@
         }
     }
 }]);
-//# sourceMappingURL=43f08ac6fbe039a5efd8.js.map
+//# sourceMappingURL=4ff7b88f9d63a51071d2.js.map
