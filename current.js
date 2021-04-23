@@ -10528,7 +10528,10 @@
             acceptButton: "acceptButton-1w0WVo",
             acceptText: "acceptText-j9fxRL",
             declineButton: "declineButton-3AjV5l",
-            declineText: "declineText-awkkNG"
+            declineText: "declineText-awkkNG",
+            blocked: "blocked-v_WYd3",
+            blockedIcon: "blockedIcon-1j8HfR",
+            blockedText: "blockedText-18I_XK"
         }
     },
     7422: function(e, t, o) {
@@ -12362,4 +12365,4 @@
         }
     }
 }]);
-//# sourceMappingURL=4ff7b88f9d63a51071d2.js.map
+//# sourceMappingURL=96310a4eb47d1ebf65b0.js.map
