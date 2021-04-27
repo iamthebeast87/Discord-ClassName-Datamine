@@ -2580,6 +2580,7 @@
         e.exports = {
             scroller: "scroller-3ZpLaI",
             colorPicker: "colorPicker-oPcnKj",
+            colorDescription: "colorDescription-Pxuojt",
             divider: "divider-1QCnvR",
             previewContainer: "previewContainer-1KQDJS",
             messageContainer: "messageContainer-1DiFnQ"
@@ -7148,7 +7149,6 @@
             titleContainer: "titleContainer-CjPpBt",
             titleText: "titleText-1ZIyhl",
             menu: "menu-32AM6u",
-            warning: "warning-2TgtqC",
             tabBar: "tabBar-11f3uI",
             tabBarItem: "tabBarItem-2QyJ0U"
         }
@@ -7242,7 +7242,9 @@
             roleDot: "roleDot-ZwSovK",
             roleName: "roleName-2IkRdr",
             dragAfter: "dragAfter-1ydZtZ",
-            dragBefore: "dragBefore-cCyY7J"
+            dragBefore: "dragBefore-cCyY7J",
+            helpSeparator: "helpSeparator-2mcq4E",
+            helpText: "helpText-3Ggj5i"
         }
     },
     7136: function(e, t, o) {
@@ -12366,4 +12368,4 @@
         }
     }
 }]);
-//# sourceMappingURL=2274872f9acfb05e668a.js.map
+//# sourceMappingURL=a8489d515eeb905d9e81.js.map
