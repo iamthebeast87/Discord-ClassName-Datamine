@@ -10291,7 +10291,8 @@
     7394: function(e, t, o) {
         e.exports = {
             participants: "participants-1e7HCI",
-            icon: "icon-1FO5mc"
+            icon: "icon-1FO5mc",
+            settingsButton: "settingsButton-2tFGbO"
         }
     },
     7395: function(e, t, o) {
@@ -12365,4 +12366,4 @@
         }
     }
 }]);
-//# sourceMappingURL=8319be0ac6e4d052f828.js.map
+//# sourceMappingURL=18e87dcad2cce2b4d38f.js.map
