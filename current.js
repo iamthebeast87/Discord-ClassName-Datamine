@@ -10106,7 +10106,8 @@
         e.exports = {
             container: "container-2VXfwz",
             iconContainer: "iconContainer-1WF8ZH",
-            icon: "icon-14eTMV"
+            icon: "icon-14eTMV",
+            names: "names-fc3srZ"
         }
     },
     7408: function(e, t, o) {
@@ -10140,6 +10141,7 @@
             guildIcon: "guildIcon-3DxHr5",
             guildInfoContainer: "guildInfoContainer-VZ-tXn",
             topicText: "topicText-3B26Cx",
+            guildName: "guildName-2Ec3Mf",
             participantsContainer: "participantsContainer-3Noi9p",
             hoveredParticipantsContainer: "hoveredParticipantsContainer-1jRGjF",
             loading: "loading-2PktB_",
@@ -12599,4 +12601,4 @@
         }
     }
 }]);
-//# sourceMappingURL=6640051adeeb27c70099.js.map
+//# sourceMappingURL=11a3b80cd89ebe70fc2f.js.map
