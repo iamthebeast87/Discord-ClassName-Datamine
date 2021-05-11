@@ -3844,7 +3844,8 @@
             loading: "loading-3n285V",
             textEmoji: "textEmoji-2Vv04G",
             launchIcon: "launchIcon-3n9VDY",
-            hidden: "hidden-1gw_r7"
+            hidden: "hidden-1gw_r7",
+            label: "label-3aEGGA"
         }
     },
     6939: function(e, t, o) {
@@ -12813,4 +12814,4 @@
         }
     }
 }]);
-//# sourceMappingURL=02e6ce5a0e80008db2a3.js.map
+//# sourceMappingURL=c1981f49a37135b5c062.js.map
