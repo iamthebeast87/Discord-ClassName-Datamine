@@ -10356,51 +10356,40 @@
     },
     7484: function(e, t, o) {
         e.exports = {
-            container: "container-2VXfwz",
-            iconContainer: "iconContainer-1WF8ZH",
-            icon: "icon-14eTMV",
-            names: "names-fc3srZ"
+            container: "container-3yC5sj",
+            icon: "icon-29krgh",
+            listeningText: "listeningText-2DLvOV",
+            leaveButton: "leaveButton-3Z5D-N"
         }
     },
     7485: function(e, t, o) {
         e.exports = {
-            container: "container-1zIh5b",
-            innerContainer: "innerContainer-v408KG",
-            outerContainer: "outerContainer-f2YWxd",
-            guildIcon: "guildIcon-3-9C1R",
-            border: "border-f4g_1z",
-            speakerContainer: "speakerContainer-3Pc8T5",
-            speaker: "speaker-2ccgwP",
-            firstSpeaker: "firstSpeaker-3wmgPS",
-            secondSpeaker: "secondSpeaker-2ykxBJ"
+            grid: "grid-3fdl0Y",
+            speakerContainer: "speakerContainer-3h4uQU",
+            speaker: "speaker-3WW4pR",
+            iconMicrophone: "iconMicrophone-1A2Yqh",
+            speakerCount: "speakerCount-3KijLY",
+            nickname: "nickname-3ODtp_"
         }
     },
     7486: function(e, t, o) {
         e.exports = {
-            container: "container-3YjqEq",
-            button: "button-8RD2sk",
-            leaveButton: "leaveButton-1YMl4Y",
-            joinButton: "joinButton-omhyEZ"
-        }
-    },
-    7487: function(e, t, o) {
-        e.exports = {
             container: "container-S9SaVf",
-            withContext: "withContext-1RxmO_",
-            hoveredContainer: "hoveredContainer-1No0jm",
             contentContainer: "contentContainer-1fklqj",
             headerContainer: "headerContainer-1X_tPb",
             guildIcon: "guildIcon-3DxHr5",
+            guildIconAndName: "guildIconAndName-2AlEL-",
             guildInfoContainer: "guildInfoContainer-VZ-tXn",
+            guildNameAndContext: "guildNameAndContext-3U0IyY",
             topicText: "topicText-3B26Cx",
             guildName: "guildName-2Ec3Mf",
-            participantsContainer: "participantsContainer-3Noi9p",
             hoveredParticipantsContainer: "hoveredParticipantsContainer-1jRGjF",
             loading: "loading-2PktB_",
-            placeholderPulse: "placeholderPulse-3MG86Y"
+            placeholderPulse: "placeholderPulse-3MG86Y",
+            scoreSummary: "scoreSummary-kqJvzd"
         }
     },
-    7488: function(e, t, o) {
+    7487: function(e, t, o) {
         e.exports = {
             container: "container-1WCE6w",
             icons: "icons-2wALEG",
@@ -10411,24 +10400,24 @@
             button: "button-1h8W6d"
         }
     },
-    7489: function(e, t, o) {
+    7488: function(e, t, o) {
         e.exports = {
             container: "container-24CyRY",
-            tileRow: "tileRow-3jX1tw",
-            withContext: "withContext-LyErYH",
+            headerContainer: "headerContainer-1Wluzl",
+            pageHeader: "pageHeader-3nuK1W",
             inNetworkFooter: "inNetworkFooter-1Ar7aa"
         }
     },
-    7490: function(e, t, o) {
+    7489: function(e, t, o) {
         e.exports = {
             container: "container-1a3EgQ",
             headerBarContainer: "headerBarContainer-31FKNA",
             pageContent: "pageContent-1xgXch",
-            stages: "stages-302KuV",
+            stageSection: "stageSection-3mAD8V",
             activityFeedSidebar: "activityFeedSidebar-2qhPSj"
         }
     },
-    7491: function(e, t, o) {
+    7490: function(e, t, o) {
         e.exports = {
             container: "container-1TAyt9",
             content: "content-2FI7Bb",
@@ -10440,29 +10429,29 @@
             radioIconSelectedForeground: "radioIconSelectedForeground-sDlyK0"
         }
     },
-    7492: function(e, t, o) {
+    7491: function(e, t, o) {
         e.exports = {
             guildIcon: "guildIcon-3MfEon"
         }
     },
-    7493: function(e, t, o) {
+    7492: function(e, t, o) {
         e.exports = {
             iconContainer: "iconContainer-3j0Y3m",
             icon: "icon-2Ssk4P"
         }
     },
-    7494: function(e, t, o) {
+    7493: function(e, t, o) {
         e.exports = {
             calendarContainer: "calendarContainer-2ecZWM elevationBorderHigh-2WYJ09"
         }
     },
-    7495: function(e, t, o) {
+    7494: function(e, t, o) {
         e.exports = {
             listContainer: "listContainer-19y4Nf elevationBorderHigh-2WYJ09",
             listScroller: "listScroller-2_n1zI"
         }
     },
-    7496: function(e, t, o) {
+    7495: function(e, t, o) {
         e.exports = {
             container: "container-JC_YWz",
             uploadIcon: "uploadIcon-3FJZuQ",
@@ -10470,7 +10459,7 @@
             pencilIcon: "pencilIcon-3CvBci"
         }
     },
-    7497: function(e, t, o) {
+    7496: function(e, t, o) {
         e.exports = {
             titleImageContainer: "titleImageContainer-1_XNR7",
             titleContainer: "titleContainer-2yarZf",
@@ -10498,7 +10487,7 @@
             charLimitIndicatorError: "charLimitIndicatorError-2iWOlv"
         }
     },
-    7498: function(e, t, o) {
+    7497: function(e, t, o) {
         e.exports = {
             maskWrapper: "maskWrapper-2_0AwT",
             container: "container-3oTKNK",
@@ -10516,7 +10505,7 @@
             circlesOverlay: "circlesOverlay-2dCvye"
         }
     },
-    7499: function(e, t, o) {
+    7498: function(e, t, o) {
         e.exports = {
             confButton: "confButton-1ctd5S",
             ticketCard: "ticketCard-3ZQDle",
@@ -10525,7 +10514,7 @@
             confirmationModal: "confirmationModal-3U3hdI"
         }
     },
-    7500: function(e, t, o) {
+    7499: function(e, t, o) {
         e.exports = {
             container: "container-13Jtkl",
             activeTicketPriceContainer: "activeTicketPriceContainer-1Ks9Lm",
@@ -10537,14 +10526,14 @@
             checkmark: "checkmark-3eomZV"
         }
     },
-    7501: function(e, t, o) {
+    7500: function(e, t, o) {
         e.exports = {
             container: "container-3FEABE",
             guildName: "guildName-3s-Up4",
             guildIcon: "guildIcon-3bDKJm"
         }
     },
-    7502: function(e, t, o) {
+    7501: function(e, t, o) {
         e.exports = {
             container: "container-2S1Uh6",
             titleContainer: "titleContainer-CGQzew",
@@ -10561,7 +10550,7 @@
             guildIconOuterCircle: "guildIconOuterCircle-Eyil-u"
         }
     },
-    7503: function(e, t, o) {
+    7502: function(e, t, o) {
         e.exports = {
             invoice: "invoice-D33brE",
             bodyContentWrapper: "bodyContentWrapper-1eqfX-",
@@ -10570,10 +10559,23 @@
             disclaimerText: "disclaimerText-1PxEL7"
         }
     },
-    7504: function(e, t, o) {
+    7503: function(e, t, o) {
         e.exports = {
             modal: "modal-2MVslt",
             modalContentForm: "modalContentForm-2HdsqL"
+        }
+    },
+    7504: function(e, t, o) {
+        e.exports = {
+            container: "container-1zIh5b",
+            innerContainer: "innerContainer-v408KG",
+            outerContainer: "outerContainer-f2YWxd",
+            guildIcon: "guildIcon-3-9C1R",
+            border: "border-f4g_1z",
+            speakerContainer: "speakerContainer-3Pc8T5",
+            speaker: "speaker-2ccgwP",
+            firstSpeaker: "firstSpeaker-3wmgPS",
+            secondSpeaker: "secondSpeaker-2ykxBJ"
         }
     },
     7505: function(e, t, o) {
@@ -12856,4 +12858,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ad45cdc1afdb20a04b23.js.map
+//# sourceMappingURL=2b7789317463a583ba9d.js.map
