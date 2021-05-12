@@ -2247,25 +2247,13 @@
     },
     6832: function(e, t, o) {
         e.exports = {
-            root: "root-3-OKEZ",
-            header: "header-1afJj7",
-            content: "content-3zS6lm",
-            footer: "footer-1dAGh4",
-            artContainer: "artContainer-1EdHbR",
-            art: "art-1r1UyT",
-            sparkleBadge: "sparkleBadge-2pfBfb",
-            newBadge: "newBadge-2wENLF"
-        }
-    },
-    6833: function(e, t, o) {
-        e.exports = {
             spotifyButtonLogo: "spotifyButtonLogo-3uT57D",
             listenAlongIcon: "listenAlongIcon-2TkOLH",
             iconButton: "iconButton-3ucJ7a",
             iconButtonSize: "iconButtonSize-8raSoG"
         }
     },
-    6834: function(e, t, o) {
+    6833: function(e, t, o) {
         e.exports = {
             noUserDrag: "noUserDrag-5Mb43F",
             userSelectText: "userSelectText-1o1dQ7",
@@ -2274,7 +2262,7 @@
             cursorPointer: "cursorPointer-1tw4YS"
         }
     },
-    6835: function(e, t, o) {
+    6834: function(e, t, o) {
         e.exports = {
             emojiPickerHeight: "420px",
             minEmojiPickerWidth: "424px",
@@ -2291,7 +2279,7 @@
             inspector: "inspector-3LQtX9"
         }
     },
-    6836: function(e, t, o) {
+    6835: function(e, t, o) {
         e.exports = {
             close: "close-2okGrS",
             modal: "modal-1HIJ4q",
@@ -2317,7 +2305,7 @@
             characterCount: "characterCount-39ID2T"
         }
     },
-    6837: function(e, t, o) {
+    6836: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-2jXpOf",
             typeThread: "typeThread-3ESTm-",
@@ -2338,7 +2326,7 @@
             notInteractive: "notInteractive-1X92pj"
         }
     },
-    6838: function(e, t, o) {
+    6837: function(e, t, o) {
         e.exports = {
             channelNotice: "channelNotice-1-XFjC",
             guildMFAWarning: "guildMFAWarning-3GEzs8",
@@ -2354,7 +2342,7 @@
             closeIcon: "closeIcon-2eaC4U"
         }
     },
-    6839: function(e, t, o) {
+    6838: function(e, t, o) {
         e.exports = {
             mediaQueryMobileHeader: "849px",
             children: "children-3Bo2Aw",
@@ -2368,7 +2356,7 @@
             headerBarLoggedOut: "headerBarLoggedOut-1Txau0"
         }
     },
-    6840: function(e, t, o) {
+    6839: function(e, t, o) {
         e.exports = {
             modal: "modal-1dtIlv",
             formErrorContainer: "formErrorContainer-2eWSUM",
@@ -2390,7 +2378,7 @@
             closeButton: "closeButton-25CYXa"
         }
     },
-    6841: function(e, t, o) {
+    6840: function(e, t, o) {
         e.exports = {
             inlineContent: "inlineContent-3ZjPuv",
             spoilerContainer: "spoilerContainer-331r0R",
@@ -2402,7 +2390,7 @@
             quoteBlock: "quoteBlock-1Ck12r"
         }
     },
-    6842: function(e, t, o) {
+    6841: function(e, t, o) {
         e.exports = {
             modalSize: "modalSize-32pcp4 sizeSmall-1jtLQy",
             headerContent: "headerContent-3hty5X",
@@ -2416,7 +2404,7 @@
             confirmCloseButton: "confirmCloseButton-ear6TV"
         }
     },
-    6843: function(e, t, o) {
+    6842: function(e, t, o) {
         e.exports = {
             row: "row-hM7TSa",
             icon: "icon-Vhk6dD",
@@ -2430,14 +2418,14 @@
             embedPrice: "embedPrice-Xy8zoS"
         }
     },
-    6844: function(e, t, o) {
+    6843: function(e, t, o) {
         e.exports = {
             spacing: "spacing-2P-ODW",
             spacingTop: "spacingTop-3Dhr0L",
             message: "message-2qRu38"
         }
     },
-    6845: function(e, t, o) {
+    6844: function(e, t, o) {
         e.exports = {
             listItemWidth: "72px",
             navigationIcon: "navigationIcon-2S1B5W",
@@ -2468,7 +2456,7 @@
             upsellText: "upsellText-3Q7ST7"
         }
     },
-    6846: function(e, t, o) {
+    6845: function(e, t, o) {
         e.exports = {
             container: "container-2Uhd6d",
             content: "content-3MbD2f",
@@ -2477,7 +2465,7 @@
             image: "image-3OQMFm"
         }
     },
-    6847: function(e, t, o) {
+    6846: function(e, t, o) {
         e.exports = {
             expanded: "expanded-13sWhZ",
             blockedSystemMessage: "blockedSystemMessage-2Rk1ek",
@@ -2487,7 +2475,7 @@
             blockedAction: "blockedAction-2ZyU8z"
         }
     },
-    6848: function(e, t, o) {
+    6847: function(e, t, o) {
         e.exports = {
             elevationHigh: "elevationHigh-3A9Xbf",
             slider: "slider-1PF9SW",
@@ -2507,14 +2495,14 @@
             defaultValue: "defaultValue-3gC7yw"
         }
     },
-    6849: function(e, t, o) {
+    6848: function(e, t, o) {
         e.exports = {
             premiumPromo: "premiumPromo-3oM7cT",
             content: "content-P4SiGI",
             navArrow: "navArrow-3Q9QPC"
         }
     },
-    6850: function(e, t, o) {
+    6849: function(e, t, o) {
         e.exports = {
             checkbox: "checkbox-3kaeSU",
             disabled: "disabled-1hiCMV",
@@ -2523,7 +2511,7 @@
             alt: "alt-6FvZrq"
         }
     },
-    6851: function(e, t, o) {
+    6850: function(e, t, o) {
         e.exports = {
             botTag: "botTag-2WPJ74",
             px: "px-10SIf7",
@@ -2534,7 +2522,7 @@
             botText: "botText-1526X_"
         }
     },
-    6852: function(e, t, o) {
+    6851: function(e, t, o) {
         e.exports = {
             borderRadius: "16px",
             live: "live-vBWnV6",
@@ -2546,7 +2534,7 @@
             liveSmall: "liveSmall-1dy2uA"
         }
     },
-    6853: function(e, t, o) {
+    6852: function(e, t, o) {
         e.exports = {
             headerGuildName: "headerGuildName-2Ur2UW",
             headerGuildBadge: "headerGuildBadge-1qhaRY",
@@ -2568,7 +2556,7 @@
             skipColor: "skipColor-3dV-gy"
         }
     },
-    6854: function(e, t, o) {
+    6853: function(e, t, o) {
         e.exports = {
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs",
             pictureInPictureVideo: "pictureInPictureVideo-2iKsGg",
@@ -2584,7 +2572,7 @@
             menuIcon: "menuIcon-1dbDwf"
         }
     },
-    6855: function(e, t, o) {
+    6854: function(e, t, o) {
         e.exports = {
             autocomplete: "autocomplete-1vrmpx",
             autocompleteInner: "autocompleteInner-zh20B_",
@@ -2610,7 +2598,7 @@
             selected: "selected-1Tbx07"
         }
     },
-    6856: function(e, t, o) {
+    6855: function(e, t, o) {
         e.exports = {
             scrollbarGhostHairline: "scrollbarGhostHairline-1mSOM1 scrollbar-3dvm_9",
             autocomplete: "autocomplete-3l_oCd",
@@ -2624,7 +2612,7 @@
             emojiStickersDivider: "emojiStickersDivider-3Q5Opa"
         }
     },
-    6857: function(e, t, o) {
+    6856: function(e, t, o) {
         e.exports = {
             syntaxAfter: "syntaxAfter-hcA4AH",
             syntaxBefore: "syntaxBefore-1YQ9lW",
@@ -2652,7 +2640,7 @@
             codeLine: "codeLine-14BKbG"
         }
     },
-    6858: function(e, t, o) {
+    6857: function(e, t, o) {
         e.exports = {
             sidebarContentWidth: "192px",
             standardPadding: "20px",
@@ -2677,7 +2665,7 @@
             noticeRegion: "noticeRegion-1YviSH"
         }
     },
-    6859: function(e, t, o) {
+    6858: function(e, t, o) {
         e.exports = {
             guildJoinRequestRow: "guildJoinRequestRow-35c262",
             inline: "inline-yu1eCu",
@@ -2696,7 +2684,7 @@
             fetchingSpinner: "fetchingSpinner-3F97LU"
         }
     },
-    6860: function(e, t, o) {
+    6859: function(e, t, o) {
         e.exports = {
             notice: "notice-3bPHh-",
             colorDefault: "colorDefault-22HBa0",
@@ -2720,7 +2708,7 @@
             buttonMinor: "buttonMinor-3mkvIP"
         }
     },
-    6861: function(e, t, o) {
+    6860: function(e, t, o) {
         e.exports = {
             scroller: "scroller-3ZpLaI",
             colorPicker: "colorPicker-oPcnKj",
@@ -2730,7 +2718,7 @@
             messageContainer: "messageContainer-1DiFnQ"
         }
     },
-    6862: function(e, t, o) {
+    6861: function(e, t, o) {
         e.exports = {
             header: "header-3gJGL7",
             closeButton: "closeButton-EUhPG4",
@@ -2744,7 +2732,7 @@
             colorPicker: "colorPicker-3sI_D-"
         }
     },
-    6863: function(e, t, o) {
+    6862: function(e, t, o) {
         e.exports = {
             container: "container-2I9Hud",
             left: "left-3P8WCO",
@@ -2759,7 +2747,7 @@
             bullet: "bullet-1-Smkp"
         }
     },
-    6864: function(e, t, o) {
+    6863: function(e, t, o) {
         e.exports = {
             list: "list-wek7hJ",
             activeThreadsList: "activeThreadsList-3f7l7U",
@@ -2775,7 +2763,7 @@
             spinner: "spinner-2xn1Ci"
         }
     },
-    6865: function(e, t, o) {
+    6864: function(e, t, o) {
         e.exports = {
             listItemWidth: "72px",
             animationDuration: "150ms",
@@ -2795,7 +2783,7 @@
             guildIconUnavailable: "guildIconUnavailable-3IYARS"
         }
     },
-    6866: function(e, t, o) {
+    6865: function(e, t, o) {
         e.exports = {
             blobContainer: "blobContainer-pmnxKB",
             pill: "pill-1z4sAY",
@@ -2803,7 +2791,7 @@
             wobble: "wobble-3KAYb_"
         }
     },
-    6867: function(e, t, o) {
+    6866: function(e, t, o) {
         e.exports = {
             modal: "modal-2Lmpu0",
             information: "information-34_WSh",
@@ -2812,7 +2800,7 @@
             image: "image-23YBsm"
         }
     },
-    6868: function(e, t, o) {
+    6867: function(e, t, o) {
         e.exports = {
             chat: "chat-3bRxxu",
             threadSidebar: "threadSidebar-1o3BTy",
@@ -2833,7 +2821,7 @@
             status: "status-1XNdyw"
         }
     },
-    6869: function(e, t, o) {
+    6868: function(e, t, o) {
         e.exports = {
             applicationStore: "applicationStore-1pNvnv",
             navigation: "navigation-1d6CXm",
@@ -2841,7 +2829,7 @@
             marketingFooter: "marketingFooter-1ZdZyI"
         }
     },
-    6870: function(e, t, o) {
+    6869: function(e, t, o) {
         e.exports = {
             height24: "height24-3XzeJx",
             size16: "size16-14cGz5",
@@ -2865,7 +2853,7 @@
             videoPreview: "videoPreview-22khDR"
         }
     },
-    6876: function(e, t, o) {
+    6875: function(e, t, o) {
         e.exports = {
             container: "container-2XeR5Z",
             inner: "inner-3ErfOT",
@@ -2887,7 +2875,7 @@
             clear: "clear-1pMieT"
         }
     },
-    6877: function(e, t, o) {
+    6876: function(e, t, o) {
         e.exports = {
             header: "header-1Ijz4R",
             channelPrompt: "channelPrompt-1kjOz3",
@@ -2898,7 +2886,7 @@
             skipButton: "skipButton-U0dQ2q"
         }
     },
-    6878: function(e, t, o) {
+    6877: function(e, t, o) {
         e.exports = {
             container: "container-UC8Ug1",
             icon: "icon-QM5383",
@@ -2906,7 +2894,7 @@
             arrow: "arrow-hynWUl"
         }
     },
-    6879: function(e, t, o) {
+    6878: function(e, t, o) {
         e.exports = {
             header: "header-1BLHoL",
             closeButton: "closeButton-_onk93",
@@ -2917,7 +2905,7 @@
             skip: "skip-2o6MGG"
         }
     },
-    6880: function(e, t, o) {
+    6879: function(e, t, o) {
         e.exports = {
             modalContent: "modalContent-3_WBnz",
             editingContainer: "editingContainer-3s5xK0",
@@ -2929,13 +2917,13 @@
             modalFooter: "modalFooter-2ug_ge"
         }
     },
-    6881: function(e, t, o) {
+    6880: function(e, t, o) {
         e.exports = {
             iconContainer: "iconContainer-2B0ixr",
             filledIcon: "filledIcon-2eb7eA"
         }
     },
-    6882: function(e, t, o) {
+    6881: function(e, t, o) {
         e.exports = {
             header: "header-287ONi",
             closeButton: "closeButton-26zew5",
@@ -2949,7 +2937,7 @@
             creationIntentText: "creationIntentText-3OlELP"
         }
     },
-    6883: function(e, t, o) {
+    6882: function(e, t, o) {
         e.exports = {
             header: "header-3msK0M",
             closeButton: "closeButton-9dkb_x",
@@ -2962,7 +2950,7 @@
             footerButton: "footerButton-ayFTfX"
         }
     },
-    6884: function(e, t, o) {
+    6883: function(e, t, o) {
         e.exports = {
             header: "header-1Xr5FO",
             title: "title-XLSR78",
@@ -2977,12 +2965,12 @@
             footer: "footer-2ZvXOl"
         }
     },
-    6885: function(e, t, o) {
+    6884: function(e, t, o) {
         e.exports = {
             container: "container-1CE3eW"
         }
     },
-    6886: function(e, t, o) {
+    6885: function(e, t, o) {
         e.exports = {
             textArea: "textArea-1Lj-Ns",
             resizeable: "resizeable-3Dlqvo",
@@ -2991,7 +2979,7 @@
             maxLength: "maxLength-39QFBo"
         }
     },
-    6887: function(e, t, o) {
+    6886: function(e, t, o) {
         e.exports = {
             emojiSize: "64px",
             headerContainer: "headerContainer-3-vFuY",
@@ -3010,7 +2998,7 @@
             hidden: "hidden-36kfaz"
         }
     },
-    6888: function(e, t, o) {
+    6887: function(e, t, o) {
         e.exports = {
             image: "image-2QWf3Q",
             imageUpgrade: "imageUpgrade-moI_hv image-2QWf3Q",
@@ -3021,7 +3009,7 @@
             secondaryButton: "secondaryButton-197mr8"
         }
     },
-    6889: function(e, t, o) {
+    6888: function(e, t, o) {
         e.exports = {
             premiumSubscribeButton: "premiumSubscribeButton-3TowJw",
             premiumIcon: "premiumIcon-YgHhed",
@@ -3030,23 +3018,23 @@
             giftIcon: "giftIcon-1DsQ4W"
         }
     },
-    6890: function(e, t, o) {
+    6889: function(e, t, o) {
         e.exports = {
             overflow: "overflow-WK9Ogt"
         }
     },
-    6891: function(e, t, o) {
+    6890: function(e, t, o) {
         e.exports = {
             arrow: "arrow-gKvcEx",
             open: "open-2d6eoT"
         }
     },
-    6892: function(e, t, o) {
+    6891: function(e, t, o) {
         e.exports = {
             gifTag: "gifTag-31zFY8"
         }
     },
-    6893: function(e, t, o) {
+    6892: function(e, t, o) {
         e.exports = {
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs",
             imageWrapper: "imageWrapper-2p5ogY",
@@ -3060,19 +3048,19 @@
             clickable: "clickable-3Ya1ho"
         }
     },
-    6894: function(e, t, o) {
+    6893: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-2K4Z3k",
             downloadLink: "downloadLink-1ywL9o"
         }
     },
-    6895: function(e, t, o) {
+    6894: function(e, t, o) {
         e.exports = {
             modal: "modal-qgFCbT",
             image: "image-1tIMwV"
         }
     },
-    6896: function(e, t, o) {
+    6895: function(e, t, o) {
         e.exports = {
             combobox: "combobox-3V1oCd",
             list: "list-1xE9GQ",
@@ -3086,13 +3074,13 @@
             selectedBrand: "selectedBrand-1UKrSX"
         }
     },
-    6897: function(e, t, o) {
+    6896: function(e, t, o) {
         e.exports = {
             container: "container-3XJ8ns",
             list: "list-1MFD7e"
         }
     },
-    6898: function(e, t, o) {
+    6897: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignCenter: "alignCenter-1dQNNs",
@@ -3119,7 +3107,7 @@
             overflowRolesPopoutHeaderText: "overflowRolesPopoutHeaderText-1SW-y3"
         }
     },
-    6899: function(e, t, o) {
+    6898: function(e, t, o) {
         e.exports = {
             nameTag: "nameTag-m8r81H",
             discriminator: "discriminator-19kRMP",
@@ -3127,12 +3115,12 @@
             bot: "bot-2Fta1w"
         }
     },
-    6900: function(e, t, o) {
+    6899: function(e, t, o) {
         e.exports = {
             textarea: "textarea-2r0oV8 inputDefault-_djjkz input-cIJ7To"
         }
     },
-    6901: function(e, t, o) {
+    6900: function(e, t, o) {
         e.exports = {
             everyonePopout: "everyonePopout-nEbJY3",
             header: "header-3_S6dz",
@@ -3145,6 +3133,17 @@
             content: "content-L5mYq4",
             footer: "footer-2aTx0s",
             icon: "icon-2qOzDL"
+        }
+    },
+    6901: function(e, t, o) {
+        e.exports = {
+            root: "root-3-OKEZ",
+            header: "header-1afJj7",
+            content: "content-3zS6lm",
+            footer: "footer-1dAGh4",
+            artContainer: "artContainer-1EdHbR",
+            art: "art-1r1UyT",
+            sparkleBadge: "sparkleBadge-2pfBfb"
         }
     },
     6902: function(e, t, o) {
@@ -4213,7 +4212,8 @@
     },
     6982: function(e, t, o) {
         e.exports = {
-            learnMoreLink: "learnMoreLink-3H5-aT"
+            learnMoreLink: "learnMoreLink-3H5-aT",
+            newBadge: "newBadge-3sTR8M"
         }
     },
     6983: function(e, t, o) {
@@ -5146,12 +5146,17 @@
     },
     7052: function(e, t, o) {
         e.exports = {
+            badge: "badge-_BgAUQ"
+        }
+    },
+    7053: function(e, t, o) {
+        e.exports = {
             left: "left-3d-3Co",
             right: "right-1C2enk",
             down: "down-15EnQ5"
         }
     },
-    7053: function(e, t, o) {
+    7054: function(e, t, o) {
         e.exports = {
             flex: "flex-39btti",
             alignStart: "alignStart-ZXz_qY",
@@ -5181,14 +5186,14 @@
             disabled: "disabled-1X7fxl"
         }
     },
-    7054: function(e, t, o) {
+    7055: function(e, t, o) {
         e.exports = {
             title: "title-2sg2wH",
             subtitle: "subtitle-1tsRgk",
             img: "img-14RJ4C"
         }
     },
-    7055: function(e, t, o) {
+    7056: function(e, t, o) {
         e.exports = {
             checkbox: "checkbox-2isuxc",
             errorMessage: "errorMessage-1Zosc1",
@@ -5197,13 +5202,13 @@
             flex: "flex-3GtgJ6"
         }
     },
-    7056: function(e, t, o) {
+    7057: function(e, t, o) {
         e.exports = {
             searchAnswer: "searchAnswer-3Dz2-q",
             searchFilter: "searchFilter-2ESiM3"
         }
     },
-    7057: function(e, t, o) {
+    7058: function(e, t, o) {
         e.exports = {
             container: "container-3ayLPN elevationBorderHigh-2WYJ09",
             queryContainer: "queryContainer-RKFJW-",
@@ -5212,7 +5217,7 @@
             focused: "focused-2bY0OD"
         }
     },
-    7058: function(e, t, o) {
+    7059: function(e, t, o) {
         e.exports = {
             resultsGroup: "resultsGroup-r_nuzN",
             searchClearHistory: "searchClearHistory-2cSSMO",
@@ -5240,7 +5245,7 @@
             resultChannel: "resultChannel-3BYgHX"
         }
     },
-    7059: function(e, t, o) {
+    7060: function(e, t, o) {
         e.exports = {
             search: "search-2oPWTC",
             searchBar: "searchBar-3dMhjb",
@@ -5249,14 +5254,14 @@
             open: "open-6_Y_aH"
         }
     },
-    7060: function(e, t, o) {},
-    7061: function(e, t, o) {
+    7061: function(e, t, o) {},
+    7062: function(e, t, o) {
         e.exports = {
             emptyStateContainer: "emptyStateContainer-2HsLQm",
             peopleList: "peopleList-3c4jOR"
         }
     },
-    7062: function(e, t, o) {
+    7063: function(e, t, o) {
         e.exports = {
             iconWrapper: "iconWrapper-L3hQuc",
             icon: "icon-3kbkI0",
@@ -5266,7 +5271,7 @@
             textDivider: "textDivider-2fG1vS"
         }
     },
-    7063: function(e, t, o) {
+    7064: function(e, t, o) {
         e.exports = {
             membersWrap: "membersWrap-2h-GB4",
             members: "members-1998pB",
@@ -5279,7 +5284,7 @@
             addMembersIcon: "addMembersIcon-1Bz_VS"
         }
     },
-    7064: function(e, t, o) {
+    7065: function(e, t, o) {
         e.exports = {
             gatedContent: "gatedContent-3-B7qB",
             image: "image-2LqJex",
@@ -5290,7 +5295,7 @@
             actionRed: "actionRed-gYn8D3"
         }
     },
-    7065: function(e, t, o) {
+    7066: function(e, t, o) {
         e.exports = {
             verifyConnectedAccount: "verifyConnectedAccount-3WFmtE",
             logos: "logos-pt9vV6",
@@ -5303,7 +5308,7 @@
             spinnerItem: "spinnerItem-3hBt_K"
         }
     },
-    7066: function(e, t, o) {
+    7067: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignCenter: "alignCenter-1dQNNs",
@@ -5327,7 +5332,7 @@
             noResults: "noResults-3LFG4E results-3TZ2t8"
         }
     },
-    7067: function(e, t, o) {
+    7068: function(e, t, o) {
         e.exports = {
             root: "root-2IyrUe",
             option: "option-3Ztn6N",
@@ -5335,12 +5340,12 @@
             caret: "caret-3iKYZt"
         }
     },
-    7068: function(e, t, o) {
+    7069: function(e, t, o) {
         e.exports = {
             title: "title-3mEw9k"
         }
     },
-    7069: function(e, t, o) {
+    7070: function(e, t, o) {
         e.exports = {
             base: "base-18fc34",
             sparkle: "sparkle-1TdrlZ base-18fc34",
@@ -5361,13 +5366,13 @@
             crossWhite: "crossWhite-2FnCYL cross-AT1Amb base-18fc34"
         }
     },
-    7070: function(e, t, o) {
+    7071: function(e, t, o) {
         e.exports = {
             outer: "outer-s4sY2_",
             inner: "inner-2O5YO7"
         }
     },
-    7071: function(e, t, o) {
+    7072: function(e, t, o) {
         e.exports = {
             root: "root-1i3NKH",
             image: "image-1npAv8",
@@ -5376,7 +5381,7 @@
             emptyPreviewText: "emptyPreviewText-2IOfAL"
         }
     },
-    7072: function(e, t, o) {
+    7073: function(e, t, o) {
         e.exports = {
             avatar: "avatar-_-TGPX",
             memberListItem: "memberListItem-2ZX2pl",
@@ -5385,20 +5390,20 @@
             username: "username-1Mmpcp"
         }
     },
-    7073: function(e, t, o) {
+    7074: function(e, t, o) {
         e.exports = {
             art: "art-clkMXs",
             description: "description-FLRtPT"
         }
     },
-    7074: function(e, t, o) {
+    7075: function(e, t, o) {
         e.exports = {
             closeButton: "closeButton-30cKQR",
             title: "title-YNu73W",
             content: "content-2FmSBS"
         }
     },
-    7075: function(e, t, o) {
+    7076: function(e, t, o) {
         e.exports = {
             title: "title-3BE6m5",
             avatar: "avatar-Uq3gXb",
@@ -5410,13 +5415,13 @@
             channelName: "channelName-3_Vb6f"
         }
     },
-    7076: function(e, t, o) {
+    7077: function(e, t, o) {
         e.exports = {
             divider: "divider-3upnin",
             separator: "separator-19P9q2"
         }
     },
-    7077: function(e, t, o) {
+    7078: function(e, t, o) {
         e.exports = {
             innerPadding: "16px",
             modalContent: "modalContent-BM7Qeh",
@@ -5426,19 +5431,19 @@
             scrollWrapper: "scrollWrapper-D9dVnd"
         }
     },
-    7078: function(e, t, o) {
+    7079: function(e, t, o) {
         e.exports = {
             innerPadding: "16px",
             channelInfoWrapper: "channelInfoWrapper-1DPrpu",
             channelTitleWrapper: "channelTitleWrapper-UW6lQz"
         }
     },
-    7079: function(e, t, o) {
+    7080: function(e, t, o) {
         e.exports = {
             card: "card-2Mz_4z"
         }
     },
-    7080: function(e, t, o) {
+    7081: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs",
@@ -5446,7 +5451,7 @@
             item: "item-3T2z1R flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs"
         }
     },
-    7081: function(e, t, o) {
+    7082: function(e, t, o) {
         e.exports = {
             selectorButton: "selectorButton-EEUWed",
             selectorButtonPremiumRequired: "selectorButtonPremiumRequired-mKMbIu",
@@ -5460,7 +5465,7 @@
             qualitySettingsContainer: "qualitySettingsContainer-1gOtRJ"
         }
     },
-    7082: function(e, t, o) {
+    7083: function(e, t, o) {
         e.exports = {
             selectedIcon: "selectedIcon-DE5J2w",
             ellipsisText: "ellipsisText-2EszCb",
@@ -5469,7 +5474,7 @@
             warning: "warning--qC9N8"
         }
     },
-    7083: function(e, t, o) {
+    7084: function(e, t, o) {
         e.exports = {
             guildScroller: "guildScroller-2J_wr3",
             guildRow: "guildRow-26rtE0",
@@ -5478,20 +5483,20 @@
             guildArrow: "guildArrow-MZgyxl"
         }
     },
-    7084: function(e, t, o) {
+    7085: function(e, t, o) {
         e.exports = {
             grid: "grid-32iiFi",
             tile: "tile-8W93rZ"
         }
     },
-    7085: function(e, t, o) {
+    7086: function(e, t, o) {
         e.exports = {
             item: "item-1TLUig",
             container: "container-OI6I9q",
             selected: "selected-P8xTeN"
         }
     },
-    7086: function(e, t, o) {
+    7087: function(e, t, o) {
         e.exports = {
             spinner: "spinner-nBA_Xz",
             tile: "tile-2w4k5N",
@@ -5505,13 +5510,13 @@
             segmentControlOption: "segmentControlOption-1vCKaY"
         }
     },
-    7087: function(e, t, o) {
+    7088: function(e, t, o) {
         e.exports = {
             button: "button-3HLNXW",
             badgeUpgrade: "badgeUpgrade-3_4a3F"
         }
     },
-    7088: function(e, t, o) {
+    7089: function(e, t, o) {
         e.exports = {
             quickSelect: "quickSelect-3BxO0K",
             quickSelectClick: "quickSelectClick-1HOWp1",
@@ -5525,7 +5530,7 @@
             selected: "selected-3RZo5I"
         }
     },
-    7089: function(e, t, o) {
+    7090: function(e, t, o) {
         e.exports = {
             regionSelect: "regionSelect-3lf4eE",
             disabled: "disabled-1PUF94",
@@ -5541,7 +5546,7 @@
             regionSelectModalOption: "regionSelectModalOption-2DSIZ3"
         }
     },
-    7090: function(e, t, o) {
+    7091: function(e, t, o) {
         e.exports = {
             list: "list-SuzGBZ",
             listDefault: "listDefault-3ir5aS",
@@ -5575,7 +5580,7 @@
             disabled: "disabled-o7LSOr"
         }
     },
-    7091: function(e, t, o) {
+    7092: function(e, t, o) {
         e.exports = {
             body: "body-Ogsp8i",
             streamPreviewWrapper: "streamPreviewWrapper-2DSWOK",
@@ -5593,19 +5598,19 @@
             watchButton: "watchButton-2SbJEo"
         }
     },
-    7092: function(e, t, o) {
+    7093: function(e, t, o) {
         e.exports = {
             draggable: "draggable-2E_4tJ"
         }
     },
-    7093: function(e, t, o) {
+    7094: function(e, t, o) {
         e.exports = {
             list: "list-2luk8a",
             collapsed: "collapsed-21_y8I",
             disableInteraction: "disableInteraction-3oQqhT"
         }
     },
-    7094: function(e, t, o) {
+    7095: function(e, t, o) {
         e.exports = {
             applicationDetails: "applicationDetails-9QVoka",
             entry: "entry-1btQtX",
@@ -5613,7 +5618,7 @@
             entryInner: "entryInner-2hiMQJ"
         }
     },
-    7095: function(e, t, o) {
+    7096: function(e, t, o) {
         e.exports = {
             scopes: "scopes-3GJ3xw",
             scope: "scope-J5Vnxx",
@@ -5625,7 +5630,7 @@
             icon: "icon-1Vf2He"
         }
     },
-    7096: function(e, t, o) {
+    7097: function(e, t, o) {
         e.exports = {
             botPermissions: "botPermissions-1zv5Xg",
             permissionsList: "permissionsList-B0Dh4s",
@@ -5636,7 +5641,7 @@
             icon: "icon-23g0Dq"
         }
     },
-    7097: function(e, t, o) {
+    7098: function(e, t, o) {
         e.exports = {
             selectorGroup: "selectorGroup-dJ6TXV",
             select: "select-1Hqz5i",
@@ -5644,7 +5649,7 @@
             sectionLabel: "sectionLabel-1Qi0HG"
         }
     },
-    7098: function(e, t, o) {
+    7099: function(e, t, o) {
         e.exports = {
             header: "header-1Gj-ua",
             applicationName: "applicationName-212NZT",
@@ -5659,12 +5664,12 @@
             botTag: "botTag-3EBhDH"
         }
     },
-    7099: function(e, t, o) {
+    7100: function(e, t, o) {
         e.exports = {
             oauth2Wrapper: "oauth2Wrapper-mHbF5q"
         }
     },
-    7100: function(e, t, o) {
+    7101: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-L5YRoB",
             header: "header-3a78__",
@@ -5673,7 +5678,7 @@
             headerFailure: "headerFailure-2bMPeV"
         }
     },
-    7101: function(e, t, o) {
+    7102: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             footer: "footer-3ZalXG",
@@ -5685,7 +5690,7 @@
             scrollContent: "scrollContent-m6ynud"
         }
     },
-    7102: function(e, t, o) {
+    7103: function(e, t, o) {
         e.exports = {
             container: "container-CpszHS container-1nZlH6",
             layout: "layout-FSaTy9 layout-eEMo5y",
@@ -5699,12 +5704,12 @@
             text: "text-2sI5Sd"
         }
     },
-    7103: function(e, t, o) {
+    7104: function(e, t, o) {
         e.exports = {
             title: "title-3pjxZQ"
         }
     },
-    7104: function(e, t, o) {
+    7105: function(e, t, o) {
         e.exports = {
             option: "option-1B5ZV8",
             inline: "inline-3vqbcF",
@@ -5714,20 +5719,20 @@
             clickable: "clickable-198KJD"
         }
     },
-    7105: function(e, t, o) {
+    7106: function(e, t, o) {
         e.exports = {
             mask: "mask-2xtthE",
             icon: "icon-3Rn_DX"
         }
     },
-    7106: function(e, t, o) {
+    7107: function(e, t, o) {
         e.exports = {
             icon: "icon-2VCx8O",
             wrapper: "wrapper-2siovq",
             selected: "selected-3xBBKs"
         }
     },
-    7107: function(e, t, o) {
+    7108: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-2IKwZK",
             image: "image-2oOaF4",
@@ -5742,7 +5747,7 @@
             disabled: "disabled-2hyQpT"
         }
     },
-    7108: function(e, t, o) {
+    7109: function(e, t, o) {
         e.exports = {
             upsell: "upsell-1vK3zR",
             emojis: "emojis-15d8FD",
@@ -5751,7 +5756,7 @@
             emoji: "emoji-20Hm2a"
         }
     },
-    7109: function(e, t, o) {
+    7110: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-uf3cnO",
             list: "list-A0BHjR",
@@ -5759,7 +5764,7 @@
             builtInSeparator: "builtInSeparator-1ku6s5"
         }
     },
-    7110: function(e, t, o) {
+    7111: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-VQ4BER",
             infoWrapper: "infoWrapper-1Sn7AX",
@@ -5769,7 +5774,7 @@
             source: "source-10b1ZU"
         }
     },
-    7111: function(e, t, o) {
+    7112: function(e, t, o) {
         e.exports = {
             outerWrapper: "outerWrapper-3-llkA",
             wrapper: "wrapper-1CvDB0",
@@ -5782,7 +5787,7 @@
             itemWrapper: "itemWrapper-14KrHY"
         }
     },
-    7112: function(e, t, o) {
+    7113: function(e, t, o) {
         e.exports = {
             topSpacing: "5px",
             tooltipContainerMaxWidth: "300px",
@@ -5800,7 +5805,7 @@
             tooltipPointer: "tooltipPointer-l336oV"
         }
     },
-    7113: function(e, t, o) {
+    7114: function(e, t, o) {
         e.exports = {
             container: "container-3Fb-hU",
             column: "column-33vdru",
@@ -5808,7 +5813,7 @@
             categoryLoader: "categoryLoader-1UbzZM"
         }
     },
-    7114: function(e, t, o) {
+    7115: function(e, t, o) {
         e.exports = {
             desiredItemWidth: "160px",
             results: "results-3i9FaE",
@@ -5832,7 +5837,7 @@
             loadIN: "loadIN-3GZ05S"
         }
     },
-    7115: function(e, t, o) {
+    7116: function(e, t, o) {
         e.exports = {
             container: "container-2jxBbw",
             categoryFade: "categoryFade-2ybR1J",
@@ -5844,7 +5849,7 @@
             formatSelectors: "formatSelectors-3aBz_F"
         }
     },
-    7116: function(e, t, o) {
+    7117: function(e, t, o) {
         e.exports = {
             gutterSize: "0 16px 12px 16px",
             container: "container-3ISnnM",
@@ -5855,7 +5860,7 @@
             backButton: "backButton-JyKGC1"
         }
     },
-    7117: function(e, t, o) {
+    7118: function(e, t, o) {
         e.exports = {
             stickerCategoryListPadding: "8px",
             stickerCategoryIconMargin: "8px",
@@ -5871,7 +5876,7 @@
             stickerPackThumbnail: "stickerPackThumbnail-2yNuP6"
         }
     },
-    7118: function(e, t, o) {
+    7119: function(e, t, o) {
         e.exports = {
             emptyState: "emptyState-39XDT6",
             image: "image-2IMvx-",
@@ -5880,7 +5885,7 @@
             browseLink: "browseLink-36JjWs"
         }
     },
-    7119: function(e, t, o) {
+    7120: function(e, t, o) {
         e.exports = {
             stickersListDividerHeight: "30px",
             stickerPickerPreviewMargin: "12px",
@@ -5902,12 +5907,12 @@
             searchSuggestion: "searchSuggestion-rlq9uJ"
         }
     },
-    7120: function(e, t, o) {
+    7121: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-3ir_7D"
         }
     },
-    7121: function(e, t, o) {
+    7122: function(e, t, o) {
         e.exports = {
             tooltip: "tooltip-1jydGM",
             tooltipContent: "tooltipContent-2opL_O",
@@ -5915,7 +5920,7 @@
             blurb: "blurb-3ZWyr9"
         }
     },
-    7122: function(e, t, o) {
+    7123: function(e, t, o) {
         e.exports = {
             stickerShopIconWrapper: "stickerShopIconWrapper-2SZmQ6",
             regularStickerShopIconWrapper: "regularStickerShopIconWrapper-pG2mOn",
@@ -5930,7 +5935,7 @@
             tooltip: "tooltip-3ypHnh"
         }
     },
-    7123: function(e, t, o) {
+    7124: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-2iFQJ9",
             header: "header-2k4I2o",
@@ -5938,7 +5943,7 @@
             listWrapper: "listWrapper-hig339"
         }
     },
-    7124: function(e, t, o) {
+    7125: function(e, t, o) {
         e.exports = {
             positionLayer: "positionLayer-1KzSAt",
             positionContainer: "positionContainer-DEuh7X",
@@ -5961,7 +5966,7 @@
             stickersUnseenBadge: "stickersUnseenBadge-3f2c9o"
         }
     },
-    7125: function(e, t, o) {
+    7126: function(e, t, o) {
         e.exports = {
             containerPadding: "8px",
             stickerSuggestionSize: "48px",
@@ -5981,12 +5986,12 @@
             unownedStickerLockIcon: "unownedStickerLockIcon-2GMbV9"
         }
     },
-    7126: function(e, t, o) {
+    7127: function(e, t, o) {
         e.exports = {
             bar: "bar-AokMp3"
         }
     },
-    7127: function(e, t, o) {
+    7128: function(e, t, o) {
         e.exports = {
             closeButton: "closeButton-2vFjP4",
             content: "content-3xEmRL",
@@ -5994,7 +5999,7 @@
             header: "header-2OWtC9"
         }
     },
-    7128: function(e, t, o) {
+    7129: function(e, t, o) {
         e.exports = {
             userTooltip: "userTooltip-7qZaHD",
             avatar: "avatar-i5C_qp",
@@ -6003,7 +6008,7 @@
             iconMention: "iconMention-1t7gB7"
         }
     },
-    7129: function(e, t, o) {
+    7130: function(e, t, o) {
         e.exports = {
             commandBlock: "commandBlock-38NGGm",
             pill: "pill-2pQByF",
@@ -6013,14 +6018,14 @@
             tabButton: "tabButton-1n4gNP"
         }
     },
-    7130: function(e, t, o) {
+    7131: function(e, t, o) {
         e.exports = {
             slateContainer: "slateContainer-3Qkn2x",
             slateTextArea: "slateTextArea-1Mkdgw",
             placeholder: "placeholder-37qJjk"
         }
     },
-    7131: function(e, t, o) {
+    7132: function(e, t, o) {
         e.exports = {
             emojiButton: "emojiButton-3uL3Aw",
             emojiButtonHovered: "emojiButtonHovered-1rWNal emojiButton-3uL3Aw",
@@ -6028,7 +6033,7 @@
             sprite: "sprite-2iCowe"
         }
     },
-    7132: function(e, t, o) {
+    7133: function(e, t, o) {
         e.exports = {
             hoverScale: "calc(24 / 28)",
             buttonWrapper: "buttonWrapper-1ZmCpA",
@@ -6046,7 +6051,7 @@
             active: "active-23Nm0T"
         }
     },
-    7133: function(e, t, o) {
+    7134: function(e, t, o) {
         e.exports = {
             container: "container-2fRDfG",
             text: "text-15b_0l",
@@ -6059,7 +6064,7 @@
             closeIcon: "closeIcon-HLoKft"
         }
     },
-    7134: function(e, t, o) {
+    7135: function(e, t, o) {
         e.exports = {
             stickerPreviews: "stickerPreviews-D1UghN",
             stickerPreviewContainer: "stickerPreviewContainer-3QyrFr",
@@ -6070,20 +6075,20 @@
             closeIcon: "closeIcon-2--3zh"
         }
     },
-    7135: function(e, t, o) {
+    7136: function(e, t, o) {
         e.exports = {
             root: "root-2GkXUO",
             premium: "premium-1XICKa"
         }
     },
-    7136: function(e, t, o) {
+    7137: function(e, t, o) {
         e.exports = {
             characterCount: "characterCount-1cRDo2",
             upsell: "upsell-34F9Me",
             error: "error-1M5Do5"
         }
     },
-    7137: function(e, t, o) {
+    7138: function(e, t, o) {
         e.exports = {
             toolbar: "toolbar-2bjZV7",
             button: "button-qqmJ7w",
@@ -6095,7 +6100,7 @@
             hover: "hover-28QbSq"
         }
     },
-    7138: function(e, t, o) {
+    7139: function(e, t, o) {
         e.exports = {
             avatarUploader: "avatarUploader-3XDtmn",
             removeButton: "removeButton-1hcZyG",
@@ -6107,7 +6112,7 @@
             avatarUploaderIndicator: "avatarUploaderIndicator-2G-aIZ"
         }
     },
-    7139: function(e, t, o) {
+    7140: function(e, t, o) {
         e.exports = {
             hack: "hack-3ZLZIE undefined",
             content: "content-1nP7fx",
@@ -6134,17 +6139,17 @@
             buttonContainer: "buttonContainer-lZQm0q"
         }
     },
-    7140: function(e, t, o) {
+    7141: function(e, t, o) {
         e.exports = {
             container: "container-2k0FnA"
         }
     },
-    7141: function(e, t, o) {
+    7142: function(e, t, o) {
         e.exports = {
             container: "container-1bog4s"
         }
     },
-    7142: function(e, t, o) {
+    7143: function(e, t, o) {
         e.exports = {
             container: "container-om6VJQ",
             personAvatar: "personAvatar-2_BWgA",
@@ -6153,7 +6158,7 @@
             avatarSizeOverride: "avatarSizeOverride-3xEJPs"
         }
     },
-    7143: function(e, t, o) {
+    7144: function(e, t, o) {
         e.exports = {
             icon: "icon-7Z466E",
             voiceConversationsTitle: "voiceConversationsTitle-2LSHDw",
@@ -6163,7 +6168,7 @@
             channelsTitle: "channelsTitle-1-1-6I"
         }
     },
-    7144: function(e, t, o) {
+    7145: function(e, t, o) {
         e.exports = {
             indicator: "indicator-1afSc8",
             animationContainer: "animationContainer-C1kDfz",
@@ -6183,7 +6188,7 @@
             "outer-circle-loop-high-priority": "outer-circle-loop-high-priority-26WkDY"
         }
     },
-    7145: function(e, t, o) {
+    7146: function(e, t, o) {
         e.exports = {
             modalRoot: "modalRoot-3CFA4t",
             header: "header-17bQeH",
@@ -6192,7 +6197,7 @@
             error: "error-1xqs3z"
         }
     },
-    7146: function(e, t, o) {
+    7147: function(e, t, o) {
         e.exports = {
             container: "container-jSV3OF",
             fontSize14: "fontSize14-1tusjs",
@@ -6204,7 +6209,7 @@
             error: "error-c-8XMu"
         }
     },
-    7147: function(e, t, o) {
+    7148: function(e, t, o) {
         e.exports = {
             marginBottom20: "marginBottom20-32qID7",
             marginTop8: "marginTop8-1DLZ1n",
@@ -6245,14 +6250,14 @@
             radioText: "radioText-3nuXCv"
         }
     },
-    7148: function(e, t, o) {
+    7149: function(e, t, o) {
         e.exports = {
             button: "button-2CgfFz",
             default: "default-3oAQTF",
             filled: "filled-1iCBCZ"
         }
     },
-    7149: function(e, t, o) {
+    7150: function(e, t, o) {
         e.exports = {
             lighten: "lighten-2aYaaU",
             wrapper: "wrapper-1U5SlS",
@@ -6261,7 +6266,7 @@
             subtitle: "subtitle-2yP_Eh lighten-2aYaaU"
         }
     },
-    7150: function(e, t, o) {
+    7151: function(e, t, o) {
         e.exports = {
             spacing: "spacing-3SKozy",
             smallSpacing: "smallSpacing-2Dn-1F",
@@ -6292,14 +6297,9 @@
             guildName: "guildName-3WI6ml"
         }
     },
-    7151: function(e, t, o) {
-        e.exports = {
-            content: "content-191BxG"
-        }
-    },
     7152: function(e, t, o) {
         e.exports = {
-            badge: "badge-_BgAUQ"
+            content: "content-191BxG"
         }
     },
     7153: function(e, t, o) {
@@ -8497,7 +8497,6 @@
             featuresHeader: "featuresHeader-4YwLcc",
             featureGrid: "featureGrid-3-fNl-",
             feature: "feature-2w65J5",
-            featureNewBadge: "featureNewBadge-24rCe6",
             featureDescription: "featureDescription-1wp-zJ",
             featureChildrenWrapper: "featureChildrenWrapper-smz30S",
             featureImageWrapper: "featureImageWrapper-pPDLjm",
@@ -8510,23 +8509,21 @@
             featureUploadSize: "featureUploadSize-2CAVFL",
             featureGoLive: "featureGoLive-30cvVw",
             featureStickers: "featureStickers-Pc_FBx",
-            featureStickersNewBadge: "featureStickersNewBadge-1yAl2q",
+            badgeNew: "badgeNew-16P_X0",
+            sparkleContainer: "sparkleContainer-26geov",
+            sparkle: "sparkle-1qyWC9",
+            sparkleStarTopRight: "sparkleStarTopRight-1uWZTi",
+            sparkleStarRight: "sparkleStarRight-3STViN",
+            sparkleStarBottomLeft: "sparkleStarBottomLeft-3dycVF",
             stickerImageSection: "stickerImageSection-7EUs8E",
             stickerNameHeader: "stickerNameHeader-slJZKS",
             fakeBuyButton: "fakeBuyButton-3XrfxO",
             fakeBuyButtonInner: "fakeBuyButtonInner-26ap8t",
-            newBadge: "newBadge-1Is7Nf",
-            newBadgeContainer: "newBadgeContainer-3wCcs5",
-            sparkle: "sparkle-1qyWC9",
-            sparkleStarTopRight: "sparkleStarTopRight-1uWZTi sparkle-1qyWC9",
-            sparkleStarRight: "sparkleStarRight-3STViN sparkle-1qyWC9",
-            sparkleStarBottomLeft: "sparkleStarBottomLeft-3dycVF sparkle-1qyWC9",
             featureStickers2Images: "featureStickers2Images-2AZnZQ",
             featureStickersSingleColumn: "featureStickersSingleColumn-1XHEyk",
             learnMoreLink: "learnMoreLink-21wlRq",
             itemInfoIcon: "itemInfoIcon-3tr1nj",
             featureMoreServers: "featureMoreServers-14Thw5",
-            featureLongerMessageContent: "featureLongerMessageContent-1RADxx",
             newSparkles: "newSparkles-1I8M41"
         }
     },
@@ -12859,4 +12856,4 @@
         }
     }
 }]);
-//# sourceMappingURL=dbe4e82ffe01c89da02c.js.map
+//# sourceMappingURL=ad45cdc1afdb20a04b23.js.map
