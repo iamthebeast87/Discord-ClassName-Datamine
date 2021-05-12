@@ -7297,6 +7297,7 @@
         e.exports = {
             scroller: "scroller-Utb7tO",
             searchContainer: "searchContainer-3pUVEQ",
+            permissionsWrapper: "permissionsWrapper-1amySy",
             clearButton: "clearButton-3wWY21",
             noResultsContainer: "noResultsContainer-1kVGAa",
             noResults: "noResults-3C-Rr0",
@@ -12844,4 +12845,4 @@
         }
     }
 }]);
-//# sourceMappingURL=3cdc2e2db10b8f60ebfd.js.map
+//# sourceMappingURL=a7b342fc46ac897129c4.js.map
