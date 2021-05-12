@@ -4508,7 +4508,8 @@
             reactionInner: "reactionInner-15NvIl",
             reactionTooltip: "reactionTooltip-3pvwwY",
             reactionTooltipContent: "reactionTooltipContent-2TwEIL",
-            reactionTooltipEmoji: "reactionTooltipEmoji-3LG0v8"
+            reactionTooltipEmoji: "reactionTooltipEmoji-3LG0v8",
+            reactionTooltipText: "reactionTooltipText-u4NWre"
         }
     },
     6996: function(e, t, o) {
@@ -12843,4 +12844,4 @@
         }
     }
 }]);
-//# sourceMappingURL=f5d18234fbf1b1fc75ae.js.map
+//# sourceMappingURL=3cdc2e2db10b8f60ebfd.js.map
