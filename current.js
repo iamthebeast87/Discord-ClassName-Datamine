@@ -7939,11 +7939,11 @@
     7278: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-3D2qGf",
+            section: "section-2gLsgF",
             overlay: "overlay-2SwBN8",
             headerOverlay: "headerOverlay-2mAFik overlay-2SwBN8",
             sectionOverlay: "sectionOverlay-2i3R5I overlay-2SwBN8",
             twitchOverlay: "twitchOverlay-CYlF3G overlay-2SwBN8",
-            section: "section-2gLsgF",
             clickableIcon: "clickableIcon-32gFJk",
             sectionTitle: "sectionTitle-b-eawy",
             textContent: "textContent-3N7xXx",
@@ -10241,7 +10241,8 @@
     },
     7469: function(e, t, o) {
         e.exports = {
-            scroller: "scroller-2ZPeAD"
+            scroller: "scroller-2ZPeAD",
+            container: "container-lRFx4q"
         }
     },
     7470: function(e, t, o) {
@@ -12861,4 +12862,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ee26488ee8f405ca1b4b.js.map
+//# sourceMappingURL=80653f283c9a0fb1dff8.js.map
