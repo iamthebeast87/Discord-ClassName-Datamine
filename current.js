@@ -10559,8 +10559,7 @@
             invoice: "invoice-D33brE",
             bodyContentWrapper: "bodyContentWrapper-1eqfX-",
             reviewBodyHeader: "reviewBodyHeader-1-TFNS",
-            paymentSourceDropdown: "paymentSourceDropdown-ndYLoA",
-            disclaimerText: "disclaimerText-1PxEL7"
+            paymentSourceDropdown: "paymentSourceDropdown-ndYLoA"
         }
     },
     7507: function(e, t, o) {
@@ -12862,4 +12861,4 @@
         }
     }
 }]);
-//# sourceMappingURL=08a7f844478a0357b24a.js.map
+//# sourceMappingURL=5cbcc3810cdf985734f7.js.map
