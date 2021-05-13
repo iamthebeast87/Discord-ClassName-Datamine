@@ -2753,7 +2753,6 @@
             formItem: "formItem-3NqgNx",
             formHelpText: "formHelpText-21UFgx",
             footer: "footer-2_uVg4",
-            buttonsRight: "buttonsRight-2y6xr1",
             backButton: "backButton-1uCkrF",
             content: "content-3_5Nbn",
             colorPicker: "colorPicker-3sI_D-"
@@ -7323,6 +7322,7 @@
     7226: function(e, t, o) {
         e.exports = {
             header: "header-2PmrS5",
+            subtitle: "subtitle-czhBWq",
             roleContainer: "roleContainer-2-Gsum",
             roleName: "roleName-2fEtyh",
             contentContainer: "contentContainer-I7ebu8",
@@ -12861,4 +12861,4 @@
         }
     }
 }]);
-//# sourceMappingURL=707c768f69a431136a76.js.map
+//# sourceMappingURL=833db8303adc784aef56.js.map
