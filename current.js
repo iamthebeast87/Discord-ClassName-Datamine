@@ -10387,10 +10387,10 @@
         e.exports = {
             grid: "grid-3fdl0Y",
             speakerContainer: "speakerContainer-3h4uQU",
-            speaker: "speaker-3WW4pR",
+            avatar: "avatar-vQKmqY",
             iconMicrophone: "iconMicrophone-1A2Yqh",
             speakerCount: "speakerCount-3KijLY",
-            nickname: "nickname-3ODtp_"
+            textInGrid: "textInGrid-1ba1AD"
         }
     },
     7499: function(e, t, o) {
@@ -10399,7 +10399,7 @@
             contentContainer: "contentContainer-1fklqj",
             headerContainer: "headerContainer-1X_tPb",
             guildIcon: "guildIcon-3DxHr5",
-            guildIconAndName: "guildIconAndName-2AlEL-",
+            flexContainerRow: "flexContainerRow-2a2RpB",
             guildInfoContainer: "guildInfoContainer-VZ-tXn",
             guildNameAndContext: "guildNameAndContext-3U0IyY",
             topicText: "topicText-3B26Cx",
@@ -10407,6 +10407,7 @@
             hoveredParticipantsContainer: "hoveredParticipantsContainer-1jRGjF",
             loading: "loading-2PktB_",
             placeholderPulse: "placeholderPulse-3MG86Y",
+            rightJustifiedContent: "rightJustifiedContent-1qP_dH",
             scoreSummary: "scoreSummary-kqJvzd"
         }
     },
@@ -10435,7 +10436,7 @@
             headerBarContainer: "headerBarContainer-31FKNA",
             pageContent: "pageContent-1xgXch",
             stageSection: "stageSection-3mAD8V",
-            activityFeedSidebar: "activityFeedSidebar-2qhPSj"
+            nowPlayingSidebar: "nowPlayingSidebar-2OFn0o"
         }
     },
     7503: function(e, t, o) {
@@ -12893,4 +12894,4 @@
         }
     }
 }]);
-//# sourceMappingURL=f4d6bea15d8b379c6461.js.map
+//# sourceMappingURL=b16a1d1633ca3fd274e2.js.map
