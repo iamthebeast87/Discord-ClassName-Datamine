@@ -10365,7 +10365,6 @@
     7494: function(e, t, o) {
         e.exports = {
             container: "container-7Unqij",
-            iconContainer: "iconContainer-3ekW6L",
             icon: "icon-3jQD8H"
         }
     },
@@ -10390,6 +10389,7 @@
             avatar: "avatar-vQKmqY",
             iconMicrophone: "iconMicrophone-1A2Yqh",
             speakerCount: "speakerCount-3KijLY",
+            textInGridContainer: "textInGridContainer-XBWCa-",
             textInGrid: "textInGrid-1ba1AD"
         }
     },
@@ -10401,7 +10401,6 @@
             guildIcon: "guildIcon-3DxHr5",
             flexContainerRow: "flexContainerRow-2a2RpB",
             guildInfoContainer: "guildInfoContainer-VZ-tXn",
-            guildNameAndContext: "guildNameAndContext-3U0IyY",
             topicText: "topicText-3B26Cx",
             guildName: "guildName-2Ec3Mf",
             hoveredParticipantsContainer: "hoveredParticipantsContainer-1jRGjF",
@@ -12879,4 +12878,4 @@
         }
     }
 }]);
-//# sourceMappingURL=d38bd41720b7a1c7a95a.js.map
+//# sourceMappingURL=553e66d23218f656580e.js.map
