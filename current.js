@@ -9018,6 +9018,7 @@
             profileBadgeHypeSquadOnlineHouse2Winner: "profileBadgeHypeSquadOnlineHouse2Winner-AS5bXe",
             profileBadgeHypeSquadOnlineHouse3Winner: "profileBadgeHypeSquadOnlineHouse3Winner-2CwwQi",
             profileBadgeVerifiedDeveloper: "profileBadgeVerifiedDeveloper-195KfD",
+            profileBadgeCertifiedModerator: "profileBadgeCertifiedModerator-1TQtjV",
             profileBadgeEarlySupporter: "profileBadgeEarlySupporter-2ng_jL",
             profileBadgePremium: "profileBadgePremium-1KDZYC",
             profileBadgeBugHunterLevel1: "profileBadgeBugHunterLevel1-dbEzVz",
@@ -12866,4 +12867,4 @@
         }
     }
 }]);
-//# sourceMappingURL=f9190dcc0849c252eb04.js.map
+//# sourceMappingURL=147aa1979a67a830328a.js.map
