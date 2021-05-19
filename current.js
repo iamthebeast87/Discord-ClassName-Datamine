@@ -7005,7 +7005,7 @@
             formTitle: "formTitle-3jd5CW",
             formSelect: "formSelect-28-gtI",
             divider: "divider-2DTmGf",
-            descriptionTextArea: "descriptionTextArea-1Z8TXf",
+            description: "description-29kE_D",
             upsellContainer: "upsellContainer-L9xv7w",
             upsellContent: "upsellContent-1JlpHe",
             upsellFooter: "upsellFooter-ZYsio_",
@@ -12956,4 +12956,4 @@
         }
     }
 }]);
-//# sourceMappingURL=66a04b9d1142188ee00f.js.map
+//# sourceMappingURL=cb8b88e835737e5b9f2d.js.map
