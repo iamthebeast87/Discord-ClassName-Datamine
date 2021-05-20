@@ -2923,9 +2923,13 @@
         e.exports = {
             modalContent: "modalContent-3_WBnz",
             editingContainer: "editingContainer-3s5xK0",
+            editingContainerAvatar: "editingContainerAvatar-1ZAZj7 editingContainer-3s5xK0",
+            editingContainerBanner: "editingContainerBanner-cJTggD editingContainer-3s5xK0",
             image: "image-3Yh9L1",
             icon: "icon-2glot6",
             overlay: "overlay-4k_Q4-",
+            overlayAvatar: "overlayAvatar-2W83ow overlay-4k_Q4-",
+            overlayBanner: "overlayBanner-gTP3kG overlay-4k_Q4-",
             sliderContainer: "sliderContainer-1N1-Pn",
             cancelButton: "cancelButton-3Xu9aX",
             modalFooter: "modalFooter-2ug_ge"
@@ -12970,4 +12974,4 @@
         }
     }
 }]);
-//# sourceMappingURL=016099bb40e6f8f5f0b5.js.map
+//# sourceMappingURL=e45a534df603bb0092d6.js.map
