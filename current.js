@@ -3336,8 +3336,11 @@
     },
     6931: function(e, t, o) {
         e.exports = {
-            profileBannerPremium: "profileBannerPremium-2RxXQ9",
-            profileBanner: "profileBanner-j34RzR"
+            banner: "banner-3gRYg5",
+            bannerOverlay: "bannerOverlay-1Q8RTe",
+            pencilIcon: "pencilIcon-XmcZQT",
+            profileBannerPremium: "profileBannerPremium-2RxXQ9 banner-3gRYg5",
+            profileBanner: "profileBanner-j34RzR banner-3gRYg5"
         }
     },
     6932: function(e, t, o) {
@@ -10214,7 +10217,8 @@
             varUpsellTooltip: "varUpsellTooltip-1P8Jpo",
             varUpsell: "varUpsell-3rw6f_",
             varUpsellTitle: "varUpsellTitle-2TnDwT",
-            varUpsellBody: "varUpsellBody-1SRfWC"
+            varUpsellBody: "varUpsellBody-1SRfWC",
+            tooltip: "tooltip-1Il2gT"
         }
     },
     7482: function(e, t, o) {
@@ -12974,4 +12978,4 @@
         }
     }
 }]);
-//# sourceMappingURL=e45a534df603bb0092d6.js.map
+//# sourceMappingURL=0eb7fc21f66bf16f31c0.js.map
