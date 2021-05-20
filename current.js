@@ -10633,26 +10633,29 @@
     },
     7526: function(e, t, o) {
         e.exports = {
-            container: "container-2xxLVG",
-            contentContainer: "contentContainer-1TtOKB",
-            eventDate: "eventDate-s5PBrl",
-            divider: "divider-zxP6T7",
-            speakerCount: "speakerCount-2AyhLR",
-            rsvpCount: "rsvpCount-2N2v0L",
-            eventImageContainer: "eventImageContainer-3Ang9W",
-            eventImage: "eventImage-TwpFHP",
-            overflowMenu: "overflowMenu-2R0LgP",
-            overflowMenuIcon: "overflowMenuIcon-3Th443",
-            eventDescription: "eventDescription-15dzvF",
-            eventName: "eventName-3XEjOa",
-            loadingIndicatorContainer: "loadingIndicatorContainer-20CWuO",
-            loadingIndicatorText: "loadingIndicatorText-KUyBz_",
-            buttonContainer: "buttonContainer-1x75TR",
-            button: "button-1Dr_y3",
-            wrappedButton: "wrappedButton-2BFqcC",
-            disabledOutlinedButton: "disabledOutlinedButton-1gdx7y",
-            buttonCheckmarkContainer: "buttonCheckmarkContainer-2IHvRO",
-            buttonCheckmark: "buttonCheckmark-2zTKG9"
+            container: "container-2NeAUh",
+            contentContainer: "contentContainer-iQzJYL",
+            eventDate: "eventDate-1fCnV9",
+            liveTag: "liveTag-2Rlaoh",
+            liveTagContainer: "liveTagContainer-3Fo8kB",
+            liveTagDot: "liveTagDot-17RpWy",
+            divider: "divider-ZgCBKj",
+            speakerCount: "speakerCount-2ygF_o",
+            rsvpCount: "rsvpCount-1bPYze",
+            eventImageContainer: "eventImageContainer-2E9GiD",
+            eventImage: "eventImage-35U21u",
+            overflowMenu: "overflowMenu-3Yigz8",
+            overflowMenuIcon: "overflowMenuIcon-2P25xb",
+            eventDescription: "eventDescription-haTe7m",
+            eventName: "eventName-30Epfw",
+            loadingIndicatorContainer: "loadingIndicatorContainer-kV-Uuf",
+            loadingIndicatorText: "loadingIndicatorText-1xsYg3",
+            buttonContainer: "buttonContainer-m-pTLM",
+            button: "button-2TNpU0",
+            wrappedButton: "wrappedButton-pYC7DI",
+            disabledOutlinedButton: "disabledOutlinedButton-1znJqk",
+            buttonCheckmarkContainer: "buttonCheckmarkContainer-DKI2yX",
+            buttonCheckmark: "buttonCheckmark-29anxP"
         }
     },
     7527: function(e, t, o) {
@@ -12967,4 +12970,4 @@
         }
     }
 }]);
-//# sourceMappingURL=4f0d4b898343b3e13c43.js.map
+//# sourceMappingURL=016099bb40e6f8f5f0b5.js.map
