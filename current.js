@@ -3401,6 +3401,7 @@
             streamName: "streamName-1q4JEo",
             streamGame: "streamGame-2odMhn",
             activityVoiceChannel: "activityVoiceChannel-OPU-Fm",
+            spotifyIcon: "spotifyIcon-2J9kSv",
             activityStreamPreview: "activityStreamPreview-3r3GiX",
             activityProfile: "activityProfile-2bJRaP",
             activityUserPopout: "activityUserPopout-2yItg2"
@@ -3526,11 +3527,10 @@
             size10: "size10-39i14u",
             size12: "size12-3R0845",
             size14: "size14-3iUx6q",
-            size16: "size16-14cGz5",
             size20: "size20-2QkeeC",
             height12: "height12-2Ltw-k",
             userSelectText: "userSelectText-1o1dQ7",
-            headerNormal: "headerNormal-1l1Znk size16-14cGz5",
+            headerNormal: "headerNormal-1l1Znk",
             headerNameWrapper: "headerNameWrapper-gEOyRH",
             headerName: "headerName-3W-qH- size20-2QkeeC",
             avatarHint: "avatarHint-1E3LMl",
@@ -3618,7 +3618,8 @@
             customStatus: "customStatus-1bh2V9",
             customStatusEmoji: "customStatusEmoji-7MXCgv",
             customStatusSoloEmoji: "customStatusSoloEmoji-XOvnMc",
-            customStatusText: "customStatusText-3YJeRZ"
+            customStatusText: "customStatusText-3YJeRZ",
+            newUserPopoutStyles: "newUserPopoutStyles-1lzZvB"
         }
     },
     6945: function(e, t, o) {
@@ -10281,9 +10282,7 @@
         e.exports = {
             scroller: "scroller-2ZPeAD",
             container: "container-lRFx4q",
-            containerStageDiscovery: "containerStageDiscovery-2KuG6H",
-            header: "header-2SF4Nh",
-            headerStageDiscovery: "headerStageDiscovery-3MYH1H"
+            header: "header-2SF4Nh"
         }
     },
     7487: function(e, t, o) {
@@ -12983,4 +12982,4 @@
         }
     }
 }]);
-//# sourceMappingURL=3d8f7a289df77f22dee8.js.map
+//# sourceMappingURL=f52c93ee7780d72f2f3c.js.map
