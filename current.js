@@ -3960,6 +3960,8 @@
             rowGuildName: "rowGuildName-2wU3B_",
             rowIcon: "rowIcon-1VZqx4",
             activityIcon: "activityIcon-E-aeJm rowIcon-1VZqx4",
+            stageListenerPill: "stageListenerPill-1RXT2G",
+            stageListenerCount: "stageListenerCount-2tWHfF",
             guildNameText: "guildNameText-3Zwx4p",
             viewAsRolesWarning: "viewAsRolesWarning-20LpeB",
             guildNameTextLimitedSize: "guildNameTextLimitedSize-1C5cx8",
@@ -12989,4 +12991,4 @@
         }
     }
 }]);
-//# sourceMappingURL=55e085f58de04b19d974.js.map
+//# sourceMappingURL=fa97f5b72b3e16e1e01a.js.map
