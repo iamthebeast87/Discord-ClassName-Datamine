@@ -3554,8 +3554,7 @@
             height12: "height12-2Ltw-k",
             userSelectText: "userSelectText-1o1dQ7",
             headerNormal: "headerNormal-1l1Znk",
-            headerNameWrapper: "headerNameWrapper-gEOyRH",
-            headerName: "headerName-3W-qH- size20-2QkeeC",
+            nickname: "nickname-322DbL size20-2QkeeC",
             avatarHint: "avatarHint-1E3LMl",
             avatarHintInner: "avatarHintInner-2kMTo4 size10-39i14u height12-2Ltw-k",
             avatar: "avatar-22FtUu",
@@ -3575,8 +3574,10 @@
             customStatusSoloEmoji: "customStatusSoloEmoji-3RCuZj",
             customStatusText: "customStatusText-2wWmYP",
             activity: "activity-fViXj7",
-            headerTagUsernameNoNickname: "headerTagUsernameNoNickname-1SSLBc",
-            headerTagDiscriminatorNoNickname: "headerTagDiscriminatorNoNickname-1jiWtJ size14-3iUx6q",
+            headerTagUsernameBase: "headerTagUsernameBase-12nwcw",
+            headerTagUsernameNoNickname: "headerTagUsernameNoNickname-1SSLBc headerTagUsernameBase-12nwcw",
+            discrimBase: "discrimBase-1PEDoA",
+            headerTagDiscriminatorNoNickname: "headerTagDiscriminatorNoNickname-1jiWtJ discrimBase-1PEDoA",
             profileBadges: "profileBadges-1dm1_q",
             aboutMeSection: "aboutMeSection-3bipSD",
             aboutMeBody: "aboutMeBody-1a7Pjl",
@@ -12990,4 +12991,4 @@
         }
     }
 }]);
-//# sourceMappingURL=b6a4c5c95b75ef4be869.js.map
+//# sourceMappingURL=9c1cf2338c7260e56851.js.map
