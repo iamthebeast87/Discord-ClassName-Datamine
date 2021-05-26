@@ -1,5 +1,5 @@
 (this.webpackJsonp = this.webpackJsonp || []).push([[0], {
-    1012: function(e, t, o) {
+    1010: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignStart: "alignStart-H-X2h-",
@@ -25,7 +25,7 @@
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs"
         }
     },
-    1032: function(e, t, o) {
+    1030: function(e, t, o) {
         e.exports = {
             layerContainer: "layerContainer-yqaFcK",
             layer: "layer-v9HyYc",
@@ -33,7 +33,7 @@
             disabledPointerEvents: "disabledPointerEvents-1ptgTB"
         }
     },
-    1039: function(e, t, o) {
+    1037: function(e, t, o) {
         e.exports = {
             size10: "size10-tblYdA",
             size12: "size12-3cLvbJ",
@@ -3308,18 +3308,10 @@
     },
     6937: function(e, t, o) {
         e.exports = {
-            nameTag: "nameTag-m8r81H",
-            discriminator: "discriminator-19kRMP",
-            username: "username-2b1r56",
-            bot: "bot-2Fta1w"
-        }
-    },
-    6938: function(e, t, o) {
-        e.exports = {
             textarea: "textarea-2r0oV8 inputDefault-_djjkz input-cIJ7To"
         }
     },
-    6939: function(e, t, o) {
+    6938: function(e, t, o) {
         e.exports = {
             contentWarningPopout: "contentWarningPopout-n5JsIs",
             header: "header-2NYWtG",
@@ -3334,9 +3326,17 @@
             icon: "icon-2RSfUw"
         }
     },
-    6940: function(e, t, o) {
+    6939: function(e, t, o) {
         e.exports = {
             input: "input-2_SIlA"
+        }
+    },
+    6940: function(e, t, o) {
+        e.exports = {
+            nameTag: "nameTag-m8r81H",
+            discriminator: "discriminator-19kRMP",
+            username: "username-2b1r56",
+            bot: "bot-2Fta1w"
         }
     },
     6941: function(e, t, o) {
@@ -3593,63 +3593,21 @@
     },
     6956: function(e, t, o) {
         e.exports = {
-            marginBottom4: "marginBottom4-2qk4Hy",
-            marginBottom8: "marginBottom8-AtZOdT",
-            marginBottom20: "marginBottom20-32qID7",
-            marginTop20: "marginTop20-3TxNs6",
-            size10: "size10-39i14u",
             size12: "size12-3R0845",
-            size14: "size14-3iUx6q",
-            size16: "size16-14cGz5",
-            height12: "height12-2Ltw-k",
-            userSelectText: "userSelectText-1o1dQ7",
             userPopout: "userPopout-3XzG_A",
-            header: "header-2BwW8b size16-14cGz5",
-            headerBotTagWithNickname: "headerBotTagWithNickname--pvZ2g",
-            headerTop: "headerTop-3C2Zn0",
-            headerNormal: "headerNormal-T_seeN header-2BwW8b size16-14cGz5",
-            headerStreaming: "headerStreaming-2FjmGz header-2BwW8b size16-14cGz5",
-            headerSpotify: "headerSpotify-zpWxgT header-2BwW8b size16-14cGz5",
-            headerXbox: "headerXbox-3G-4PF header-2BwW8b size16-14cGz5",
-            headerPlaying: "headerPlaying-j0WQBV header-2BwW8b size16-14cGz5",
-            avatarWrapper: "avatarWrapper-3H_478",
-            avatarWrapperNormal: "avatarWrapperNormal-3wFMbf avatarWrapper-3H_478",
-            avatarHint: "avatarHint-1qgaV3",
-            avatarWrapperNonUserBot: "avatarWrapperNonUserBot-2DufN6 avatarWrapper-3H_478",
-            avatarHintInner: "avatarHintInner-Dco91E size10-39i14u height12-2Ltw-k",
-            headerText: "headerText-2sdzFM userSelectText-1o1dQ7",
-            headerNameWrapper: "headerNameWrapper-3res2c",
-            headerName: "headerName-fajvi9 size16-14cGz5",
-            headerTagUsernameNoNickname: "headerTagUsernameNoNickname-2_H881",
-            headerTag: "headerTag-2pZJzA size14-3iUx6q",
-            headerTagWithNickname: "headerTagWithNickname-3IthZD headerTag-2pZJzA size14-3iUx6q",
-            headerTagNoNickname: "headerTagNoNickname-ENx6no headerTag-2pZJzA size14-3iUx6q size16-14cGz5",
-            headerActivityText: "headerActivityText-gcopRr marginBottom8-AtZOdT",
-            headerLive: "headerLive-172YLb",
-            headerLiveText: "headerLiveText-2NrUq_",
-            headerEmoji: "headerEmoji-3vgSfn",
-            headerLiveIcon: "headerLiveIcon-3ASKA7",
-            "live-pulse": "live-pulse-3GAxuT",
-            activity: "activity-11LB_k",
             body: "body-3iLsc4",
             bodyInnerWrapper: "bodyInnerWrapper-Z8WDxe",
             rolesList: "rolesList-22qj2L",
             note: "note-3HfJZ5",
             endBodySection: "endBodySection-Rf4s-7",
-            bodyTitle: "bodyTitle-Y0qMQz marginBottom8-AtZOdT size12-3R0845",
+            bodyTitle: "bodyTitle-Y0qMQz size12-3R0845",
             footer: "footer-1fjuF6",
             wumpusWrapper: "wumpusWrapper-yrvoR3",
             wumpus: "wumpus-3VDMUi",
             wumpusImage: "wumpusImage-1f6wii",
             wumpusTooltip: "wumpusTooltip-65YlMT",
             wumpusShown: "wumpusShown-2xKVn_",
-            protip: "protip-YaFfgO",
-            applicationStreaming: "applicationStreaming-2FO6Gx",
-            customStatus: "customStatus-1bh2V9",
-            customStatusEmoji: "customStatusEmoji-7MXCgv",
-            customStatusSoloEmoji: "customStatusSoloEmoji-XOvnMc",
-            customStatusText: "customStatusText-3YJeRZ",
-            newUserPopoutStyles: "newUserPopoutStyles-1lzZvB"
+            protip: "protip-YaFfgO"
         }
     },
     6957: function(e, t, o) {
@@ -12999,4 +12957,4 @@
         }
     }
 }]);
-//# sourceMappingURL=edc6899a035da0a7e2ca.js.map
+//# sourceMappingURL=2218475107f06bfad4b3.js.map
