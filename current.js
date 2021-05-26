@@ -673,11 +673,13 @@
             privacyItemDisabled: "privacyItemDisabled-3l-cdI",
             privacyItemIcon: "privacyItemIcon-it56yd",
             privacyItemTextContainer: "privacyItemTextContainer-2mCrO-",
+            privacyItemTitleContainer: "privacyItemTitleContainer-2nV-PD",
             privacyItemTitle: "privacyItemTitle-3BNt6V",
             privacyItemRadio: "privacyItemRadio-3sczgw",
             radioSelected: "radioSelected-1H4rwz",
             radioNotSelected: "radioNotSelected-2du7xO",
-            radioIconForeground: "radioIconForeground-3xnKol"
+            radioIconForeground: "radioIconForeground-3xnKol",
+            pill: "pill-1LL23F"
         }
     },
     5292: function(e, t, o) {
@@ -12991,4 +12993,4 @@
         }
     }
 }]);
-//# sourceMappingURL=9c1cf2338c7260e56851.js.map
+//# sourceMappingURL=c62647d9bacc7edcefe8.js.map
