@@ -12156,7 +12156,8 @@
     7684: function(e, t, o) {
         e.exports = {
             premiumTabItem: "premiumTabItem-1QTfBr",
-            icon: "icon-Zc-uZZ"
+            icon: "icon-Zc-uZZ",
+            premiumTabItemLink: "premiumTabItemLink-3IZzin"
         }
     },
     7685: function(e, t, o) {
@@ -13039,4 +13040,4 @@
         }
     }
 }]);
-//# sourceMappingURL=4e1df2af290273649bb0.js.map
+//# sourceMappingURL=76cdf039822f021041b3.js.map
