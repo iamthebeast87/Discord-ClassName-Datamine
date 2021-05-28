@@ -560,7 +560,8 @@
             modalContent: "modalContent-no-lBy",
             blockedUsersContainer: "blockedUsersContainer-1f-HNY",
             form: "form-1Rg6af",
-            formItem: "formItem-1B0brO",
+            topicFormItem: "topicFormItem-32kwOR",
+            privacyFormItem: "privacyFormItem-3UPvxA",
             textInput: "textInput-2hUaEf",
             cancelButton: "cancelButton-280zMn",
             buttonsContainer: "buttonsContainer-2X9CqD",
@@ -580,7 +581,8 @@
             pill: "pill-302sLb",
             channelSelection: "channelSelection-1MN6q2",
             channelName: "channelName-1mXqh4",
-            footer: "footer-1KBtfL"
+            footer: "footer-1KBtfL",
+            warning: "warning-3P4oqk"
         }
     },
     5315: function(e, t, o) {
@@ -13040,4 +13042,4 @@
         }
     }
 }]);
-//# sourceMappingURL=76cdf039822f021041b3.js.map
+//# sourceMappingURL=d81df59c6633211c13d5.js.map
