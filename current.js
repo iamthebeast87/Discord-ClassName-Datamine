@@ -4441,14 +4441,19 @@
     7055: function(e, t, o) {
         e.exports = {
             container: "container-2fRDfG",
+            replyBar: "replyBar-1YLQ2F",
+            threadSuggestionBar: "threadSuggestionBar-2ufK2Z",
             text: "text-15b_0l",
+            replyLabel: "replyLabel-27F26o",
+            threadSuggestionLabelContainer: "threadSuggestionLabelContainer-1MbYec",
             name: "name-hpTFiv",
             actions: "actions-NlfMQc",
             mentionButton: "mentionButton-3710-W",
             mentionIcon: "mentionIcon-1UYeiz",
             separator: "separator-ju-9xl",
             closeButton: "closeButton-37O8QC",
-            closeIcon: "closeIcon-HLoKft"
+            closeIcon: "closeIcon-HLoKft",
+            createThreadButton: "createThreadButton-oQpjNC"
         }
     },
     7056: function(e, t, o) {
@@ -9498,7 +9503,8 @@
             emptyIconFriends: "emptyIconFriends-BrjhY9 emptyIcon-pGTAhd",
             emptyIconGuilds: "emptyIconGuilds-3OViNh emptyIcon-pGTAhd",
             emptyIconStreamerMode: "emptyIconStreamerMode-3RfWOW emptyIcon-pGTAhd",
-            emptyText: "emptyText-6tYmO5"
+            emptyText: "emptyText-6tYmO5",
+            guildAvatar: "guildAvatar-1jj2zu"
         }
     },
     7442: function(e, t, o) {
@@ -13033,4 +13039,4 @@
         }
     }
 }]);
-//# sourceMappingURL=9bbe4e939e3ddaae611a.js.map
+//# sourceMappingURL=4e1df2af290273649bb0.js.map
