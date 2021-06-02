@@ -3639,10 +3639,12 @@
             headerTag: "headerTag-16AlQV",
             headerTagWithNickname: "headerTagWithNickname-1SDMpI headerTag-16AlQV",
             headerTagNoNickname: "headerTagNoNickname-1VyQza headerTag-16AlQV",
-            headerTagUsername: "headerTagUsername-1rEZ3Z",
-            headerTagUsernameNoNickname: "headerTagUsernameNoNickname-1ZLDYY headerTagUsername-1rEZ3Z",
-            discriminator: "discriminator-2m5xbw",
-            discriminatorNoNickname: "discriminatorNoNickname-5LyG_F",
+            headerTagUsernameBase: "headerTagUsernameBase-24SRnT",
+            headerTagUsernameNoNickname: "headerTagUsernameNoNickname-1ZLDYY headerTagUsernameBase-24SRnT",
+            discrimBase: "discrimBase-1QwWzY",
+            headerTagDiscriminatorNoNickname: "headerTagDiscriminatorNoNickname-1vRWkt discrimBase-1QwWzY",
+            headerBotTag: "headerBotTag-36eaSD",
+            headerBotTagWithNickname: "headerBotTagWithNickname-2kgwth",
             aboutMeSection: "aboutMeSection---MkQa",
             aboutMeBody: "aboutMeBody-3JwDln",
             aboutMeTitle: "aboutMeTitle-2i3lnH",
@@ -13056,4 +13058,4 @@
         }
     }
 }]);
-//# sourceMappingURL=6db8f5e815b5dddbb6ac.js.map
+//# sourceMappingURL=bd4a7112dc083a0d185f.js.map
