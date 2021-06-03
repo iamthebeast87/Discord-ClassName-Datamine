@@ -11072,6 +11072,7 @@
             offline: "offline-3nJYBR",
             icon: "icon-1A2_vz",
             ownerIcon: "ownerIcon-2NH9FM icon-1A2_vz",
+            lostPermissionIcon: "lostPermissionIcon-Tepjch icon-1A2_vz",
             premiumIcon: "premiumIcon-1rDbWQ icon-1A2_vz",
             placeholder: "placeholder-3X_lzF member-3-YXUe",
             botTag: "botTag-3W9SuW",
@@ -13000,4 +13001,4 @@
         }
     }
 }]);
-//# sourceMappingURL=07f2340000c974c59b27.js.map
+//# sourceMappingURL=880c8b324e12597a7e0a.js.map
