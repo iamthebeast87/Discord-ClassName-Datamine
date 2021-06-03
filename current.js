@@ -1194,6 +1194,7 @@
             authBox: "authBox-hW6HRx",
             authBoxExpanded: "authBoxExpanded-2jqaBe authBox-hW6HRx",
             centeringWrapper: "centeringWrapper-2Rs1dR",
+            avatar: "avatar-1gWJaf",
             title: "title-jXR8lp",
             subText: "subText-1XkjIB",
             pill: "pill-1dHPfk",
@@ -5708,7 +5709,8 @@
             guild: "guild-1H1MQY",
             guildInfo: "guildInfo-3bTId5",
             dot: "dot-38181A",
-            alignStart: "alignStart-2FQjAH"
+            alignStart: "alignStart-2FQjAH",
+            avatar: "avatar-30KUrI"
         }
     },
     7144: function(e, t, o) {
@@ -9384,6 +9386,7 @@
             contentWrapper: "contentWrapper-3WC1ID",
             scroller: "scroller-3__pG8",
             noThanksButton: "noThanksButton-3mqg48",
+            stage: "stage-3yqMwJ",
             inviteContent: "inviteContent-3R63XV",
             inviteSplash: "inviteSplash-40aHus",
             buttonGroup: "buttonGroup-276hcG",
@@ -12997,4 +13000,4 @@
         }
     }
 }]);
-//# sourceMappingURL=2152282c794d23598ba2.js.map
+//# sourceMappingURL=07f2340000c974c59b27.js.map
