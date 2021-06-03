@@ -4426,6 +4426,8 @@
     7050: function(e, t, o) {
         e.exports = {
             characterCount: "characterCount-1cRDo2",
+            premiumFlair: "premiumFlair-ogSJ9V",
+            flairContainer: "flairContainer-2Txy_E",
             upsell: "upsell-34F9Me",
             error: "error-1M5Do5"
         }
@@ -12995,4 +12997,4 @@
         }
     }
 }]);
-//# sourceMappingURL=396567d5c45fb0ebe102.js.map
+//# sourceMappingURL=2152282c794d23598ba2.js.map
