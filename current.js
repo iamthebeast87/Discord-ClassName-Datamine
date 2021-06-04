@@ -4380,12 +4380,12 @@
     },
     7046: function(e, t, o) {
         e.exports = {
+            clipContainer: "clipContainer-eeROt0",
             container: "container-2fRDfG",
             replyBar: "replyBar-1YLQ2F",
             threadSuggestionBar: "threadSuggestionBar-2ufK2Z",
             text: "text-15b_0l",
             replyLabel: "replyLabel-27F26o",
-            threadSuggestionLabelContainer: "threadSuggestionLabelContainer-1MbYec",
             name: "name-hpTFiv",
             actions: "actions-NlfMQc",
             mentionButton: "mentionButton-3710-W",
@@ -4832,6 +4832,27 @@
     },
     7083: function(e, t, o) {
         e.exports = {
+            flex: "flex-32dgJs",
+            header: "header-3qymWa",
+            embed: "embed-1cTuq4",
+            listeners: "listeners-qGG-NC",
+            live: "live-3pJRI7",
+            speakers: "speakers-kEGflI",
+            members: "members-1BI21N",
+            speaker: "speaker-1HW9IK",
+            label: "label-3jnO6p",
+            background: "background-2vw-bh",
+            icon: "icon-1kl4sN",
+            guild: "guild-1H1MQY",
+            guildInfo: "guildInfo-3bTId5",
+            dot: "dot-38181A",
+            alignStart: "alignStart-2FQjAH",
+            avatar: "avatar-30KUrI",
+            username: "username-3Lwvlv"
+        }
+    },
+    7084: function(e, t, o) {
+        e.exports = {
             flex: "flex-1O1GKY",
             alignCenter: "alignCenter-1dQNNs",
             container: "container-1qJFPO flex-1O1GKY alignCenter-1dQNNs",
@@ -4845,7 +4866,7 @@
             moreUsers: "moreUsers-1s5Her"
         }
     },
-    7084: function(e, t, o) {
+    7085: function(e, t, o) {
         e.exports = {
             elevationLow: "elevationLow-2lY09M",
             marginTop8: "marginTop8-1DLZ1n",
@@ -4881,12 +4902,12 @@
             textLink: "textLink-3aPthL"
         }
     },
-    7085: function(e, t, o) {
+    7086: function(e, t, o) {
         e.exports = {
             container: "container-o3RxSG"
         }
     },
-    7086: function(e, t, o) {
+    7087: function(e, t, o) {
         e.exports = {
             darkElevationLow: "darkElevationLow-2CR-wO",
             darkElevationHigh: "darkElevationHigh-3atPWj",
@@ -4907,12 +4928,12 @@
             notice: "notice-2mjo_8"
         }
     },
-    7087: function(e, t, o) {
+    7088: function(e, t, o) {
         e.exports = {
             slider: "slider-2neXMg"
         }
     },
-    7088: function(e, t, o) {
+    7089: function(e, t, o) {
         e.exports = {
             card: "card-3veb4J marginBottom20-32qID7",
             spacing: "spacing-1QIWht marginBottom20-32qID7",
@@ -4920,7 +4941,7 @@
             warning: "warning-1WIX3i"
         }
     },
-    7089: function(e, t, o) {
+    7090: function(e, t, o) {
         e.exports = {
             phoneField: "phoneField-38N1bJ",
             countryButton: "countryButton-3xq3Ts",
@@ -4933,7 +4954,7 @@
             sendButton: "sendButton-1Gsc4p"
         }
     },
-    7090: function(e, t, o) {
+    7091: function(e, t, o) {
         e.exports = {
             phoneVerificationModal: "phoneVerificationModal-OzcDc3",
             animationContainer: "animationContainer-WJHr_z",
@@ -4943,7 +4964,7 @@
             field: "field-wKpjTl"
         }
     },
-    7091: function(e, t, o) {
+    7092: function(e, t, o) {
         e.exports = {
             reactions: "reactions-12N0jA",
             icon: "icon-2uw6mp",
@@ -4960,7 +4981,7 @@
             reactionTooltipText: "reactionTooltipText-u4NWre"
         }
     },
-    7092: function(e, t, o) {
+    7093: function(e, t, o) {
         e.exports = {
             container: "container-1ov-mD",
             gifFavoriteButton: "gifFavoriteButton-2SKrBk",
@@ -4969,7 +4990,7 @@
             confirmText: "confirmText-hRazmx"
         }
     },
-    7093: function(e, t, o) {
+    7094: function(e, t, o) {
         e.exports = {
             container: "container-1sFeqf",
             keybind: "keybind-KpFkfr",
@@ -4978,7 +4999,7 @@
             closeButtonBold: "closeButtonBold-8kKURP"
         }
     },
-    7094: function(e, t, o) {
+    7095: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-3nSjSv",
             heading: "heading-4znNKq",
@@ -4998,14 +5019,14 @@
             action: "action-2cD_qI"
         }
     },
-    7095: function(e, t, o) {
+    7096: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-1hrFc0",
             heading: "heading-3VWlBM",
             originalPrice: "originalPrice-3YTVmi"
         }
     },
-    7096: function(e, t, o) {
+    7097: function(e, t, o) {
         e.exports = {
             singleItemWrapper: "singleItemWrapper-1AvlNV",
             carousel: "carousel-18mXWH",
@@ -5014,7 +5035,7 @@
             viewport: "viewport-W8LvWa"
         }
     },
-    7097: function(e, t, o) {
+    7098: function(e, t, o) {
         e.exports = {
             progressBar: "progressBar-2Hd4f8",
             bar: "bar-_YsHvC",
@@ -5037,7 +5058,7 @@
             tier3Icon: "tier3Icon-Ku4Ahe"
         }
     },
-    7098: function(e, t, o) {
+    7099: function(e, t, o) {
         e.exports = {
             unlocked: "unlocked-251xRB",
             emoji: "emoji-14TyAm",
@@ -5049,7 +5070,7 @@
             stream: "stream-3mNTxK"
         }
     },
-    7099: function(e, t, o) {
+    7100: function(e, t, o) {
         e.exports = {
             ctaBar: "ctaBar-2UsjF2",
             guildDetails: "guildDetails-oP2_kA",
@@ -5070,7 +5091,7 @@
             getPremiumIcon: "getPremiumIcon-3Z-Sl3"
         }
     },
-    7100: function(e, t, o) {
+    7101: function(e, t, o) {
         e.exports = {
             subscription: "subscription-3aLGnG",
             subscriptionInfo: "subscriptionInfo-2wfGYJ",
@@ -5086,7 +5107,7 @@
             boost: "boost-4xzKsM"
         }
     },
-    7101: function(e, t, o) {
+    7102: function(e, t, o) {
         e.exports = {
             content: "content-2bjdSf",
             guildCard: "guildCard-1ZRYY8",
@@ -5101,7 +5122,7 @@
             pendingCancellationMessage: "pendingCancellationMessage-3Z1T-5"
         }
     },
-    7102: function(e, t, o) {
+    7103: function(e, t, o) {
         e.exports = {
             modal: "modal-1xfRX3",
             selectHeaderContainer: "selectHeaderContainer-3If65_",
@@ -5123,19 +5144,19 @@
             tierPill: "tierPill-3gJ0eN"
         }
     },
-    7103: function(e, t, o) {
+    7104: function(e, t, o) {
         e.exports = {
             gemSheen: "gemSheen-3yIyuX"
         }
     },
-    7104: function(e, t, o) {
+    7105: function(e, t, o) {
         e.exports = {
             perks: "perks-3OsGy8",
             perk: "perk-2WeBWW",
             icon: "icon-QVoPRH"
         }
     },
-    7105: function(e, t, o) {
+    7106: function(e, t, o) {
         e.exports = {
             carouselItemHeight: "286px",
             carouselInactiveOffsetY: "24px",
@@ -5181,7 +5202,7 @@
             slideIn: "slideIn-1PaRPY"
         }
     },
-    7106: function(e, t, o) {
+    7107: function(e, t, o) {
         e.exports = {
             header: "header-2RyJ0Y",
             item: "item-PXvHYJ",
@@ -5195,7 +5216,7 @@
             topPill: "topPill-30KHOu"
         }
     },
-    7107: function(e, t, o) {
+    7108: function(e, t, o) {
         e.exports = {
             container: "container-1KFiob",
             iconContainer: "iconContainer-2eZPr4",
@@ -5205,7 +5226,7 @@
             cta: "cta-3fjU95"
         }
     },
-    7108: function(e, t, o) {
+    7109: function(e, t, o) {
         e.exports = {
             container: "container-7uh5fX",
             header: "header-1VS4tm",
@@ -5219,13 +5240,13 @@
             active: "active-30vPlA"
         }
     },
-    7109: function(e, t, o) {
+    7110: function(e, t, o) {
         e.exports = {
             modal: "modal-2DCYwU",
             browser: "browser-27EVtf"
         }
     },
-    7110: function(e, t, o) {
+    7111: function(e, t, o) {
         e.exports = {
             container: "container-3-pyIM",
             compact: "compact-2zYMSo",
@@ -5238,7 +5259,7 @@
             timestamp: "timestamp-1E3uAL"
         }
     },
-    7111: function(e, t, o) {
+    7112: function(e, t, o) {
         e.exports = {
             messageApplicationCommand: "messageApplicationCommand-254pK0",
             messageIconContainer: "messageIconContainer-ATaEy6",
@@ -5253,7 +5274,7 @@
             compact: "compact-38pFhv"
         }
     },
-    7112: function(e, t, o) {
+    7113: function(e, t, o) {
         e.exports = {
             size12: "size12-3R0845",
             size16: "size16-14cGz5",
@@ -5296,18 +5317,18 @@
             unavailableHeader: "unavailableHeader-2yDubR"
         }
     },
-    7113: function(e, t, o) {
+    7114: function(e, t, o) {
         e.exports = {
             channelNameChange: "channelNameChange-1wTsWB"
         }
     },
-    7114: function(e, t, o) {
+    7115: function(e, t, o) {
         e.exports = {
             messageContent: "messageContent-3iPlyo",
             alertIcon: "alertIcon-3BK_0H"
         }
     },
-    7115: function(e, t, o) {
+    7116: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-r-6rrt",
             image: "image-1GzsFd",
@@ -5315,14 +5336,14 @@
             text: "text-GwUZgS"
         }
     },
-    7116: function(e, t, o) {
+    7117: function(e, t, o) {
         e.exports = {
             container: "container-3auIfb",
             input: "input-rwLH4i",
             slider: "slider-TkfMQL"
         }
     },
-    7117: function(e, t, o) {
+    7118: function(e, t, o) {
         e.exports = {
             container: "container-2_Tvc_",
             labelRow: "labelRow-16e77k",
@@ -5335,7 +5356,7 @@
             dividerDefault: "dividerDefault-3rvLe-"
         }
     },
-    7118: function(e, t, o) {
+    7119: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignCenter: "alignCenter-1dQNNs",
@@ -5373,7 +5394,7 @@
             welcomeSubheading: "welcomeSubheading-1gfu4-"
         }
     },
-    7119: function(e, t, o) {
+    7120: function(e, t, o) {
         e.exports = {
             iconContainer: "iconContainer-4CalaE",
             inviteHeader: "inviteHeader-3cFuiB",
@@ -5386,12 +5407,12 @@
             inviteLink: "inviteLink-C_E2t3"
         }
     },
-    7120: function(e, t, o) {
+    7121: function(e, t, o) {
         e.exports = {
             spriteCanvas: "spriteCanvas-3EWky_"
         }
     },
-    7121: function(e, t, o) {
+    7122: function(e, t, o) {
         e.exports = {
             easterEggSize: "196px",
             iconWrapper: "iconWrapper-2Urb3j",
@@ -5407,7 +5428,7 @@
             easterEggAnimationHideLeaf: "easterEggAnimationHideLeaf-zpkMGS"
         }
     },
-    7122: function(e, t, o) {
+    7123: function(e, t, o) {
         e.exports = {
             modal: "modal-3V9_NJ",
             content: "content-3NxBPP",
@@ -5423,7 +5444,7 @@
             descriptionError: "descriptionError-3gGZHy"
         }
     },
-    7123: function(e, t, o) {
+    7124: function(e, t, o) {
         e.exports = {
             controlIcon: "controlIcon-35oS15",
             active: "active-1QRrIS",
@@ -5446,7 +5467,7 @@
             open: "open-1aCwl_"
         }
     },
-    7124: function(e, t, o) {
+    7125: function(e, t, o) {
         e.exports = {
             borderRadius: "8px",
             wrapper: "wrapper-3BZGuR",
@@ -5490,7 +5511,7 @@
             blockedAvatar: "blockedAvatar-eQvJSd"
         }
     },
-    7125: function(e, t, o) {
+    7126: function(e, t, o) {
         e.exports = {
             container: "container-1r6BKw",
             themed: "themed-ANHk51",
@@ -5507,7 +5528,7 @@
             caret: "caret-3W7cBB"
         }
     },
-    7126: function(e, t, o) {
+    7127: function(e, t, o) {
         e.exports = {
             pro: "pro-1T8RK7",
             tip: "tip-2ab612",
@@ -5515,7 +5536,7 @@
             inline: "inline-136HKr"
         }
     },
-    7127: function(e, t, o) {
+    7128: function(e, t, o) {
         e.exports = {
             messagesPopoutWrap: "messagesPopoutWrap-1MQ1bW",
             header: "header-ykumBX",
@@ -5543,7 +5564,7 @@
             closeIcon: "closeIcon-2Yg8TD"
         }
     },
-    7128: function(e, t, o) {
+    7129: function(e, t, o) {
         e.exports = {
             button: "button-1-5Aqk",
             primary: "primary-2McadE",
@@ -5555,18 +5576,18 @@
             size36: "size36-1Ff1kn"
         }
     },
-    7129: function(e, t, o) {
+    7130: function(e, t, o) {
         e.exports = {
             jumpButton: "jumpButton-2dvRSC",
             text: "text-3KVtey"
         }
     },
-    7130: function(e, t, o) {
+    7131: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-232cHJ"
         }
     },
-    7131: function(e, t, o) {
+    7132: function(e, t, o) {
         e.exports = {
             channelHeader: "channelHeader-3Gd2xq",
             dmIcon: "dmIcon-2eU-bE",
@@ -5582,7 +5603,7 @@
             activityEmoji: "activityEmoji-3sF2z4"
         }
     },
-    7132: function(e, t, o) {
+    7133: function(e, t, o) {
         e.exports = {
             container: "container-3u944p",
             iconContainer: "iconContainer-JbDkvn",
@@ -5592,7 +5613,7 @@
             protip: "protip-283HFv"
         }
     },
-    7133: function(e, t, o) {
+    7134: function(e, t, o) {
         e.exports = {
             recentMentionsPopout: "recentMentionsPopout-3rCiI6",
             scroller: "scroller-2UmRce",
@@ -5603,7 +5624,7 @@
             message: "message-2DieIs"
         }
     },
-    7134: function(e, t, o) {
+    7135: function(e, t, o) {
         e.exports = {
             header: "header-2-Imhb",
             tab: "tab-ck0077",
@@ -5611,7 +5632,7 @@
             active: "active-1MbGPa"
         }
     },
-    7135: function(e, t, o) {
+    7136: function(e, t, o) {
         e.exports = {
             messages: "messages-3G3erD",
             messageContainer: "messageContainer-1ei2zM",
@@ -5620,7 +5641,7 @@
             divider: "divider-39oAwV"
         }
     },
-    7136: function(e, t, o) {
+    7137: function(e, t, o) {
         e.exports = {
             channel: "channel-3pEHab",
             collapseButton: "collapseButton-2ZsEjz",
@@ -5628,13 +5649,13 @@
             collapsed: "collapsed-S4RKOA"
         }
     },
-    7137: function(e, t, o) {
+    7138: function(e, t, o) {
         e.exports = {
             divider: "divider-EK35Fy",
             dividerContent: "dividerContent-2S2hYI"
         }
     },
-    7138: function(e, t, o) {
+    7139: function(e, t, o) {
         e.exports = {
             container: "container-enaOkj recentMentionsPopout-3rCiI6",
             spinner: "spinner-3wwZNP",
@@ -5644,14 +5665,14 @@
             scroller: "scroller-tlc3kG"
         }
     },
-    7139: function(e, t, o) {
+    7140: function(e, t, o) {
         e.exports = {
             left: "left-3d-3Co",
             right: "right-1C2enk",
             down: "down-15EnQ5"
         }
     },
-    7140: function(e, t, o) {
+    7141: function(e, t, o) {
         e.exports = {
             flex: "flex-39btti",
             alignStart: "alignStart-ZXz_qY",
@@ -5681,7 +5702,7 @@
             disabled: "disabled-1X7fxl"
         }
     },
-    7141: function(e, t, o) {
+    7142: function(e, t, o) {
         e.exports = {
             container: "container-1qX8H5",
             iconWrapper: "iconWrapper-3dFGl9",
@@ -5690,27 +5711,11 @@
             sparkle: "sparkle-3izqUK"
         }
     },
-    7142: function(e, t, o) {
+    7143: function(e, t, o) {
         e.exports = {
             title: "title-2sg2wH",
             subtitle: "subtitle-1tsRgk",
             img: "img-14RJ4C"
-        }
-    },
-    7143: function(e, t, o) {
-        e.exports = {
-            flex: "flex-32dgJs",
-            header: "header-3qymWa",
-            speakers: "speakers-kEGflI",
-            speaker: "speaker-1HW9IK",
-            label: "label-3jnO6p",
-            background: "background-2vw-bh",
-            icon: "icon-1kl4sN",
-            guild: "guild-1H1MQY",
-            guildInfo: "guildInfo-3bTId5",
-            dot: "dot-38181A",
-            alignStart: "alignStart-2FQjAH",
-            avatar: "avatar-30KUrI"
         }
     },
     7144: function(e, t, o) {
@@ -13001,4 +13006,4 @@
         }
     }
 }]);
-//# sourceMappingURL=61c5d7dfd42aad24b975.js.map
+//# sourceMappingURL=6eea2905cae66e095b06.js.map
