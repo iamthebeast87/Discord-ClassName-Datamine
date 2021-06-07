@@ -1974,6 +1974,7 @@
             replyBadge: "replyBadge-r1su3o",
             threadMessageAccessoryAvatar: "threadMessageAccessoryAvatar-2XWCxw",
             replyIcon: "replyIcon-1b4Xjp",
+            userJoinSystemMessageIcon: "userJoinSystemMessageIcon-1jNKMz",
             commandIcon: "commandIcon-SBYpgi",
             applicationName: "applicationName-1-Uq7y",
             commandName: "commandName-1klrjB",
@@ -13006,4 +13007,4 @@
         }
     }
 }]);
-//# sourceMappingURL=55a80055afa2e3206214.js.map
+//# sourceMappingURL=fea3ce6f14dff8857361.js.map
