@@ -1,5 +1,5 @@
 (this.webpackJsonp = this.webpackJsonp || []).push([[0], {
-    1023: function(e, t, o) {
+    1024: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignStart: "alignStart-H-X2h-",
@@ -25,7 +25,7 @@
             flexCenter: "flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs"
         }
     },
-    1047: function(e, t, o) {
+    1048: function(e, t, o) {
         e.exports = {
             layerContainer: "layerContainer-yqaFcK",
             layer: "layer-v9HyYc",
@@ -33,7 +33,7 @@
             disabledPointerEvents: "disabledPointerEvents-1ptgTB"
         }
     },
-    1054: function(e, t, o) {
+    1055: function(e, t, o) {
         e.exports = {
             size10: "size10-tblYdA",
             size12: "size12-3cLvbJ",
@@ -44,7 +44,7 @@
             size32: "size32-o_H79z"
         }
     },
-    362: function(e, t, o) {
+    363: function(e, t, o) {
         e.exports = {
             scrollerBase: "scrollerBase-289Jih",
             thin: "thin-1ybCId scrollerBase-289Jih",
@@ -56,7 +56,7 @@
             disableScrollAnchor: "disableScrollAnchor-3V9UtP"
         }
     },
-    442: function(e, t, o) {
+    443: function(e, t, o) {
         e.exports = {
             marginXSmall: "4px",
             marginSmall: "8px",
@@ -10047,6 +10047,7 @@
         e.exports = {
             tileContainer: "tileContainer-BaRAZF",
             textContainer: "textContainer-3dhW-4",
+            avatarContainer: "avatarContainer-aPUO5G",
             avatar: "avatar-3u7cAV",
             faded: "faded-br_yZz",
             text: "text-2wY55Y",
@@ -13014,4 +13015,4 @@
         }
     }
 }]);
-//# sourceMappingURL=12607fd8bde2ecc7cdf3.js.map
+//# sourceMappingURL=b87546c3cc6242faf8e6.js.map
