@@ -6875,6 +6875,7 @@
             targetWidget: "targetWidget-3hFVSM",
             targetMessage: "targetMessage-2kBYMT",
             targetStageInstance: "targetStageInstance-29rvVP",
+            targetGuildScheduledEvent: "targetGuildScheduledEvent-1EbkkW",
             themeOverrideDark: "themeOverrideDark-1u5Vo0"
         }
     },
@@ -13029,4 +13030,4 @@
         }
     }
 }]);
-//# sourceMappingURL=94bc0f921b8eec8cf999.js.map
+//# sourceMappingURL=818afc38879245aada46.js.map
