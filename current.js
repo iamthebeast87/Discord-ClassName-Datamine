@@ -11022,24 +11022,23 @@
     },
     7591: function(e, t, o) {
         e.exports = {
-            chat: "chat-1WUuAG",
-            messagesWrapper: "messagesWrapper-2liWqn",
-            scroller: "scroller-3ozpb9",
-            scrollerInner: "scrollerInner-k-72Fy",
-            formSection: "formSection-Kn7mNK",
-            checkbox: "checkbox-3xinIW",
-            select: "select-Upjed1",
-            scrollerSpacer: "scrollerSpacer-2rPyqs",
-            form: "form-3uUEen",
-            channelTextArea: "channelTextArea-2ZBawt"
+            chat: "chat-1cCjJ5",
+            messagesWrapper: "messagesWrapper-2Nta7M",
+            scroller: "scroller-36cuUh",
+            scrollerInner: "scrollerInner-1JzK65",
+            formSection: "formSection-33c8Tg",
+            checkbox: "checkbox-2db6gx",
+            select: "select-25Azxp",
+            scrollerSpacer: "scrollerSpacer-1l6Db6",
+            form: "form-3eU9kJ",
+            channelTextArea: "channelTextArea-3O-WhA"
         }
     },
     7592: function(e, t, o) {
         e.exports = {
-            chatHeaderBar: "chatHeaderBar-4vZS1x",
-            narrow: "narrow-1f-G-z",
-            chatHeaderBarText: "chatHeaderBarText-1_O_1M",
-            chatHeaderBarButton: "chatHeaderBarButton-UiIh3z"
+            icon: "icon-iDUzSK",
+            count: "count-bFJRJm",
+            browser: "browser-2NpbWS"
         }
     },
     7593: function(e, t, o) {
@@ -11049,14 +11048,15 @@
     },
     7594: function(e, t, o) {
         e.exports = {
-            chat: "chat-1iumcD"
+            chatHeaderBar: "chatHeaderBar-4vZS1x",
+            narrow: "narrow-1f-G-z",
+            chatHeaderBarText: "chatHeaderBarText-1_O_1M",
+            chatHeaderBarButton: "chatHeaderBarButton-UiIh3z"
         }
     },
     7595: function(e, t, o) {
         e.exports = {
-            icon: "icon-iDUzSK",
-            count: "count-bFJRJm",
-            browser: "browser-2NpbWS"
+            chat: "chat-15Vmww"
         }
     },
     7596: function(e, t, o) {
@@ -13007,4 +13007,4 @@
         }
     }
 }]);
-//# sourceMappingURL=79a603fdc18e828520df.js.map
+//# sourceMappingURL=2234e21239f741c8e229.js.map
