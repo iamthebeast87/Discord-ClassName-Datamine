@@ -7671,7 +7671,6 @@
             preview: "preview-3-zvcN",
             previewDark: "previewDark-25B6Sg",
             previewLight: "previewLight-WgCUFa",
-            previewText: "previewText-3KQfnt",
             infoIcon: "infoIcon-1SsK3R",
             fileUpload: "fileUpload-3UbVpG container-1nZlH6",
             fileUploadInput: "fileUploadInput-32_7I1 input-1UhAnY base-96ewKC",
@@ -7690,7 +7689,8 @@
             icon: "icon-2U40yC",
             emptyTierWrapper: "emptyTierWrapper-KMG0PV",
             unlockTierCtaHeading: "unlockTierCtaHeading-3Q9aZn",
-            tierCardSubheading: "tierCardSubheading-IziHG4"
+            tierCardSubheading: "tierCardSubheading-IziHG4",
+            uploadCardLabel: "uploadCardLabel-375Lg_"
         }
     },
     7525: function(e, t, o) {
@@ -13187,4 +13187,4 @@
         }
     }
 }]);
-//# sourceMappingURL=02c67a3e949184d6b111.js.map
+//# sourceMappingURL=5f8da7c5dc763c3c3935.js.map
