@@ -2067,8 +2067,10 @@
             inner: "inner-MADQqc",
             innerDisabled: "innerDisabled-1YTFPN inner-MADQqc",
             sansAttachButton: "sansAttachButton-td2irx",
+            sansAttachButtonCreateThread: "sansAttachButtonCreateThread-1UPx8S",
             attachButton: "attachButton-2dnuIu",
             textAreaSlate: "textAreaSlate-1ZzRVj",
+            textAreaThreadCreation: "textAreaThreadCreation-3zmvce",
             textAreaWithoutAttachmentButton: "textAreaWithoutAttachmentButton-qiaiTB",
             textAreaDisabled: "textAreaDisabled-3-Eq_G textArea-12jD-V",
             buttons: "buttons-3JBrkn",
@@ -11173,10 +11175,12 @@
             scrollerInner: "scrollerInner-1JzK65",
             formSection: "formSection-33c8Tg",
             checkbox: "checkbox-2db6gx",
+            privateThreadDescription: "privateThreadDescription-3_57Hi",
             select: "select-25Azxp",
-            scrollerSpacer: "scrollerSpacer-1l6Db6",
             form: "form-3eU9kJ",
-            channelTextArea: "channelTextArea-3O-WhA"
+            channelTextArea: "channelTextArea-3O-WhA",
+            channelTextAreaInner: "channelTextAreaInner-1WnnRS",
+            submitButton: "submitButton-10dlpk"
         }
     },
     7836: function(e, t, o) {
@@ -12303,8 +12307,7 @@
     7928: function(e, t, o) {
         e.exports = {
             premiumTabItem: "premiumTabItem-1QTfBr",
-            icon: "icon-Zc-uZZ",
-            premiumTabItemLink: "premiumTabItemLink-3IZzin"
+            icon: "icon-Zc-uZZ"
         }
     },
     7929: function(e, t, o) {
@@ -13037,22 +13040,6 @@
     },
     7985: function(e, t, o) {
         e.exports = {
-            contentWidthFullLimit: "1024px",
-            logo: "logo-1U_ovC",
-            clyde: "clyde-2-VPBZ logo-1U_ovC",
-            type: "type-1G6S2n logo-1U_ovC"
-        }
-    },
-    7986: function(e, t, o) {
-        e.exports = {
-            flex: "flex-21ywRf",
-            flexChild: "flexChild-FMspoG",
-            flexGutterSmall: "flexGutterSmall-qcUxro",
-            flexGutterLarge: "flexGutterLarge-2kUiyw"
-        }
-    },
-    7987: function(e, t, o) {
-        e.exports = {
             flexVertical: "flexVertical-3UlyGp",
             flexSpacer: "flexSpacer-GrNT7f",
             flexHorizontal: "flexHorizontal-2e8SIr",
@@ -13070,6 +13057,22 @@
             flexNowrap: "flexNowrap-2g1HIq",
             flexWrap: "flexWrap-2YuKQk",
             flexWrapReverse: "flexWrapReverse-2yt1q9"
+        }
+    },
+    7986: function(e, t, o) {
+        e.exports = {
+            flex: "flex-21ywRf",
+            flexChild: "flexChild-FMspoG",
+            flexGutterSmall: "flexGutterSmall-qcUxro",
+            flexGutterLarge: "flexGutterLarge-2kUiyw"
+        }
+    },
+    7987: function(e, t, o) {
+        e.exports = {
+            contentWidthFullLimit: "1024px",
+            logo: "logo-1U_ovC",
+            clyde: "clyde-2-VPBZ logo-1U_ovC",
+            type: "type-1G6S2n logo-1U_ovC"
         }
     },
     7988: function(e, t, o) {
@@ -13176,4 +13179,4 @@
         }
     }
 }]);
-//# sourceMappingURL=872e24d8b14f0536a054.js.map
+//# sourceMappingURL=3e4d43f710394f45f30f.js.map
