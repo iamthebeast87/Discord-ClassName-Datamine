@@ -1910,8 +1910,11 @@
         e.exports = {
             responsiveWidthMobile: "485px",
             errorBody: "errorBody-3WviEJ",
+            promotionBodyWrapper: "promotionBodyWrapper-JgfKJo",
             promotionBody: "promotionBody-2r_eLH",
             promotionImage: "promotionImage-1HQo_l",
+            promotionAccountIdentifier: "promotionAccountIdentifier-16Eu6A",
+            promotionAccountIdentifierAvatar: "promotionAccountIdentifierAvatar-1I8Olf",
             title: "title-9oNsnn",
             bodyText: "bodyText-ThtFMi",
             errorImage: "errorImage-22tjNJ",
@@ -13145,4 +13148,4 @@
         }
     }
 }]);
-//# sourceMappingURL=dacd21e40f9a90e58002.js.map
+//# sourceMappingURL=2364bbef75a0fa5cb470.js.map
