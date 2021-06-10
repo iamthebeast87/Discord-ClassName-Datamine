@@ -8808,7 +8808,8 @@
             perkList: "perkList-2pAPzu",
             perkListItem: "perkListItem-1BjVlm",
             perkListItemIcon: "perkListItemIcon-2B4aA2",
-            hasPerkIcon: "hasPerkIcon-JJ5Ezo"
+            hasPerkIcon: "hasPerkIcon-JJ5Ezo",
+            classicPerkGrid: "classicPerkGrid-2izruP"
         }
     },
     7620: function(e, t, o) {
@@ -13148,4 +13149,4 @@
         }
     }
 }]);
-//# sourceMappingURL=2364bbef75a0fa5cb470.js.map
+//# sourceMappingURL=6f9f02347d9bb30fbbe8.js.map
