@@ -10153,6 +10153,7 @@
     },
     7778: function(e, t, o) {
         e.exports = {
+            desaturateUserColors: "desaturateUserColors-1gar-1",
             container: "container-1EOCj2",
             headerContainer: "headerContainer-3Dbfbk",
             headerTitle: "headerTitle-34m7pK",
@@ -10168,7 +10169,7 @@
             participantMemberContainer: "participantMemberContainer-3JuhCc",
             participantTextContainer: "participantTextContainer-3ZPeQk",
             participantAvatar: "participantAvatar-2CxvNm",
-            participantName: "participantName-1SXKIB",
+            participantName: "participantName-1SXKIB desaturateUserColors-1gar-1",
             emptyStateContainer: "emptyStateContainer-ExQMn0",
             emptyStateTitle: "emptyStateTitle-3RFcC1",
             emptyStateBody: "emptyStateBody-2qGLUo",
@@ -13268,4 +13269,4 @@
         }
     }
 }]);
-//# sourceMappingURL=895d43d1dd096df57c5f.js.map
+//# sourceMappingURL=cec7ece3a84fb38b2b7e.js.map
