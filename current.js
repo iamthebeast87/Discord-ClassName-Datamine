@@ -2057,7 +2057,9 @@
             slateBlockquoteContainer: "slateBlockquoteContainer-u5zDDJ",
             channelIcon: "channelIcon-Lewl0l",
             iconMention: "iconMention-O5BG9X",
-            roleMention: "roleMention-2Bj0ju desaturate-qhyunI"
+            roleMention: "roleMention-2Bj0ju desaturate-qhyunI",
+            timestamp: "timestamp-1Dd_pn",
+            timestampTooltip: "timestampTooltip-2YTl4z"
         }
     },
     7163: function(e, t, o) {
@@ -13345,4 +13347,4 @@
         }
     }
 }]);
-//# sourceMappingURL=bb1cd613604e14f45b22.js.map
+//# sourceMappingURL=9cab85ee77b5eebf154c.js.map
