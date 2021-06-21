@@ -8827,6 +8827,7 @@
             featureMoreServers: "featureMoreServers-14Thw5",
             featurePerGuildAvatar: "featurePerGuildAvatar-2_iyrl",
             featureLongerMessageContent: "featureLongerMessageContent-1RADxx",
+            stickers: "stickers-1O9_W6",
             newSparkles: "newSparkles-1I8M41"
         }
     },
@@ -10726,7 +10727,9 @@
             ticketCard: "ticketCard-1Y0W0u",
             title: "title-2Gy9TQ",
             subtitle: "subtitle-32r7v2",
-            confirmationModal: "confirmationModal-2JaxdL"
+            confirmationModalContent: "confirmationModalContent-3CvlPX",
+            confirmationModal: "confirmationModal-2JaxdL",
+            closeButton: "closeButton-3KJwtx"
         }
     },
     7844: function(e, t, o) {
@@ -13351,4 +13354,4 @@
         }
     }
 }]);
-//# sourceMappingURL=4eb8f4fdd9301cef6159.js.map
+//# sourceMappingURL=9c3d908d7cf781f64e0a.js.map
