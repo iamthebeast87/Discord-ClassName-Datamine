@@ -2636,6 +2636,21 @@
     },
     7190: function(e, t, o) {
         e.exports = {
+            header: "header-287ONi",
+            closeButton: "closeButton-26zew5",
+            title: "title-Z_XiOC",
+            subtitle: "subtitle-1KdHaN",
+            createGuild: "createGuild-23lWNm",
+            uploadIcon: "uploadIcon-2IFzZU",
+            nameInput: "nameInput-2LpnKg",
+            descriptionInput: "descriptionInput-3XMwZd",
+            guidelines: "guidelines-1NSoht",
+            creationIntentCheckbox: "creationIntentCheckbox-1rWz6L",
+            creationIntentText: "creationIntentText-3OlELP"
+        }
+    },
+    7191: function(e, t, o) {
+        e.exports = {
             listItemWidth: "72px",
             navigationIcon: "navigationIcon-2S1B5W",
             badgeIcon: "badgeIcon-2joE5y",
@@ -2665,7 +2680,7 @@
             upsellText: "upsellText-3Q7ST7"
         }
     },
-    7191: function(e, t, o) {
+    7192: function(e, t, o) {
         e.exports = {
             modalSize: "modalSize-32pcp4 sizeSmall-1jtLQy",
             headerContent: "headerContent-3hty5X",
@@ -2679,7 +2694,7 @@
             confirmCloseButton: "confirmCloseButton-ear6TV"
         }
     },
-    7192: function(e, t, o) {
+    7193: function(e, t, o) {
         e.exports = {
             row: "row-hM7TSa",
             icon: "icon-Vhk6dD",
@@ -2693,14 +2708,14 @@
             embedPrice: "embedPrice-Xy8zoS"
         }
     },
-    7193: function(e, t, o) {
+    7194: function(e, t, o) {
         e.exports = {
             spacing: "spacing-2P-ODW",
             spacingTop: "spacingTop-3Dhr0L",
             message: "message-2qRu38"
         }
     },
-    7194: function(e, t, o) {
+    7195: function(e, t, o) {
         e.exports = {
             container: "container-2Uhd6d",
             content: "content-3MbD2f",
@@ -2709,7 +2724,7 @@
             image: "image-3OQMFm"
         }
     },
-    7195: function(e, t, o) {
+    7196: function(e, t, o) {
         e.exports = {
             expanded: "expanded-13sWhZ",
             blockedSystemMessage: "blockedSystemMessage-2Rk1ek",
@@ -2717,21 +2732,6 @@
             container: "container-3eemR3",
             blockedMessageText: "blockedMessageText-1fRjos",
             blockedAction: "blockedAction-2ZyU8z"
-        }
-    },
-    7196: function(e, t, o) {
-        e.exports = {
-            header: "header-287ONi",
-            closeButton: "closeButton-26zew5",
-            title: "title-Z_XiOC",
-            subtitle: "subtitle-1KdHaN",
-            createGuild: "createGuild-23lWNm",
-            uploadIcon: "uploadIcon-2IFzZU",
-            nameInput: "nameInput-2LpnKg",
-            descriptionInput: "descriptionInput-3XMwZd",
-            guidelines: "guidelines-1NSoht",
-            creationIntentCheckbox: "creationIntentCheckbox-1rWz6L",
-            creationIntentText: "creationIntentText-3OlELP"
         }
     },
     7197: function(e, t, o) {
@@ -5877,6 +5877,7 @@
             minCardWidth: "248px",
             gutterSize: "16px",
             pageContainer: "pageContainer-1x6lGh",
+            scroller: "scroller-1m6Rtg",
             cardsContainer: "cardsContainer-1FCJbh",
             spinner: "spinner-eESxPG"
         }
@@ -11256,6 +11257,7 @@
             splash: "splash-1FJLsm",
             splashImage: "splashImage-1C2uTN",
             guildIcon: "guildIcon-1AUMvx",
+            overflowMenu: "overflowMenu-2UV1_r",
             iconMask: "iconMask-IeE9AR",
             avatar: "avatar-2WIa21",
             guildInfo: "guildInfo-3-Pgjr",
@@ -13368,4 +13370,4 @@
         }
     }
 }]);
-//# sourceMappingURL=cab84e7d05b5a429f5c6.js.map
+//# sourceMappingURL=ef7ee58d9764c6cd7fae.js.map
