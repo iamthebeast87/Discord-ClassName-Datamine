@@ -10663,6 +10663,7 @@
     7840: function(e, t, o) {
         e.exports = {
             container: "container-22UyA2",
+            uploadIconContainer: "uploadIconContainer-srTNzu",
             uploadIcon: "uploadIcon-3EO47A",
             pencilIconContainer: "pencilIconContainer-2XYqVg",
             pencilIcon: "pencilIcon-XNDl4u"
@@ -13347,4 +13348,4 @@
         }
     }
 }]);
-//# sourceMappingURL=5ac473a986d75085e016.js.map
+//# sourceMappingURL=f870c42098254229b10f.js.map
