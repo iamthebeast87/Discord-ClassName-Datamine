@@ -2039,6 +2039,7 @@
             separator: "separator-2nZzUB",
             messageEditorCompact: "messageEditorCompact-3Y64ly",
             hasThread: "hasThread-2k82W0",
+            isSystemMessage: "isSystemMessage-2MkNHd",
             hasReply: "hasReply-34In-r",
             markupRtl: "markupRtl-26VWXC",
             isSending: "isSending-9nvak6",
@@ -4820,8 +4821,10 @@
     7352: function(e, t, o) {
         e.exports = {
             spine: "spine-5jbOmI",
+            systemMessageSpine: "systemMessageSpine-3ZKfiO",
             cozy: "cozy-XCy5h_",
             container: "container-3hZ-gs",
+            systemMessageContainer: "systemMessageContainer-2ddkN3",
             topLine: "topLine-1hV9bl",
             name: "name-1qtoQ5",
             cta: "cta-3MixHV",
@@ -13408,4 +13411,4 @@
         }
     }
 }]);
-//# sourceMappingURL=61f10ca3df651e3e2471.js.map
+//# sourceMappingURL=51a23650e5aab41746b4.js.map
