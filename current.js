@@ -10676,7 +10676,10 @@
             guildName: "guildName-GeVAOH",
             footer: "footer-2pLi9a",
             footerTitle: "footerTitle-1XVXdA",
-            footerButton: "footerButton-3ZBvhg"
+            footerButton: "footerButton-3ZBvhg",
+            emptyContainer: "emptyContainer-3igXli",
+            emptyImage: "emptyImage-3_Eu72",
+            emptyText: "emptyText-1yC1e0"
         }
     },
     7830: function(e, t, o) {
@@ -11307,6 +11310,7 @@
             splash: "splash-1FJLsm",
             splashImage: "splashImage-1C2uTN",
             guildIcon: "guildIcon-1AUMvx",
+            icon: "icon-36l7g2",
             overflowMenu: "overflowMenu-2UV1_r",
             iconMask: "iconMask-IeE9AR",
             avatar: "avatar-2WIa21",
@@ -13461,4 +13465,4 @@
         }
     }
 }]);
-//# sourceMappingURL=9280208d140e1ad71efc.js.map
+//# sourceMappingURL=d1acf2de3941a9007b8b.js.map
