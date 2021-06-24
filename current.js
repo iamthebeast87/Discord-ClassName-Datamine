@@ -11941,6 +11941,7 @@
             profileBannerPreview: "profileBannerPreview-3_l0Wd",
             banner: "banner-hcPdsd",
             bannerUploader: "bannerUploader-3AZuN1",
+            gifTag: "gifTag-1Jm8FJ",
             bannerUploaderInnerSquare: "bannerUploaderInnerSquare-1ddxpx banner-hcPdsd",
             bannerNormal: "bannerNormal-22rPhb banner-hcPdsd",
             bannerNitroUpsell: "bannerNitroUpsell-3f4I57",
@@ -13465,4 +13466,4 @@
         }
     }
 }]);
-//# sourceMappingURL=d1acf2de3941a9007b8b.js.map
+//# sourceMappingURL=f6d0061df8ed02e8a462.js.map
