@@ -1331,8 +1331,9 @@
         e.exports = {
             assetWrapper: "assetWrapper-3GNt0z",
             assetWrapperMasked: "assetWrapperMasked-2tj_Bb",
-            lottieCanvas: "lottieCanvas-1W7L-f",
-            pngImage: "pngImage-33yLRP",
+            stickerAsset: "stickerAsset-13j1W0",
+            lottieCanvas: "lottieCanvas-1W7L-f stickerAsset-13j1W0",
+            pngImage: "pngImage-33yLRP stickerAsset-13j1W0",
             roundedMask: "roundedMask-3rB_-f",
             errorContent: "errorContent-2z-hpw",
             loadingIndicator: "loadingIndicator-1T4i1D",
@@ -13591,4 +13592,4 @@
         }
     }
 }]);
-//# sourceMappingURL=668a0d6242088ed602e8.js.map
+//# sourceMappingURL=8b06fb14d7510779cf18.js.map
