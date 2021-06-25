@@ -12970,6 +12970,7 @@
             title: "title-1_r4Id",
             subtitle: "subtitle-fYi1f6",
             closeButton: "closeButton-1Xwe8N",
+            skip: "skip-3Pgm8h",
             fullscreen: "fullscreen-2BFgBh"
         }
     },
@@ -13552,4 +13553,4 @@
         }
     }
 }]);
-//# sourceMappingURL=46fefd116afef500cf19.js.map
+//# sourceMappingURL=b384ace5c992fa190ac2.js.map
