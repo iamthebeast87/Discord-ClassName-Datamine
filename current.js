@@ -12114,7 +12114,9 @@
             swatch: "swatch-3mFIiP",
             customSwatch: "customSwatch-1axV7B swatch-3mFIiP",
             defaultSwatch: "defaultSwatch-2nDSvP",
-            dropperIcon: "dropperIcon-3Cwhnk"
+            dropperIcon: "dropperIcon-3Cwhnk",
+            profileColorTitle: "profileColorTitle-1i-vxM",
+            betaBadge: "betaBadge-1VY8Cw"
         }
     },
     8084: function(e, t, o) {
@@ -13626,4 +13628,4 @@
         }
     }
 }]);
-//# sourceMappingURL=57a2564843c0ca47e8d1.js.map
+//# sourceMappingURL=a7a1460cba3ae1946e37.js.map
