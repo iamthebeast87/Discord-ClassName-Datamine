@@ -13156,7 +13156,8 @@
         e.exports = {
             image: "image-1Y4rBl",
             subtitle: "subtitle-38CTOi",
-            title: "title-1J36e_"
+            title: "title-1J36e_",
+            spacedButton: "spacedButton-2nC4W5"
         }
     },
     8187: function(e, t, o) {
@@ -13632,4 +13633,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ab4b59f0eb0f81124e6d.js.map
+//# sourceMappingURL=9806762e98232ceef2ef.js.map
