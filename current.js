@@ -4526,10 +4526,11 @@
             categoryListWithoutSearch: "categoryListWithoutSearch-2D0q0Q categoryList-xW5xXr",
             categoryListWithSearch: "categoryListWithSearch-1wO0cJ categoryList-xW5xXr",
             stickerCategory: "stickerCategory-3Yz7vN",
+            premiumCategory: "premiumCategory-2Kk8IQ",
+            premiumCategorySelected: "premiumCategorySelected-23oFPJ",
             stickerCategoryRecent: "stickerCategoryRecent-1WVWrj",
             stickerCategoryRecentDisabled: "stickerCategoryRecentDisabled-5KTYkf",
             stickerCategoryRecentIcon: "stickerCategoryRecentIcon-16VgYU",
-            stickerCategorySelected: "stickerCategorySelected-2uaMAG",
             stickerPackThumbnail: "stickerPackThumbnail-2yNuP6",
             guildCategorySeparator: "guildCategorySeparator-3IdPnM",
             standardStickerShortcut: "standardStickerShortcut-3iRT0y",
@@ -13660,4 +13661,4 @@
         }
     }
 }]);
-//# sourceMappingURL=26a26977309da785790f.js.map
+//# sourceMappingURL=bedb97f92663c7958b92.js.map
