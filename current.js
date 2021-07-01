@@ -7173,6 +7173,7 @@
             targetChannel: "targetChannel-TrRFlx",
             targetGuild: "targetGuild-mDWfAV",
             targetEmoji: "targetEmoji-3vhPhM",
+            targetSticker: "targetSticker-2Z_JhN",
             targetIntegration: "targetIntegration-3rnyMN",
             targetInvite: "targetInvite-1RQBlr",
             targetMemberRole: "targetMemberRole-jowY3I",
@@ -13666,4 +13667,4 @@
         }
     }
 }]);
-//# sourceMappingURL=fed391dfd9f05aa01f98.js.map
+//# sourceMappingURL=affd3c834c252ba58fb4.js.map
