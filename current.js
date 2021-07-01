@@ -10756,17 +10756,22 @@
         e.exports = {
             header: "header-3EwbJF",
             closeButton: "closeButton-4LBYOH",
+            tabBar: "tabBar-3MtEvO",
+            tabBarItem: "tabBarItem-2sxElp",
+            selectedTab: "selectedTab-29dwYe",
             guildList: "guildList-2TgSqd",
             title: "title-1trl6A",
             subtitle: "subtitle-2Zhgtc",
             guildRow: "guildRow-35jjhr",
+            clickableGuildRow: "clickableGuildRow-31yQQo guildRow-35jjhr",
             guildName: "guildName-GeVAOH",
             footer: "footer-2pLi9a",
             footerTitle: "footerTitle-1XVXdA",
             footerButton: "footerButton-3ZBvhg",
             emptyContainer: "emptyContainer-3igXli",
             emptyImage: "emptyImage-3_Eu72",
-            emptyText: "emptyText-1yC1e0"
+            emptyText: "emptyText-1yC1e0",
+            trashIcon: "trashIcon-16rdgr"
         }
     },
     7997: function(e, t, o) {
@@ -13661,4 +13666,4 @@
         }
     }
 }]);
-//# sourceMappingURL=bedb97f92663c7958b92.js.map
+//# sourceMappingURL=fed391dfd9f05aa01f98.js.map
