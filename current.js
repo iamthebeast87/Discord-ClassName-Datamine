@@ -8252,14 +8252,18 @@
             inline: "inline-2xsvL9",
             live: "live-1O-Flx",
             label: "label-2MR3CA",
-            spacing: "spacing-3fzqk1"
+            spacing: "spacing-3fzqk1",
+            status: "status-uEYj9_",
+            dot: "dot-3fs7sa",
+            description: "description-2c1SWw"
         }
     },
     7797: function(e, t, o) {
         e.exports = {
             header: "header-2MrRa6",
             content: "content-1SXGsJ",
-            icon: "icon-mQDO2w"
+            icon: "icon-mQDO2w",
+            divider: "divider-2XFZvB"
         }
     },
     7798: function(e, t, o) {
@@ -13676,4 +13680,4 @@
         }
     }
 }]);
-//# sourceMappingURL=b05d918191cee89ab971.js.map
+//# sourceMappingURL=ec22e8b126cf08f48d42.js.map
