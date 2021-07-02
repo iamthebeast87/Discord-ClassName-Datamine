@@ -4604,6 +4604,7 @@
             stickerCategory: "stickerCategory-3Yz7vN",
             premiumCategory: "premiumCategory-2Kk8IQ",
             premiumCategorySelected: "premiumCategorySelected-23oFPJ",
+            stickerCategoryRecentSelected: "stickerCategoryRecentSelected-2gbLs2",
             stickerCategoryRecent: "stickerCategoryRecent-1WVWrj",
             stickerCategoryRecentDisabled: "stickerCategoryRecentDisabled-5KTYkf",
             stickerCategoryRecentIcon: "stickerCategoryRecentIcon-16VgYU",
@@ -13680,4 +13681,4 @@
         }
     }
 }]);
-//# sourceMappingURL=7dcc47761240dc259b16.js.map
+//# sourceMappingURL=e226cd8c7bda9532f751.js.map
