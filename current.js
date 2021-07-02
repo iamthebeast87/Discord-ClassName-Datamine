@@ -269,20 +269,18 @@
             contents: "contents-18-Yxp",
             hoverBrand: "hoverBrand-1_Fxlk",
             hasHover: "hasHover-3X1-zV",
-            colorRed: "colorRed-1TFJan",
-            hoverRed: "hoverRed-2NoOXI",
-            colorGreen: "colorGreen-29iAKY",
-            hoverGreen: "hoverGreen-1gjdJc",
             colorYellow: "colorYellow-2JqYwt",
             hoverYellow: "hoverYellow-171chs",
             colorLink: "colorLink-35jkBc",
             hoverLink: "hoverLink-i1fEKS",
             colorWhite: "colorWhite-rEQuAQ",
             hoverWhite: "hoverWhite-2uUmXw",
-            colorBlack: "colorBlack-1jwPVL",
-            hoverBlack: "hoverBlack-3jULb8",
             colorBrandNew: "colorBrandNew-g5lmBU",
             hoverBrandNew: "hoverBrandNew-OURftq",
+            colorRed: "colorRed-1TFJan",
+            hoverRed: "hoverRed-2NoOXI",
+            colorGreen: "colorGreen-29iAKY",
+            hoverGreen: "hoverGreen-1gjdJc",
             colorGrey: "colorGrey-2DXtkV",
             hoverGrey: "hoverGrey-2CBXu0",
             colorPrimary: "colorPrimary-3b3xI6",
@@ -13652,4 +13650,4 @@
         }
     }
 }]);
-//# sourceMappingURL=c6b2bb6e5bda64bca0d2.js.map
+//# sourceMappingURL=c50f8066aada314f6224.js.map
