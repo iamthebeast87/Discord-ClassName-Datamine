@@ -8179,6 +8179,7 @@
             row: "row-1ImlrZ",
             title: "title-3JU2Q6",
             avatar: "avatar-3oP4LX",
+            bullet: "bullet-_MbFpS",
             timestamp: "timestamp-25yOdb",
             name: "name-1Rd7lI"
         }
@@ -13651,4 +13652,4 @@
         }
     }
 }]);
-//# sourceMappingURL=78b90be737995916a949.js.map
+//# sourceMappingURL=b83aa2b273c73c09a4a6.js.map
