@@ -11278,45 +11278,17 @@
     },
     8045: function(e, t, o) {
         e.exports = {
-            container: "container-1WCE6w",
-            icons: "icons-2wALEG",
-            star: "star-2uNoZO",
-            stage: "stage-2UKqZE",
-            plus: "plus-GIkx48",
-            title: "title-2TmeU7",
-            button: "button-1h8W6d"
-        }
-    },
-    8046: function(e, t, o) {
-        e.exports = {
-            container: "container-2rNpDV",
-            illustration: "illustration-h6_gtD",
-            content: "content-1cqZ_C",
-            body: "body-3MGQWc",
-            header: "header-3g0E_g",
-            icon: "icon-xp84qZ"
-        }
-    },
-    8047: function(e, t, o) {
-        e.exports = {
-            container: "container-3u4ndt",
-            header: "header-3YnDzJ",
-            subheader: "subheader-2RpfyZ"
-        }
-    },
-    8048: function(e, t, o) {
-        e.exports = {
             container: "container-7Unqij",
             icon: "icon-3jQD8H"
         }
     },
-    8049: function(e, t, o) {
+    8046: function(e, t, o) {
         e.exports = {
             container: "container-G4Iil7",
             avatar: "avatar-3FSiro"
         }
     },
-    8050: function(e, t, o) {
+    8047: function(e, t, o) {
         e.exports = {
             container: "container-3yC5sj",
             icon: "icon-29krgh",
@@ -11325,7 +11297,7 @@
             leaveButton: "leaveButton-3Z5D-N"
         }
     },
-    8051: function(e, t, o) {
+    8048: function(e, t, o) {
         e.exports = {
             grid: "grid-3fdl0Y",
             speakerContainer: "speakerContainer-3h4uQU",
@@ -11336,7 +11308,7 @@
             textInGrid: "textInGrid-1ba1AD"
         }
     },
-    8052: function(e, t, o) {
+    8049: function(e, t, o) {
         e.exports = {
             container: "container-S9SaVf",
             contentContainer: "contentContainer-1fklqj",
@@ -11353,6 +11325,34 @@
             placeholderPulse: "placeholderPulse-3MG86Y",
             connected: "connected-2MF1ew",
             rightJustifiedContent: "rightJustifiedContent-1qP_dH"
+        }
+    },
+    8050: function(e, t, o) {
+        e.exports = {
+            container: "container-1WCE6w",
+            icons: "icons-2wALEG",
+            star: "star-2uNoZO",
+            stage: "stage-2UKqZE",
+            plus: "plus-GIkx48",
+            title: "title-2TmeU7",
+            button: "button-1h8W6d"
+        }
+    },
+    8051: function(e, t, o) {
+        e.exports = {
+            container: "container-2rNpDV",
+            illustration: "illustration-h6_gtD",
+            content: "content-1cqZ_C",
+            body: "body-3MGQWc",
+            header: "header-3g0E_g",
+            icon: "icon-xp84qZ"
+        }
+    },
+    8052: function(e, t, o) {
+        e.exports = {
+            container: "container-3u4ndt",
+            header: "header-3YnDzJ",
+            subheader: "subheader-2RpfyZ"
         }
     },
     8053: function(e, t, o) {
@@ -13651,4 +13651,4 @@
         }
     }
 }]);
-//# sourceMappingURL=d80c6bdfa99052f278da.js.map
+//# sourceMappingURL=c1465d827b1f2ad3994e.js.map
