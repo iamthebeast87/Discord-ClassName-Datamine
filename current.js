@@ -11351,6 +11351,7 @@
             hoveredParticipantsContainer: "hoveredParticipantsContainer-1jRGjF",
             loading: "loading-2PktB_",
             placeholderPulse: "placeholderPulse-3MG86Y",
+            connected: "connected-2MF1ew",
             rightJustifiedContent: "rightJustifiedContent-1qP_dH"
         }
     },
@@ -13650,4 +13651,4 @@
         }
     }
 }]);
-//# sourceMappingURL=c50f8066aada314f6224.js.map
+//# sourceMappingURL=d80c6bdfa99052f278da.js.map
