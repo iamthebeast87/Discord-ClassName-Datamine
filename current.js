@@ -1048,7 +1048,8 @@
             header: "header-3a78__",
             text: "text-23oMQC",
             headerSuccess: "headerSuccess-_KN2IQ",
-            headerFailure: "headerFailure-2bMPeV"
+            headerFailure: "headerFailure-2bMPeV",
+            closeButton: "closeButton-2Og9Gm"
         }
     },
     5787: function(e, t, o) {
@@ -1361,7 +1362,7 @@
             appMount: "appMount-3lHmkl"
         }
     },
-    5838: function(e, t, o) {
+    5839: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             responsiveHeightMobile: "550px",
@@ -1385,7 +1386,7 @@
             checkboxLabel: "checkboxLabel-3WoD3k"
         }
     },
-    5865: function(e, t, o) {
+    5866: function(e, t, o) {
         e.exports = {
             payment: "payment-xT17Mq",
             hoverablePayment: "hoverablePayment-Yc6mK7 payment-xT17Mq",
@@ -3146,6 +3147,7 @@
             tierHeaderUnlockedBackground: "tierHeaderUnlockedBackground-dZ6zLI",
             tierIcon: "tierIcon-1g5KsI",
             tierTitle: "tierTitle-1zWf2L",
+            tierTitleActive: "tierTitleActive-2SvV-i",
             tierRequirement: "tierRequirement-UAxC-l",
             tierLock: "tierLock-3nsR0q",
             tierUnlocked: "tierUnlocked-2H6ULo",
@@ -5936,6 +5938,7 @@
             content: "content-2M3n_H",
             actionAnchor: "actionAnchor-gzc_5z",
             iconContainer: "iconContainer-3GkGRf",
+            cozy: "cozy-12TNg0",
             icon: "icon-2Po-VO",
             iconSize: "iconSize-2tmqqh",
             action: "action-3CzlXl",
@@ -13693,4 +13696,4 @@
         }
     }
 }]);
-//# sourceMappingURL=374219bbc6560fff5234.js.map
+//# sourceMappingURL=ad22ee0121cc4cabd0e9.js.map
