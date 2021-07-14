@@ -1311,6 +1311,8 @@
             desktopDownloadButton: "desktopDownloadButton-u02XQl",
             linuxDownloadButtonContainer: "linuxDownloadButtonContainer-3nzYxz",
             linuxDownloadButton: "linuxDownloadButton-3_MACn",
+            desktopButtonContainer: "desktopButtonContainer-1fgize",
+            desktopDownloadButtonFixed: "desktopDownloadButtonFixed-2YZhzj",
             mobileImageContainer: "mobileImageContainer-2Tscm0",
             mobileImage: "mobileImage-DY1nTe",
             desktopContainer: "desktopContainer-spQem0",
@@ -13696,4 +13698,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ad22ee0121cc4cabd0e9.js.map
+//# sourceMappingURL=cd8ee95aa21dffef6243.js.map
