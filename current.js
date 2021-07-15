@@ -5385,7 +5385,8 @@
             premiumButtonInner: "premiumButtonInner-qFK5R7",
             premiumButton: "premiumButton-28hSN6",
             countdownIcon: "countdownIcon-B3jzQN",
-            popoutLoader: "popoutLoader-2HV5kI"
+            popoutLoader: "popoutLoader-2HV5kI",
+            nonInteractingSticker: "nonInteractingSticker-2tXsnD"
         }
     },
     7568: function(e, t, o) {
@@ -13710,4 +13711,4 @@
         }
     }
 }]);
-//# sourceMappingURL=25839efcbd636f053578.js.map
+//# sourceMappingURL=b2ae5c8a39954cbaee04.js.map
