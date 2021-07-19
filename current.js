@@ -1418,7 +1418,7 @@
             compact: "compact-3q6200"
         }
     },
-    5959: function(e, t, o) {
+    5960: function(e, t, o) {
         e.exports = {
             darkElevationLow: "darkElevationLow-DABD7i",
             darkElevationHigh: "darkElevationHigh-6iWpWi",
@@ -1434,7 +1434,7 @@
             elevationBorderHigh: "elevationBorderHigh-2WYJ09"
         }
     },
-    6034: function(e, t, o) {
+    6035: function(e, t, o) {
         e.exports = {
             blurb: "blurb-143skT",
             divider: "divider-2rujXH",
@@ -1447,7 +1447,7 @@
             termsCheckbox: "termsCheckbox-3YWF9A"
         }
     },
-    6042: function(e, t, o) {
+    6043: function(e, t, o) {
         e.exports = {
             root: "root-3-OKEZ",
             header: "header-1afJj7",
@@ -1462,7 +1462,7 @@
             learnMoreLink: "learnMoreLink-2r-LKX"
         }
     },
-    6057: function(e, t, o) {
+    6058: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             maxQRLoginWidth: "830px",
@@ -1498,13 +1498,13 @@
             footer: "footer-R83Ab3"
         }
     },
-    6069: function(e, t, o) {
+    6070: function(e, t, o) {
         e.exports = {
             spacer: "spacer-2b8O1V",
             input: "input-3yHnCz"
         }
     },
-    6070: function(e, t, o) {
+    6071: function(e, t, o) {
         e.exports = {
             error: "error-36J3A_",
             subTitle: "subTitle-1-bIFL",
@@ -1512,7 +1512,7 @@
             codeInput: "codeInput-2cYD0k"
         }
     },
-    6071: function(e, t, o) {
+    6072: function(e, t, o) {
         e.exports = {
             avatar: "avatar-1Mj8bY",
             guildIcon: "guildIcon-1k02sK",
@@ -1528,14 +1528,14 @@
             verifiedCheck: "verifiedCheck-2Ze-9s"
         }
     },
-    6072: function(e, t, o) {
+    6073: function(e, t, o) {
         e.exports = {
             image: "image-1ecFZy",
             header: "header-a5HgW3",
             usagePill: "usagePill-_nSrnP"
         }
     },
-    6073: function(e, t, o) {
+    6074: function(e, t, o) {
         e.exports = {
             container: "container-cMG81i",
             inner: "inner-2P4tQO",
@@ -1554,7 +1554,7 @@
             clear: "clear--Eywng icon-1S6UIr"
         }
     },
-    6074: function(e, t, o) {
+    6075: function(e, t, o) {
         e.exports = {
             marginTop8: "marginTop8-1DLZ1n",
             marginBottom8: "marginBottom8-AtZOdT",
@@ -1565,7 +1565,7 @@
             divider: "divider-faSUbd marginTop8-1DLZ1n marginBottom8-AtZOdT"
         }
     },
-    6075: function(e, t, o) {
+    6076: function(e, t, o) {
         e.exports = {
             phoneFieldPopout: "phoneFieldPopout-7PzjOO",
             phoneFieldScroller: "phoneFieldScroller-1rORCK",
@@ -1574,7 +1574,7 @@
             countryCode: "countryCode-1zrlUB"
         }
     },
-    6076: function(e, t, o) {
+    6077: function(e, t, o) {
         e.exports = {
             outerContainer: "outerContainer-2pDY4c",
             container: "container-1uOKxa",
@@ -1585,19 +1585,19 @@
             hidden: "hidden-2l9u-8"
         }
     },
-    6077: function(e, t, o) {
+    6078: function(e, t, o) {
         e.exports = {
             input: "input-1CjGeR",
             inputWrapper: "inputWrapper-3aw2Sf",
             inputField: "inputField-4g7rSQ"
         }
     },
-    6078: function(e, t, o) {
+    6079: function(e, t, o) {
         e.exports = {
             applicationIcon: "applicationIcon-28iDrP"
         }
     },
-    6079: function(e, t, o) {
+    6080: function(e, t, o) {
         e.exports = {
             container: "container-23z5yI",
             guildBadge: "guildBadge-3vRjwA",
@@ -1615,7 +1615,7 @@
             appGuildName: "appGuildName-2aGDAZ"
         }
     },
-    6080: function(e, t, o) {
+    6081: function(e, t, o) {
         e.exports = {
             image: "image-2QWf3Q",
             imageUpgrade: "imageUpgrade-moI_hv image-2QWf3Q",
@@ -1626,7 +1626,7 @@
             secondaryButton: "secondaryButton-197mr8"
         }
     },
-    6081: function(e, t, o) {
+    6082: function(e, t, o) {
         e.exports = {
             header: "header-3bB_GQ",
             title: "title-2HFmAi",
@@ -1637,13 +1637,13 @@
             cancel: "cancel-204y04"
         }
     },
-    6082: function(e, t, o) {
+    6083: function(e, t, o) {
         e.exports = {
             message: "message-3rf57R",
             imageUnverified: "imageUnverified-1QCPtJ"
         }
     },
-    6083: function(e, t, o) {
+    6084: function(e, t, o) {
         e.exports = {
             shinyButton: "shinyButton-3uFlM-",
             buttonShine: "buttonShine-1CSUM8",
@@ -1656,7 +1656,7 @@
             shineInner: "shineInner-fWUhvE"
         }
     },
-    6084: function(e, t, o) {
+    6085: function(e, t, o) {
         e.exports = {
             cardIcon: "cardIcon-3U4mwZ",
             visa: "visa-wmEUYN",
@@ -1675,13 +1675,13 @@
             flipped: "flipped-26DCUA"
         }
     },
-    6085: function(e, t, o) {
+    6086: function(e, t, o) {
         e.exports = {
             paymentSourceLabel: "paymentSourceLabel-1lo4Ca",
             error: "error-tDF6fl"
         }
     },
-    6086: function(e, t, o) {
+    6087: function(e, t, o) {
         e.exports = {
             copyInput: "copyInput-2rOSt7",
             copyInputDefault: "copyInputDefault-21sXtF copyInput-2rOSt7",
@@ -1698,7 +1698,7 @@
             inputHidden: "inputHidden-1K-bD4"
         }
     },
-    6087: function(e, t, o) {
+    6088: function(e, t, o) {
         e.exports = {
             error: "error-20ZZpF",
             icon: "icon-25oV0D",
@@ -1710,7 +1710,7 @@
             backgroundAccent: "backgroundAccent-349kuI"
         }
     },
-    6088: function(e, t, o) {
+    6089: function(e, t, o) {
         e.exports = {
             table: "table-39R0Oe",
             header: "header-2fYolP",
@@ -1728,23 +1728,23 @@
             finePrint: "finePrint-aNvLWf"
         }
     },
-    6089: function(e, t, o) {
+    6090: function(e, t, o) {
         e.exports = {
             pricePerInterval: "pricePerInterval-WZc5oR"
         }
     },
-    6090: function(e, t, o) {
+    6091: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-3xYGNM",
             wrapperActive: "wrapperActive-1eM2cQ"
         }
     },
-    6091: function(e, t, o) {
+    6092: function(e, t, o) {
         e.exports = {
             link: "link-3dHnkW"
         }
     },
-    6092: function(e, t, o) {
+    6093: function(e, t, o) {
         e.exports = {
             note: "note-3f9OXN",
             icon: "icon-gt7KBA",
@@ -1755,7 +1755,7 @@
             colorPrimary: "colorPrimary-3hws2f"
         }
     },
-    6093: function(e, t, o) {
+    6094: function(e, t, o) {
         e.exports = {
             transitionGroup: "transitionGroup-aR7y1d",
             measurement: "measurement-DMxQp7",
@@ -1764,7 +1764,7 @@
             animatedNode: "animatedNode-5VAmrN"
         }
     },
-    6094: function(e, t, o) {
+    6095: function(e, t, o) {
         e.exports = {
             breadcrumbs: "breadcrumbs-SOzMJD",
             breadcrumbWrapper: "breadcrumbWrapper-WmDjgG",
@@ -1776,7 +1776,7 @@
             interactiveBreadcrumb: "interactiveBreadcrumb-3qFng9"
         }
     },
-    6095: function(e, t, o) {
+    6096: function(e, t, o) {
         e.exports = {
             content: "content-1YdlXf",
             breadcrumbsWrapper: "breadcrumbsWrapper-3avBWN",
@@ -1790,7 +1790,7 @@
             sequencerAnimatedNode: "sequencerAnimatedNode-GEjG0S"
         }
     },
-    6096: function(e, t, o) {
+    6097: function(e, t, o) {
         e.exports = {
             buttonIcon: "buttonIcon-1BKzBu",
             button: "button-1vm4ZO",
@@ -1798,21 +1798,21 @@
             horizonal: "horizonal-2R4X-v"
         }
     },
-    6097: function(e, t, o) {
+    6098: function(e, t, o) {
         e.exports = {
             inputWrapper: "inputWrapper-2YCfto",
             paypalIcon: "paypalIcon-2dBx_b",
             paypalInput: "paypalInput-3MddcM"
         }
     },
-    6098: function(e, t, o) {
+    6099: function(e, t, o) {
         e.exports = {
             cardNumberWrapper: "cardNumberWrapper-3YhV1H",
             cardIcon: "cardIcon-8A8yRg",
             cardNumberInput: "cardNumberInput-3vDUEy"
         }
     },
-    6099: function(e, t, o) {
+    6100: function(e, t, o) {
         e.exports = {
             cardNumberWrapper: "cardNumberWrapper-3fnAdq",
             cardIcon: "cardIcon-22ZAZn",
@@ -1821,13 +1821,13 @@
             cardNumberInput: "cardNumberInput-1EkDl_"
         }
     },
-    6100: function(e, t, o) {
+    6101: function(e, t, o) {
         e.exports = {
             awaitingAuthenticationStep: "awaitingAuthenticationStep-3mW1JG",
             body: "body-31Cs__"
         }
     },
-    6101: function(e, t, o) {
+    6102: function(e, t, o) {
         e.exports = {
             skuButtons: "skuButtons-3KnDcG",
             button: "button-3Wn6-1",
@@ -1842,7 +1842,7 @@
             price: "price-3ihUyv"
         }
     },
-    6102: function(e, t, o) {
+    6103: function(e, t, o) {
         e.exports = {
             subscriptionCostRowAmount: "subscriptionCostRowAmount-15tMYg",
             subscriptionCostRow: "subscriptionCostRow-3imIke",
@@ -1855,7 +1855,7 @@
             subscriptionAddedInvoiceItem: "subscriptionAddedInvoiceItem-2V_n7J"
         }
     },
-    6103: function(e, t, o) {
+    6104: function(e, t, o) {
         e.exports = {
             "premium-gradient": "linear-gradient(to right, hsl(270, calc(var(--saturation-factor, 1) * 86.7%), 70.6%), hsl(342, calc(var(--saturation-factor, 1) * 58%), 72.9%))",
             headerBackground: "headerBackground-23gIwK",
@@ -1869,12 +1869,12 @@
             closeButton: "closeButton-2PEpYG"
         }
     },
-    6104: function(e, t, o) {
+    6105: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-1P_m9K"
         }
     },
-    6105: function(e, t, o) {
+    6106: function(e, t, o) {
         e.exports = {
             tier2Animation: "tier2Animation-M5D31n",
             panningAnimation: "panningAnimation-38NjY9",
@@ -1886,14 +1886,14 @@
             guildStar: "guildStar-35l026"
         }
     },
-    6106: function(e, t, o) {
+    6107: function(e, t, o) {
         e.exports = {
             modalHeader: "modalHeader-1a6oWz",
             header: "header-jiLdx9",
             headerAnimation: "headerAnimation-pQYQcu"
         }
     },
-    6107: function(e, t, o) {
+    6108: function(e, t, o) {
         e.exports = {
             animationContainer: "animationContainer-cNePAf",
             container: "container-2mdxGH",
@@ -1902,14 +1902,14 @@
             shine: "shine-KMI5j7"
         }
     },
-    6108: function(e, t, o) {
+    6109: function(e, t, o) {
         e.exports = {
             confirmation: "confirmation-NXinYV",
             banner: "banner-2TeZN0",
             text: "text-1F94k4"
         }
     },
-    6109: function(e, t, o) {
+    6110: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             shaker: "shaker-1QVc6p",
@@ -1940,7 +1940,7 @@
             root: "root-2k49pR"
         }
     },
-    6110: function(e, t, o) {
+    6111: function(e, t, o) {
         e.exports = {
             premiumSubscribeButton: "premiumSubscribeButton-3TowJw",
             premiumIcon: "premiumIcon-YgHhed",
@@ -1949,7 +1949,7 @@
             giftIcon: "giftIcon-1DsQ4W"
         }
     },
-    6111: function(e, t, o) {
+    6112: function(e, t, o) {
         e.exports = {
             maxQRLoginWidth: "830px",
             qrLogin: "qrLogin-1AOZMt",
@@ -1962,7 +1962,7 @@
             verticalSeparator: "verticalSeparator-3huAjp"
         }
     },
-    6112: function(e, t, o) {
+    6113: function(e, t, o) {
         e.exports = {
             authBoxPadding: "32px",
             column: "column-3OSB2u",
@@ -1970,7 +1970,7 @@
             content: "content-3vcdXQ"
         }
     },
-    6113: function(e, t, o) {
+    6114: function(e, t, o) {
         e.exports = {
             horizontalAuthBox: "horizontalAuthBox-18f_tk",
             needAccount: "needAccount-23l_Wh",
@@ -1979,7 +1979,7 @@
             mobile: "mobile-1ryxso"
         }
     },
-    6115: function(e, t, o) {
+    6116: function(e, t, o) {
         e.exports = {
             cardNumberWrapper: "cardNumberWrapper-2D83Wo",
             cardIcon: "cardIcon-2MnSei",
@@ -1991,7 +1991,7 @@
             inputPrefix: "inputPrefix-2iFFkc"
         }
     },
-    6116: function(e, t, o) {
+    6117: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             responsiveHeightMobile: "450px",
@@ -2004,7 +2004,7 @@
             sequencer: "sequencer-FWouqi"
         }
     },
-    6125: function(e, t, o) {
+    6126: function(e, t, o) {
         e.exports = {
             assetWrapper: "assetWrapper-3GNt0z",
             assetWrapperMasked: "assetWrapperMasked-2tj_Bb",
@@ -2024,7 +2024,7 @@
             positionedLayer: "positionedLayer-rdhj21"
         }
     },
-    6127: function(e, t, o) {
+    6128: function(e, t, o) {
         e.exports = {
             header: "header-1F6gxU",
             animation: "animation-3YKWGa",
@@ -2032,7 +2032,7 @@
             closeButton: "closeButton-23VgYF"
         }
     },
-    6128: function(e, t, o) {
+    6129: function(e, t, o) {
         e.exports = {
             perkRow: "perkRow-4H5Kvz",
             perkIconContainer: "perkIconContainer-Pf29_D",
@@ -2040,7 +2040,7 @@
             perkDescription: "perkDescription-2-1vIq"
         }
     },
-    6129: function(e, t, o) {
+    6130: function(e, t, o) {
         e.exports = {
             content: "content-1tUOTl",
             closeButton: "closeButton-27-8oX",
@@ -2055,7 +2055,7 @@
             footerRight: "footerRight-3XUHKU"
         }
     },
-    6130: function(e, t, o) {
+    6131: function(e, t, o) {
         e.exports = {
             value: "value-IR9osW",
             actions: "actions-6rRvry",
@@ -2064,13 +2064,13 @@
             disabled: "disabled-24YXy-"
         }
     },
-    6131: function(e, t, o) {
+    6132: function(e, t, o) {
         e.exports = {
             upsellFooter: "upsellFooter-3coAfO",
             upsellFooterIcon: "upsellFooterIcon-wRsqlH"
         }
     },
-    6132: function(e, t, o) {
+    6133: function(e, t, o) {
         e.exports = {
             bodyText: "bodyText-2BAgX2",
             planSelectStep: "planSelectStep-siOMix",
@@ -2094,7 +2094,7 @@
             existingSlotTooltipWarningIcon: "existingSlotTooltipWarningIcon-3U0NWb"
         }
     },
-    6133: function(e, t, o) {
+    6134: function(e, t, o) {
         e.exports = {
             contentWrapper: "contentWrapper-3INYJy",
             content: "content-1AQeZG",
@@ -2106,13 +2106,13 @@
             copy: "copy-3YQ4Eu"
         }
     },
-    6136: function(e, t, o) {
+    6137: function(e, t, o) {
         e.exports = {
             app: "app-2rEoOp",
             layers: "layers-3q14ss"
         }
     },
-    6138: function(e, t, o) {
+    6139: function(e, t, o) {
         e.exports = {
             responsiveWidthDesktop: "1080px",
             responsiveWidthMobileFirst: "486px",
@@ -2120,7 +2120,7 @@
             wrapper: "wrapper-6URcxg"
         }
     },
-    6139: function(e, t, o) {
+    6140: function(e, t, o) {
         e.exports = {
             maxQRLoginWidth: "830px",
             responsiveWidthMobile: "485px",
@@ -2131,7 +2131,7 @@
             logo: "logo-1-AbdC"
         }
     },
-    6140: function(e, t, o) {
+    6141: function(e, t, o) {
         e.exports = {
             pageActions: "pageActions-1SVAnA",
             pageButtonNext: "pageButtonNext-V2kUq0",
@@ -2141,7 +2141,7 @@
             pageIndicator: "pageIndicator-1gAbyA"
         }
     },
-    6141: function(e, t, o) {
+    6142: function(e, t, o) {
         e.exports = {
             descriptionWrapper: "descriptionWrapper-1YBY_J",
             subText: "subText-V8PTt8",
@@ -2152,7 +2152,7 @@
             description: "description-HxwDO4"
         }
     },
-    6142: function(e, t, o) {
+    6143: function(e, t, o) {
         e.exports = {
             paymentPane: "paymentPane-3bwJ6A",
             paymentRow: "paymentRow-2e7VM6",
@@ -2167,19 +2167,19 @@
             paginator: "paginator-166-09"
         }
     },
-    6333: function(e, t, o) {
+    6334: function(e, t, o) {
         e.exports = {
             art: "art-RyCKMR"
         }
     },
-    6437: function(e, t, o) {
+    6438: function(e, t, o) {
         e.exports = {
             responsiveWidthMobileFirst: "486px",
             card: "card-19w55y",
             title: "title-3TRLpl"
         }
     },
-    6440: function(e, t, o) {
+    6441: function(e, t, o) {
         e.exports = {
             responsiveWidthMobile: "485px",
             errorBody: "errorBody-3WviEJ",
@@ -2196,7 +2196,7 @@
             errorFooter: "errorFooter-eY2PQo"
         }
     },
-    6450: function(e, t, o) {
+    6451: function(e, t, o) {
         e.exports = {
             wrapper: "wrapper-2JeiFF",
             spinnerWrapper: "spinnerWrapper-3MQVhb"
@@ -3516,6 +3516,7 @@
         e.exports = {
             minCardWidth: "248px",
             gutterSize: "16px",
+            minContentWidth: "320px",
             pageContainer: "pageContainer-1x6lGh",
             scroller: "scroller-1m6Rtg",
             cardsContainer: "cardsContainer-1FCJbh",
@@ -11605,13 +11606,15 @@
     8088: function(e, t, o) {
         e.exports = {
             desaturate: "desaturate-qhyunI",
-            minHeaderWidth: "650px",
+            minContentWidth: "320px",
+            minHeaderHeight: "200px",
             header: "header-1PwRG9",
             headerImage: "headerImage-3pwkCG desaturate-qhyunI",
             searchTitle: "searchTitle-3LfThw",
             searchSubtitle: "searchSubtitle-2qRUsG",
             headerContentWrapper: "headerContentWrapper-2kkRy-",
             headerContent: "headerContent-1HfSPQ",
+            headerContentSmall: "headerContentSmall-2EvQEP",
             searchBox: "searchBox-2R4IbA",
             searchBoxInput: "searchBoxInput-E9B4FK",
             closeIcon: "closeIcon-gJtlxl",
@@ -13712,4 +13715,4 @@
         }
     }
 }]);
-//# sourceMappingURL=d71c94fc5b6d7e5c41d2.js.map
+//# sourceMappingURL=c864dacb45bb5cc8b716.js.map
