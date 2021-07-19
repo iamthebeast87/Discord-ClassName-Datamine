@@ -4338,6 +4338,7 @@
             betaBadge: "betaBadge-1Xznh1",
             headerTop: "headerTop-3vNv-a",
             headerTopWithCustomStatus: "headerTopWithCustomStatus-1DHAjX",
+            warningCircleIcon: "warningCircleIcon-cBU5e2",
             profileBadges: "profileBadges-ohc0Vu",
             headerText: "headerText-1vVs-U",
             avatarHint: "avatarHint-2A3RNb",
@@ -8264,7 +8265,10 @@
             spacing: "spacing-3fzqk1",
             status: "status-uEYj9_",
             dot: "dot-3fs7sa",
-            description: "description-2c1SWw"
+            description: "description-2c1SWw",
+            count: "count-1iwHIY",
+            button: "button-3FivtD",
+            buttonIcon: "buttonIcon-LSP8pU"
         }
     },
     7797: function(e, t, o) {
@@ -10726,6 +10730,7 @@
             header: "header-4zuFdR",
             headerTop: "headerTop-547GTz",
             badgeList: "badgeList-1R1WgZ",
+            warningCircleIcon: "warningCircleIcon-3R0DLw",
             avatar: "avatar-AvHqJA",
             relationshipButtons: "relationshipButtons-pUQVkf",
             nameTag: "nameTag-ECvD8P",
@@ -13715,4 +13720,4 @@
         }
     }
 }]);
-//# sourceMappingURL=d85b045a89552a609cde.js.map
+//# sourceMappingURL=6ae22164949716565c9e.js.map
