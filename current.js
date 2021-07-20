@@ -10809,7 +10809,8 @@
             content: "content-gjD8J2",
             header: "header-wUqZez",
             features: "features-1tMYEH",
-            icon: "icon-1HfuQI"
+            icon: "icon-1HfuQI",
+            footer: "footer-2sB7av"
         }
     },
     8018: function(e, t, o) {
@@ -13720,4 +13721,4 @@
         }
     }
 }]);
-//# sourceMappingURL=6ae22164949716565c9e.js.map
+//# sourceMappingURL=0dc0060f15d37ee7a3ad.js.map
