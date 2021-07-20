@@ -8263,10 +8263,13 @@
             live: "live-1O-Flx",
             label: "label-2MR3CA",
             spacing: "spacing-3fzqk1",
+            header: "header-W2Qx9J",
             status: "status-uEYj9_",
             dot: "dot-3fs7sa",
+            divider: "divider--f1XsN",
             description: "description-2c1SWw",
-            count: "count-1iwHIY",
+            rsvpCount: "rsvpCount-1xIBNU",
+            rsvpIcon: "rsvpIcon-25DHSw",
             button: "button-3FivtD",
             buttonIcon: "buttonIcon-LSP8pU"
         }
@@ -13721,4 +13724,4 @@
         }
     }
 }]);
-//# sourceMappingURL=0dc0060f15d37ee7a3ad.js.map
+//# sourceMappingURL=db7416caecab2e155842.js.map
