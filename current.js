@@ -5366,6 +5366,7 @@
             labelContainer: "labelContainer-3UfOIp",
             label: "label-3fPy-x",
             description: "description-nveHXT",
+            singleValueLabel: "singleValueLabel-3Dsj9V",
             option: "option-19HP2B",
             value: "value-FbrxsN",
             singleValue: "singleValue-3OF6b1",
@@ -13717,4 +13718,4 @@
         }
     }
 }]);
-//# sourceMappingURL=5bb862b303b29c294790.js.map
+//# sourceMappingURL=0c5cfce52c4e6e8b3827.js.map
