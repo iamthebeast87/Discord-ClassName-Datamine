@@ -1326,11 +1326,17 @@
             animationDuration: "150ms",
             root: "root-3R2ngo",
             enter: "enter-1qIQaf",
+            enterReducedMotion: "enterReducedMotion-2NDBR-",
             exit: "exit-1xyzxd",
+            exitReducedMotion: "exitReducedMotion-2v89YR",
             enterActive: "enterActive-14DLLh",
             enterDone: "enterDone-2zvtsK",
+            enterActiveReducedMotion: "enterActiveReducedMotion-3ByHk9",
+            enterDoneReducedMotion: "enterDoneReducedMotion-3BHxYR",
             exitActive: "exitActive-JZFsGn",
-            exitDone: "exitDone-2Q591Q"
+            exitDone: "exitDone-2Q591Q",
+            exitActiveReducedMotion: "exitActiveReducedMotion-1nh73q",
+            exitDoneReducedMotion: "exitDoneReducedMotion-1cPV4D"
         }
     },
     5822: function(e, t, o) {
@@ -11718,6 +11724,8 @@
             form: "form-3eU9kJ",
             channelTextArea: "channelTextArea-3O-WhA",
             channelTextAreaInner: "channelTextAreaInner-1WnnRS",
+            channelTextAreaInnerFocused: "channelTextAreaInnerFocused-M_uztw",
+            channelTextAreaInnerError: "channelTextAreaInnerError-2ti7q6",
             submitContainer: "submitContainer-g72mF-",
             submitButton: "submitButton-10dlpk",
             messagePreview: "messagePreview-3WlsGw"
@@ -13720,4 +13728,4 @@
         }
     }
 }]);
-//# sourceMappingURL=48265e749bd3dfae1484.js.map
+//# sourceMappingURL=8ddc8b8c5f881c66d759.js.map
