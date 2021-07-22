@@ -8626,8 +8626,8 @@
     },
     7819: function(e, t, o) {
         e.exports = {
-            modal: "modal-3O0aXp",
-            content: "content-s2SEQO"
+            modal: "modal-1TF_VN",
+            content: "content-2CeOl_"
         }
     },
     7820: function(e, t, o) {
@@ -11541,21 +11541,21 @@
     },
     8081: function(e, t, o) {
         e.exports = {
-            video: "video-1FESK-",
-            container: "container-1_ClKi",
-            image: "image-2WjK2f",
-            title: "title-18Xx5z",
-            lead: "lead-EXTwq7",
-            added: "added-2hLRj3 title-18Xx5z",
-            fixed: "fixed-3zCC84 title-18Xx5z",
-            improved: "improved-1NJK-y title-18Xx5z",
-            progress: "progress-YsDrV- title-18Xx5z",
-            marginTop: "marginTop-2incQ6",
-            footer: "footer-SqIiQ_",
-            socialLink: "socialLink-3n2n25",
-            premiumBanner: "premiumBanner-rP6H1S",
-            premiumIcon: "premiumIcon-2tjl0P",
-            date: "date-1k6kG2"
+            video: "video-1ptUNw",
+            container: "container-2uXMEq",
+            image: "image-1QMbSr",
+            title: "title-3lJ3aw",
+            lead: "lead-3X56S5",
+            added: "added-3gEorX title-3lJ3aw",
+            fixed: "fixed-17NtPk title-3lJ3aw",
+            improved: "improved-2xP0R6 title-3lJ3aw",
+            progress: "progress-3VSXTd title-3lJ3aw",
+            marginTop: "marginTop-24IsAx",
+            footer: "footer-5VmL3U",
+            socialLink: "socialLink-3toGbB",
+            premiumBanner: "premiumBanner-1bYXGW",
+            premiumIcon: "premiumIcon-3Au4p0",
+            date: "date-2XZRlC"
         }
     },
     8082: function(e, t, o) {
@@ -13561,171 +13561,171 @@
     8243: function(e, t, o) {
         e.exports = {
             contentWidthRestrictedLimit: "848px",
-            footer: "footer-je22K2",
-            footerPrimary: "footerPrimary-KxrtlY footer-je22K2",
-            footerBackgroundPrimary: "footerBackgroundPrimary-3ouTtT",
-            footerBackgroundAnimate: "footerBackgroundAnimate-1CHJYi",
-            "footer-blob-animation": "footer-blob-animation-_I95Dt",
-            footerBackgroundPaused: "footerBackgroundPaused-1Qgmbn footerBackgroundAnimate-1CHJYi",
-            footerBackgroundPlay: "footerBackgroundPlay-YykCNn footerBackgroundAnimate-1CHJYi",
-            footerContent: "footerContent-_U2enW",
-            navigation: "navigation-18zSA-",
-            navigationHeader: "navigationHeader-2Vp4n_",
-            route: "route-MFNjyu",
-            navigationSection: "navigationSection-1CjCJZ",
-            logo: "logo-28n2Vu",
-            logoWrap: "logoWrap-1rGDvB",
-            separator: "separator-xZsY5U",
-            joinDiscord: "joinDiscord-3gZEG_",
-            stats: "stats-2t3ZLa",
-            readyToJoin: "readyToJoin-3kZFcp",
-            joinOtherPlayers: "joinOtherPlayers-370EmJ",
-            button: "button-2A8AGi",
-            buttonPrimary: "buttonPrimary-3RahU_ button-2A8AGi",
-            buttonBlurple: "buttonBlurple-1kuusH button-2A8AGi",
-            footerBackgroundBlurple: "footerBackgroundBlurple-3m2rFK footerBackgroundPrimary-3ouTtT",
-            footerBlurple: "footerBlurple-1BSoUN footer-je22K2"
+            footer: "footer-QT_ny2",
+            footerPrimary: "footerPrimary-1kaN2J footer-QT_ny2",
+            footerBackgroundPrimary: "footerBackgroundPrimary-2tI6Bv",
+            footerBackgroundAnimate: "footerBackgroundAnimate-kcSJ2B",
+            "footer-blob-animation": "footer-blob-animation-nrdnoa",
+            footerBackgroundPaused: "footerBackgroundPaused-2DAuxB footerBackgroundAnimate-kcSJ2B",
+            footerBackgroundPlay: "footerBackgroundPlay-267jxe footerBackgroundAnimate-kcSJ2B",
+            footerContent: "footerContent-m9j1N9",
+            navigation: "navigation-37Dyeg",
+            navigationHeader: "navigationHeader-377XgL",
+            route: "route-1nrocE",
+            navigationSection: "navigationSection-2mJ8hb",
+            logo: "logo-OUMIQ6",
+            logoWrap: "logoWrap-3ELjcM",
+            separator: "separator-2wR9wu",
+            joinDiscord: "joinDiscord-3CJq_G",
+            stats: "stats-1wmuYV",
+            readyToJoin: "readyToJoin-2TuWOU",
+            joinOtherPlayers: "joinOtherPlayers-2RuXJn",
+            button: "button-3n5LOb",
+            buttonPrimary: "buttonPrimary-hpQxMZ button-3n5LOb",
+            buttonBlurple: "buttonBlurple-nsGs34 button-3n5LOb",
+            footerBackgroundBlurple: "footerBackgroundBlurple-1Fd-X- footerBackgroundPrimary-2tI6Bv",
+            footerBlurple: "footerBlurple-2TmvBh footer-QT_ny2"
         }
     },
     8244: function(e, t, o) {
         e.exports = {
-            flexVertical: "flexVertical-3UlyGp",
-            flexSpacer: "flexSpacer-GrNT7f",
-            flexHorizontal: "flexHorizontal-2e8SIr",
-            flexHorizontalReverse: "flexHorizontalReverse-yA5GP2",
-            flexCenter: "flexCenter-OeefPj",
-            flexAlignStart: "flexAlignStart-2qRj5J",
-            flexAlignEnd: "flexAlignEnd-3h-_AZ",
-            flexAlignCenter: "flexAlignCenter-3u30b3",
-            flexAlignStretch: "flexAlignStretch-2lwI1M",
-            flexJustifyStart: "flexJustifyStart-3Hopvt",
-            flexJustifyEnd: "flexJustifyEnd-39vIgk",
-            flexJustifyCenter: "flexJustifyCenter-1QqCti",
-            flexJustifyAround: "flexJustifyAround-duP4ew",
-            flexJustifyBetween: "flexJustifyBetween-1E8--m",
-            flexNowrap: "flexNowrap-2g1HIq",
-            flexWrap: "flexWrap-2YuKQk",
-            flexWrapReverse: "flexWrapReverse-2yt1q9"
+            flexVertical: "flexVertical-3KTbKu",
+            flexSpacer: "flexSpacer-jTPGuA",
+            flexHorizontal: "flexHorizontal-25ocFD",
+            flexHorizontalReverse: "flexHorizontalReverse-3guxK6",
+            flexCenter: "flexCenter-2gbZKg",
+            flexAlignStart: "flexAlignStart-1JvKEB",
+            flexAlignEnd: "flexAlignEnd-EabtuR",
+            flexAlignCenter: "flexAlignCenter-1oCPgb",
+            flexAlignStretch: "flexAlignStretch-oPdGG1",
+            flexJustifyStart: "flexJustifyStart-3vSvOK",
+            flexJustifyEnd: "flexJustifyEnd-3oDVRt",
+            flexJustifyCenter: "flexJustifyCenter-2OrcS0",
+            flexJustifyAround: "flexJustifyAround-2tbiZL",
+            flexJustifyBetween: "flexJustifyBetween-Cz9F15",
+            flexNowrap: "flexNowrap-6WYW3y",
+            flexWrap: "flexWrap-3RDM_m",
+            flexWrapReverse: "flexWrapReverse-2I-1nG"
         }
     },
     8245: function(e, t, o) {
         e.exports = {
-            flex: "flex-21ywRf",
-            flexChild: "flexChild-FMspoG",
-            flexGutterSmall: "flexGutterSmall-qcUxro",
-            flexGutterLarge: "flexGutterLarge-2kUiyw"
+            flex: "flex-2jV3-O",
+            flexChild: "flexChild-264qQb",
+            flexGutterSmall: "flexGutterSmall-BLRgN_",
+            flexGutterLarge: "flexGutterLarge-32Sp-o"
         }
     },
     8246: function(e, t, o) {
         e.exports = {
             contentWidthFullLimit: "1024px",
-            logo: "logo-1U_ovC",
-            clyde: "clyde-2-VPBZ logo-1U_ovC",
-            type: "type-1G6S2n logo-1U_ovC"
+            logo: "logo-2GtsgN",
+            clyde: "clyde-2dIHJc logo-2GtsgN",
+            type: "type-nLxGZY logo-2GtsgN"
         }
     },
     8247: function(e, t, o) {
         e.exports = {
             borderRadiusSmall: "3px",
             contentWidthRestrictedLimit: "848px",
-            localePicker: "localePicker-25NM64",
-            opener: "opener-eS3TVz",
-            openerOpen: "openerOpen-3j31zR",
-            line: "line-eyazOv",
-            icon: "icon-1xPIw1",
-            arrowIcon: "arrowIcon-1LteCS icon-1xPIw1",
-            localeIcon: "localeIcon-1lzrRW icon-1xPIw1",
-            hr: "hr-2P0HM7",
-            localeList: "localeList-4Zmfi9",
-            localeListClosed: "localeListClosed-2T1kCH localeList-4Zmfi9",
-            localeListOpen: "localeListOpen-3UmwZe localeList-4Zmfi9",
-            localeBase: "localeBase-27bssN",
-            locale: "locale-2fVnrF localeBase-27bssN",
-            localeCurrent: "localeCurrent-3CaiIC localeBase-27bssN",
-            localeImage: "localeImage-3HPI4s",
-            select: "select-3Go1Du"
+            localePicker: "localePicker-2IaUS0",
+            opener: "opener-1gbJjE",
+            openerOpen: "openerOpen-1DyrSm",
+            line: "line-2KGlQY",
+            icon: "icon-3EUOrr",
+            arrowIcon: "arrowIcon-3wbenA icon-3EUOrr",
+            localeIcon: "localeIcon-1f5Ol7 icon-3EUOrr",
+            hr: "hr-uKb6Q0",
+            localeList: "localeList-3zQemi",
+            localeListClosed: "localeListClosed-1uRysG localeList-3zQemi",
+            localeListOpen: "localeListOpen-3iM-8N localeList-3zQemi",
+            localeBase: "localeBase-268ej4",
+            locale: "locale-1y4ZA9 localeBase-268ej4",
+            localeCurrent: "localeCurrent-2f8AWH localeBase-268ej4",
+            localeImage: "localeImage-2sNjYq",
+            select: "select-2Zllkc"
         }
     },
     8248: function(e, t, o) {
         e.exports = {
             borderRadiusSmall: "3px",
             contentWidthRestrictedLimit: "848px",
-            divider: "divider-35ot9S",
-            moreList: "moreList-29ir-q",
-            moreListOpen: "moreListOpen-1gGlf8 moreList-29ir-q",
-            moreListClosed: "moreListClosed-2sZtk3 moreList-29ir-q",
-            moreListItem: "moreListItem-2_Z3Je",
-            moreListItemInactive: "moreListItemInactive-1v7PjS moreListItem-2_Z3Je",
-            moreListLink: "moreListLink-3U23th",
-            moreListItemActive: "moreListItemActive-MIosDj moreListItem-2_Z3Je",
-            moreListLinkCopy: "moreListLinkCopy-1NEMj_"
+            divider: "divider-3ATkKt",
+            moreList: "moreList-11p_Uv",
+            moreListOpen: "moreListOpen-3SnG4r moreList-11p_Uv",
+            moreListClosed: "moreListClosed-UDLj1G moreList-11p_Uv",
+            moreListItem: "moreListItem-lHqIN1",
+            moreListItemInactive: "moreListItemInactive-3jZijZ moreListItem-lHqIN1",
+            moreListLink: "moreListLink-184_S3",
+            moreListItemActive: "moreListItemActive-cutQeo moreListItem-lHqIN1",
+            moreListLinkCopy: "moreListLinkCopy-3teeWX"
         }
     },
     8249: function(e, t, o) {
         e.exports = {
-            mobileMenuItem: "mobileMenuItem-z_D6aZ",
-            mobileHeaderSubMenu: "mobileHeaderSubMenu-1ECibN",
-            mobileSubMenuOpen: "mobileSubMenuOpen-1H6ij6 mobileHeaderSubMenu-1ECibN",
-            mobileSubMenuClosed: "mobileSubMenuClosed-DSXPlm mobileHeaderSubMenu-1ECibN",
-            subListItem: "subListItem-2vz0O6",
-            subListItemLink: "subListItemLink-qR-Pa1",
-            subListItemActive: "subListItemActive-2nnyFs subListItem-2vz0O6",
-            subListItemInactive: "subListItemInactive-2wcecZ subListItem-2vz0O6",
-            desktopSubMenuItem: "desktopSubMenuItem-1fMXMo",
-            desktopMenuMore: "desktopMenuMore-351jZB",
-            iconArrow: "iconArrow-1Wc1CT"
+            mobileMenuItem: "mobileMenuItem-3m_xj3",
+            mobileHeaderSubMenu: "mobileHeaderSubMenu-2LwbZZ",
+            mobileSubMenuOpen: "mobileSubMenuOpen-3x1YsT mobileHeaderSubMenu-2LwbZZ",
+            mobileSubMenuClosed: "mobileSubMenuClosed-2yI6V7 mobileHeaderSubMenu-2LwbZZ",
+            subListItem: "subListItem-3rCjSn",
+            subListItemLink: "subListItemLink-10i5Lc",
+            subListItemActive: "subListItemActive-3GACT- subListItem-3rCjSn",
+            subListItemInactive: "subListItemInactive-pcWNzW subListItem-3rCjSn",
+            desktopSubMenuItem: "desktopSubMenuItem-1Ykcka",
+            desktopMenuMore: "desktopMenuMore-l0UOgd",
+            iconArrow: "iconArrow-1VY5Hd"
         }
     },
     8250: function(e, t, o) {
         e.exports = {
             contentWidthFullLimit: "1024px",
-            header: "header-1Zm1at",
-            headerInner: "headerInner-3WwzEA",
-            headerLogo: "headerLogo-TcWpbY",
-            skipToContent: "skipToContent-2u59mW",
-            logo: "logo-BkKbcr",
-            headerNav: "headerNav-IBNU4s",
-            headerNavRight: "headerNavRight-yKnar8",
-            listItem: "listItem-1ra-Bk",
-            listItemInactive: "listItemInactive-396Xk8 listItem-1ra-Bk",
-            listItemActive: "listItemActive-3Vb7bW listItem-1ra-Bk",
-            navLink: "navLink-DPGG6D",
-            mainNavLink: "mainNavLink-Z3uwQ7 navLink-DPGG6D",
-            rightNavLink: "rightNavLink-5uvsNo navLink-DPGG6D",
-            appButton: "appButton-3GZ9-9",
-            desktopSubMenuItem: "desktopSubMenuItem-2CCvU9",
-            desktopMenuMore: "desktopMenuMore-vBoGnq",
-            iconArrow: "iconArrow-3tdk9V",
-            listItemSocialMedia: "listItemSocialMedia-RWHjN1"
+            header: "header-2Z0RC5",
+            headerInner: "headerInner-3l0gre",
+            headerLogo: "headerLogo-2dTiQd",
+            skipToContent: "skipToContent-2sfMWq",
+            logo: "logo-bM13MH",
+            headerNav: "headerNav-3duBda",
+            headerNavRight: "headerNavRight-ltJnme",
+            listItem: "listItem-27TD-I",
+            listItemInactive: "listItemInactive-2QUAeC listItem-27TD-I",
+            listItemActive: "listItemActive-1VNBaI listItem-27TD-I",
+            navLink: "navLink-1iTBqC",
+            mainNavLink: "mainNavLink-1UmOkJ navLink-1iTBqC",
+            rightNavLink: "rightNavLink-3pMf8T navLink-1iTBqC",
+            appButton: "appButton-3PBVIc",
+            desktopSubMenuItem: "desktopSubMenuItem-1IYZZL",
+            desktopMenuMore: "desktopMenuMore-1IP46G",
+            iconArrow: "iconArrow-3jLYM4",
+            listItemSocialMedia: "listItemSocialMedia-gHZEeR"
         }
     },
     8251: function(e, t, o) {
         e.exports = {
-            btnHamburger: "btnHamburger-3grAP3",
-            btnHamburgerOpen: "btnHamburgerOpen-5Ig7r6"
+            btnHamburger: "btnHamburger-1uQpod",
+            btnHamburgerOpen: "btnHamburgerOpen-2LHDJQ"
         }
     },
     8252: function(e, t, o) {
         e.exports = {
-            header: "header-3aRurq",
-            headerInner: "headerInner-2w4ICT",
-            hamburgerButton: "hamburgerButton-3ewXOy",
-            headerLogo: "headerLogo-tb03Nu",
-            logoWrapper: "logoWrapper-3agQ6A",
-            logo: "logo-3FcuSx",
-            headerNav: "headerNav-QStAAj",
-            headerNavOpen: "headerNavOpen-3-xIDP headerNav-QStAAj",
-            headerSubNavOpen: "headerSubNavOpen-46T5Q_",
-            mainNavLink: "mainNavLink-1SwQrC",
-            localePicker: "localePicker-2GReqC"
+            header: "header-3Q96EX",
+            headerInner: "headerInner-3BOEIL",
+            hamburgerButton: "hamburgerButton-2UixKk",
+            headerLogo: "headerLogo-IsoUJA",
+            logoWrapper: "logoWrapper-1Cp7GK",
+            logo: "logo-3huKjV",
+            headerNav: "headerNav-1zKqFG",
+            headerNavOpen: "headerNavOpen-2iqggx headerNav-1zKqFG",
+            headerSubNavOpen: "headerSubNavOpen-1fK1jw",
+            mainNavLink: "mainNavLink-1JsuT3",
+            localePicker: "localePicker-2ce29q"
         }
     },
     8253: function(e, t, o) {
         e.exports = {
             contentWidthRestrictedLimit: "848px",
-            mobileHeader: "mobileHeader-2xB92D",
-            desktopHeader: "desktopHeader-3za0nJ"
+            mobileHeader: "mobileHeader-3jnkN-",
+            desktopHeader: "desktopHeader-bjSB2N"
         }
     }
 }]);
-//# sourceMappingURL=4c109ea2ab8aa0256a39.js.map
+//# sourceMappingURL=9eb6ef547acd0dce4206.js.map
