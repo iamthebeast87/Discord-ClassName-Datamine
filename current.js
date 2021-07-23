@@ -1,5 +1,5 @@
 (this.webpackJsonp = this.webpackJsonp || []).push([[0], {
-    1176: function(e, t, o) {
+    1177: function(e, t, o) {
         e.exports = {
             flex: "flex-1O1GKY",
             alignStart: "alignStart-H-X2h-",
@@ -9012,8 +9012,7 @@
             title: "title-1VcOOr",
             description: "description-2ydcYn",
             separator: "separator-2IZ9ro",
-            action: "action-yrVND8",
-            actionRed: "actionRed-gYn8D3"
+            action: "action-yrVND8"
         }
     },
     7858: function(e, t, o) {
@@ -13736,4 +13735,4 @@
         }
     }
 }]);
-//# sourceMappingURL=216cf3c5cc2e734ec586.js.map
+//# sourceMappingURL=2da20ce2167217f111c8.js.map
