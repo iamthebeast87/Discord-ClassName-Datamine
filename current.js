@@ -4579,13 +4579,14 @@
         e.exports = {
             scrollbarGhostHairline: "scrollbarGhostHairline-1mSOM1 scrollbar-3dvm_9",
             autocomplete: "autocomplete-OOX59Q",
+            autocompleteAttached: "autocompleteAttached-2QfAgp",
+            autocompletePopout: "autocompletePopout-3RFUaB",
             autocompleteInner: "autocompleteInner-2mQ2AK",
             scroller: "scroller-lynW5A",
             horizontalAutocompletes: "horizontalAutocompletes-2Au_7M scrollbarGhostHairline-1mSOM1 scrollbar-3dvm_9",
             horizontalAutocomplete: "horizontalAutocomplete-2eOPOM",
             stickerAutoComplete: "stickerAutoComplete-8m0OB5",
-            sticker: "sticker-r2nFri",
-            autocompleteLayer: "autocompleteLayer-3dCCbQ"
+            sticker: "sticker-r2nFri"
         }
     },
     7525: function(e, t, o) {
@@ -13852,4 +13853,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ac56b047dda3df07d4ab.js.map
+//# sourceMappingURL=b6bcb44341fdf226c3cf.js.map
