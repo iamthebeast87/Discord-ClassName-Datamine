@@ -2761,7 +2761,8 @@
             descriptionInput: "descriptionInput-3XMwZd",
             guidelines: "guidelines-1NSoht",
             creationIntentCheckbox: "creationIntentCheckbox-1rWz6L",
-            creationIntentText: "creationIntentText-3OlELP"
+            creationIntentText: "creationIntentText-3OlELP",
+            formItemSpaced: "formItemSpaced-3enUE5"
         }
     },
     7388: function(e, t, o) {
@@ -8151,7 +8152,14 @@
             buttonSkipLeftAlign: "buttonSkipLeftAlign-2Oe1kC",
             bodyCenter: "bodyCenter-1ilK3X body-2awMwV",
             bodyLeft: "bodyLeft-3Dnrhp body-2awMwV",
-            buttonContainer: "buttonContainer-lZQm0q"
+            buttonContainer: "buttonContainer-lZQm0q",
+            popoutRoot: "popoutRoot-2_6ixn",
+            arrowAlignmentMiddle: "arrowAlignmentMiddle-3hjNrc",
+            arrowAlignmentTop: "arrowAlignmentTop-1OMEr_",
+            top: "top-1rb3Cd",
+            right: "right-1r4pvL",
+            left: "left-1upd_m",
+            bottom: "bottom-190V6V"
         }
     },
     7796: function(e, t, o) {
@@ -10487,12 +10495,24 @@
     8e3: function(e, t, o) {
         e.exports = {
             content: "content-3n1cMX",
-            cameraPreview: "cameraPreview-3VbjBn",
+            spacingTop24: "spacingTop24-S72TI3",
+            cameraPreview: "cameraPreview-3VbjBn spacingTop24-S72TI3",
             selector: "selector-23Ycqr",
             header: "header-1EVHO2",
             subtitle: "subtitle-gARoTt",
             spinner: "spinner-2D09Su",
-            camera: "camera-1WWmPt"
+            camera: "camera-1WWmPt",
+            backgroundHeader: "backgroundHeader-2YaToV spacingTop24-S72TI3",
+            centerTooltip: "centerTooltip-3YlBzk",
+            backgroundUploadClickArea: "backgroundUploadClickArea-kd58NX",
+            backgroundUploadIcon: "backgroundUploadIcon-2Q0NFr",
+            backgroundOptions: "backgroundOptions-1udQjW",
+            backgroundOption: "backgroundOption-3m7_FN",
+            backgroundImageOption: "backgroundImageOption-4wUYmY",
+            backgroundOptionSelected: "backgroundOptionSelected-2RlXag",
+            backgroundOptionContent: "backgroundOptionContent-3lAyb6",
+            backgroundIconOptionIcon: "backgroundIconOptionIcon-3VYqrZ",
+            backgroundOptionBlurBackground: "backgroundOptionBlurBackground-Ctv9hd backgroundImageOption-4wUYmY"
         }
     },
     8001: function(e, t, o) {
@@ -10991,6 +11011,7 @@
             emptyContainer: "emptyContainer-3igXli",
             emptyImage: "emptyImage-3_Eu72",
             emptyText: "emptyText-1yC1e0",
+            overflowIcon: "overflowIcon-19KJKA",
             trashIcon: "trashIcon-16rdgr"
         }
     },
@@ -11707,7 +11728,9 @@
             searchBox: "searchBox-2R4IbA",
             searchBoxInput: "searchBoxInput-E9B4FK",
             closeIcon: "closeIcon-gJtlxl",
-            searchIcon: "searchIcon-1EWivs"
+            searchIcon: "searchIcon-1EWivs",
+            tabBar: "tabBar-3vBfsG",
+            tabBarItem: "tabBarItem-1bnCUj"
         }
     },
     8115: function(e, t, o) {
@@ -13823,4 +13846,4 @@
         }
     }
 }]);
-//# sourceMappingURL=ff23a46d11a4903e9a35.js.map
+//# sourceMappingURL=e9a28745520e396a155a.js.map
