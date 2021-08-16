@@ -7045,12 +7045,13 @@
             overrideHighlight: "overrideHighlight-YPcBxt",
             removeOverride: "removeOverride-2sdvVX",
             overridePlaceholder: "overridePlaceholder-14_rPI",
-            iconContainer: "iconContainer-2h8jYA",
+            nameContainer: "nameContainer-2wY6sG",
             icon: "icon-IkZExu lighten-kLb06a",
             overrideHeader: "overrideHeader-367JNH lighten-kLb06a",
             header: "header-3Uqp87",
             headerName: "headerName-2n9eUZ header-3Uqp87",
             headerOption: "headerOption-3qo9Ph header-3Uqp87",
+            channelNameContainer: "channelNameContainer-1PGmUU",
             channelName: "channelName-28iMRJ",
             channelNameByline: "channelNameByline-R73-tU lighten-kLb06a",
             channelNameCategory: "channelNameCategory-mxHe-m",
@@ -10901,9 +10902,13 @@
             backgroundHeader: "backgroundHeader-1XLrO1 spacingTop24-2TKHkv",
             backgroundHeaderLeft: "backgroundHeaderLeft-1ABfi9",
             betaTag: "betaTag-ECPmWf",
-            centerTooltip: "centerTooltip-1AwOoQ",
+            tooltip: "tooltip-Vs2HJU",
             backgroundUploadClickArea: "backgroundUploadClickArea-VIZvmA",
-            backgroundUploadIcon: "backgroundUploadIcon-1OuiDo",
+            backgroundUploadIcon: "backgroundUploadIcon-1OuiDo backgroundUploadIconBase-3Y_gqP",
+            backgroundUploadIconBase: "backgroundUploadIconBase-3Y_gqP",
+            backgroundUploadIconDisabled: "backgroundUploadIconDisabled-3IzDiu backgroundUploadIconBase-3Y_gqP",
+            backgroundCustomUpsellTooltipInner: "backgroundCustomUpsellTooltipInner-160RF-",
+            backgroundCustomUpsellTooltipIcon: "backgroundCustomUpsellTooltipIcon-siX72v",
             backgroundUpsell: "backgroundUpsell-1mW4tw",
             backgroundOptions: "backgroundOptions-2NdDN_",
             backgroundOption: "backgroundOption-3SYprY",
@@ -10911,8 +10916,12 @@
             backgroundOptionSelected: "backgroundOptionSelected-33AYZn",
             backgroundOptionContent: "backgroundOptionContent-24R4fn",
             backgroundIconOptionIcon: "backgroundIconOptionIcon-_LqemE",
-            backgroundOptionBlur: "backgroundOptionBlur-1R86yP",
-            backgroundOptionBlurBackground: "backgroundOptionBlurBackground-3c3gSC backgroundImageOption-127aO7"
+            backgroundOptionBlurred: "backgroundOptionBlurred-2TpdE8",
+            backgroundOptionBackgroundBlurred: "backgroundOptionBackgroundBlurred-2J0z6O backgroundImageOption-127aO7",
+            backgroundOptionBlurBackground: "backgroundOptionBlurBackground-3c3gSC backgroundOptionBackgroundBlurred-2J0z6O backgroundImageOption-127aO7",
+            backgroundCustomInlineUpsellBackground: "backgroundCustomInlineUpsellBackground-1q8bd1 backgroundOptionBackgroundBlurred-2J0z6O backgroundImageOption-127aO7",
+            backgroundCustomInlineUpsell: "backgroundCustomInlineUpsell-1aMMlC",
+            backgroundCustomInlineUpsellIcon: "backgroundCustomInlineUpsellIcon-GmWo_F"
         }
     },
     8099: function(e, t, o) {
@@ -14350,4 +14359,4 @@
         }
     }
 }]);
-//# sourceMappingURL=38463e11c50f0af03e9c.js.map
+//# sourceMappingURL=43d555a72229c3836c26.js.map
