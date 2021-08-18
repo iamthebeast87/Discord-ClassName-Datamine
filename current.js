@@ -1456,6 +1456,8 @@
             description: "description-RQzS-K",
             descriptionIcon: "descriptionIcon-1UHIIr",
             expand: "expand-1g95ZR",
+            downloadInvoice: "downloadInvoice-2urqS3",
+            downloadRefundInvoice: "downloadRefundInvoice-2uVU-I",
             refundSubHeader: "refundSubHeader-3hp-GM",
             refundSelect: "refundSelect-JoPzvz",
             refundCriteria: "refundCriteria-o9V-c2",
@@ -14395,4 +14397,4 @@
         }
     }
 }]);
-//# sourceMappingURL=17def6b8d5a00be7af5b.js.map
+//# sourceMappingURL=f933d73c7aa419e684ac.js.map
